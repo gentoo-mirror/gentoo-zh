@@ -12,7 +12,7 @@ HOMEPAGE="http://www.wps.cn/product/wpslinux/ http://wps-community.org/"
 KEYWORDS="amd64"
 
 SRC_URI="
-	amd64? ( http://kdl.cc.ksosoft.com/wps-community/download/${MY_PV}/${PN}_${PV}_amd64.deb )
+	amd64?(http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/9080/wps-office_11.1.0.9080.XA_amd64.deb)
 "
 
 SLOT="0"
