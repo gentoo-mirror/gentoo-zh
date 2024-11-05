@@ -1,0 +1,15 @@
+BDEPEND=dev-util/patchelf
+DEFINED_PHASES=compile install postinst postrm preinst prepare unpack
+DESCRIPTION=WeChat (Universal) with bwrap sandbox
+EAPI=8
+HOMEPAGE=https://weixin.qq.com https://github.com/7Ji-PKGBUILDs/wechat-universal-bwrap
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop toolchain-funcs unpacker xdg
+KEYWORDS=-* ~amd64 ~arm64 ~loong
+LICENSE=all-rights-reserved GPL-2
+RDEPEND=app-accessibility/at-spi2-core:2 dev-libs/expat dev-libs/glib:2 dev-libs/nspr dev-libs/nss dev-libs/openssl-compat:1.1.1 dev-libs/wayland media-libs/alsa-lib media-libs/fontconfig media-libs/freetype media-libs/libglvnd media-libs/mesa media-libs/tiff-compat:4 sys-apps/dbus sys-libs/zlib x11-libs/cairo x11-libs/libdrm x11-libs/libX11 x11-libs/libxcb x11-libs/libXcomposite x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libxkbcommon x11-libs/libXrandr x11-libs/libXrender x11-libs/pango x11-libs/xcb-util-image x11-libs/xcb-util-keysyms x11-libs/xcb-util-renderutil x11-libs/xcb-util-wm sys-apps/bubblewrap sys-apps/lsb-release x11-misc/flatpak-xdg-utils x11-misc/xdg-user-dirs loong? ( virtual/loong-ow-compat )
+RESTRICT=bindist strip mirror
+SLOT=0
+SRC_URI=amd64? ( https://home-store-packages.uniontech.com/appstore/pool/appstore/c/com.tencent.wechat/com.tencent.wechat_4.0.0.21_amd64.deb ) arm64? ( https://home-store-packages.uniontech.com/appstore/pool/appstore/c/com.tencent.wechat/com.tencent.wechat_4.0.0.21_arm64.deb ) loong? ( https://home-store-packages.uniontech.com/appstore/pool/appstore/c/com.tencent.wechat/com.tencent.wechat_4.0.0.21_loongarch64.deb ) https://github.com/7Ji-PKGBUILDs/wechat-universal-bwrap/archive/e0982191c6940f1bdcae87786cf8e5badfaf65c9.tar.gz -> wechat-universal-bwrap-e0982191c6940f1bdcae87786cf8e5badfaf65c9.tar.gz
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=6f2123e2fbae0334a227a835906714ce
