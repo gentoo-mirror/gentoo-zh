@@ -317,7 +317,7 @@ www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
 x11-misc/extramaus 3: workaround to always show mouse cursor under x11
-x11-misc/flatpak-xdg-utils 1.0.5: Utilities for containerized apps to launch programs outside the container
+x11-misc/flatpak-xdg-utils 1.0.6: Utilities for containerized apps to launch programs outside the container
 x11-misc/fqterm 0.9.10.1 9999: a modern terminal emulator for Linux
 x11-misc/i3lock-color 9999: An improved i3lock
 x11-misc/i3lock-fancy 9999: A fancy i3lock
