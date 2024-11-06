@@ -193,7 +193,7 @@ media-sound/go-musicfox 4.5.7: Command-line Netease Cloud Music written in Go
 media-sound/listen1_desktop-bin 2.32.0: one for all free music in China
 media-sound/lx-music-desktop-bin 2.2.2: 一个基于 electron 的音乐软件
 media-sound/netease-cloud-music 1.2.1: Netease Cloud Music, converted from .deb package
-media-sound/netease-cloud-music-gtk 2.4.1: netease cloud music player based on Rust & GTK for Linux
+media-sound/netease-cloud-music-gtk 2.5.0: netease cloud music player based on Rust & GTK for Linux
 media-sound/qqmusic 1.1.7: Tencent QQ Music, converted from .deb package
 media-sound/spotube-bin 3.8.3: A lightweight Spotify client using YouTube as audio source
 media-sound/termusic 0.9.1: Terminal Music and Podcast Player written in Rust
@@ -268,7 +268,7 @@ net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2024.11.02: A fork of trojan-go
 net-proxy/v2ray 5.21.0 5.22.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.12.1-r1: A platform for building proxies to bypass network restrictions
-net-proxy/v2rayA 2.2.6 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
+net-proxy/v2rayA 2.2.6.2 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.6: Yet Another Clash Dashboard
 net-proxy/yass 1.15.3: lightweight and efficient, socks5/http forward proxy
 net-vpn/cloudflared-bin 2024.10.1: Cloudflare Tunnel client (formerly Argo Tunnel)
