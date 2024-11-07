@@ -1,0 +1,15 @@
+BDEPEND=dev-util/patchelf
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DESCRIPTION=Weixin for Linux
+EAPI=8
+HOMEPAGE=https://linux.weixin.qq.com
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=unpacker desktop xdg
+KEYWORDS=-* ~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-accessibility/at-spi2-core dev-libs/nss media-libs/libpulse media-libs/mesa virtual/jack x11-libs/libXcomposite x11-libs/libXdamage x11-libs/libxkbcommon[X] x11-libs/libXrandr x11-libs/pango x11-libs/xcb-util-image x11-libs/xcb-util-keysyms x11-libs/xcb-util-renderutil x11-libs/xcb-util-wm
+RESTRICT=strip mirror bindist
+SLOT=0
+SRC_URI=https://dldir1v6.qq.com/weixin/Universal/Linux/WeChatLinux_x86_64.deb -> WeChatLinux-4.0.0.30_x86_64.deb
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=c5fdcc5603475e21ea93b6597dba248c
