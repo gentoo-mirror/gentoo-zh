@@ -270,7 +270,7 @@ net-proxy/trojan-go-fork 2024.11.02: A fork of trojan-go
 net-proxy/v2ray 5.21.0 5.22.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.21.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.2 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
-net-proxy/yacd-meta 0.3.6: Yet Another Clash Dashboard
+net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.15.3: lightweight and efficient, socks5/http forward proxy
 net-vpn/cloudflared-bin 2024.11.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
@@ -332,6 +332,6 @@ x11-themes/klassy 4.0.5.25.80-r1: Highly customizable theme plugin for KDE Plasm
 x11-themes/kora-icon-theme 1.6.1: An SVG icon theme with lots of new icons for GNU/Linux operating systems
 x11-themes/nordic 2.1.0 2.2.0-r1: Dark Gtk3.20+ theme created using the awesome Nord color pallete
 x11-themes/nordzy-cursors 0.5.0 0.6.0: Cursor theme using the Nord color palette and based on Vimix and cz-Viator
-x11-themes/nordzy-icon 1.5 1.6: A free and open source icon theme for Linux desktops using the Nord color palette
+x11-themes/nordzy-icon 1.5 1.8.7: A free and open source icon theme for Linux desktops using the Nord color palette
 x11-wm/chamferwm 9999: A tiling X11 window manager with Vulkan compositor.
 x11-wm/hypr 1.1.4 9999: A dynamic Linux tiling window manager for Xorg
