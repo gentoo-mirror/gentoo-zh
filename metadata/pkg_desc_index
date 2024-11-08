@@ -61,7 +61,7 @@ app-i18n/fcitx-m17n 9999: m17n-provided input methods for Fcitx5
 app-i18n/fcitx-meta 5.0.12-r2: Merge this to pull in Fcitx packages
 app-i18n/fcitx-qt 9999: Qt library and IM module for fcitx5
 app-i18n/fcitx-rime 9999: Rime Support for Fcitx5
-app-i18n/fcitx-skk 5.1.4 9999: Japanese SKK input engine for Fcitx5
+app-i18n/fcitx-skk 5.1.5 9999: Japanese SKK input engine for Fcitx5
 app-i18n/ibus-rime 9999: Rime Input Method Engine for IBus Framework
 app-i18n/libime 9999: Fcitx5 Next generation of fcitx
 app-i18n/libime-jyutping 1.0.12: A library make use of libime to implement jyutping input method
@@ -268,7 +268,7 @@ net-proxy/sing-box 1.9.7 1.10.1: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2024.11.02: A fork of trojan-go
 net-proxy/v2ray 5.21.0 5.22.0: A platform for building proxies to bypass network restrictions.
-net-proxy/v2ray-bin 4.45.0-r2 5.12.1-r1: A platform for building proxies to bypass network restrictions
+net-proxy/v2ray-bin 4.45.0-r2 5.21.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.2 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.6: Yet Another Clash Dashboard
 net-proxy/yass 1.15.3: lightweight and efficient, socks5/http forward proxy
