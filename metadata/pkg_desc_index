@@ -109,7 +109,7 @@ dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
-dev-libs/libratbag 0.17.9: Library to configure gaming mice
+dev-libs/libratbag 0.18: Library to configure gaming mice
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
