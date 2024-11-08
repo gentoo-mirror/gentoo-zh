@@ -234,7 +234,7 @@ net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Li
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
 net-misc/biliup-app 0.4.1-r2: A Tool for Upload video to bilibili
-net-misc/biliup-app-bin 0.4.1: A Tool for Upload video to bilibili
+net-misc/biliup-app-bin 0.5.3: A Tool for Upload video to bilibili
 net-misc/biliup-rs 0.2.1: Upload video to bilibili.
 net-misc/geo 1.1: An easy way to manage all your Geo resources
 net-misc/localsend-bin 1.16.1: An open-source cross-platform alternative to AirDrop
