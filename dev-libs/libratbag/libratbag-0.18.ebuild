@@ -1,18 +1,16 @@
-# Copyright 1999-2023 Gentoo Authors
+# Copyright 1999-2024 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{9..11} )
+PYTHON_COMPAT=( python3_{9..12} )
 
 inherit meson python-single-r1 systemd udev
 
 DESCRIPTION="Library to configure gaming mice"
 HOMEPAGE="https://github.com/libratbag/libratbag"
 
-SRC_URI="https://github.com/${PN}/${PN}/archive/ada99fb72e45e8e8555308ceb40ab8349e8d70b1.tar.gz -> ${P}.tar.gz"
-
-S="${WORKDIR}/${PN}-ada99fb72e45e8e8555308ceb40ab8349e8d70b1"
+SRC_URI="https://github.com/libratbag/libratbag/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
@@ -37,10 +35,10 @@ BDEPEND="
 	test? (
 		dev-libs/check
 		dev-libs/gobject-introspection
-		dev-util/valgrind
+		dev-debug/valgrind
 		$(python_gen_cond_dep '
 			dev-python/pygobject:3[${PYTHON_USEDEP}]
-			dev-python/python-evdev[${PYTHON_USEDEP}]
+			dev-python/evdev[${PYTHON_USEDEP}]
 		')
 	)
 "
@@ -54,7 +52,7 @@ RDEPEND="
 	virtual/libudev:=
 	$(python_gen_cond_dep '
 		dev-python/pygobject:3[${PYTHON_USEDEP}]
-		dev-python/python-evdev[${PYTHON_USEDEP}]
+		dev-python/evdev[${PYTHON_USEDEP}]
 	')
 	elogind? ( sys-auth/elogind )
 	systemd? ( sys-apps/systemd )
