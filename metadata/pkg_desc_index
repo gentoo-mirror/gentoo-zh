@@ -113,7 +113,7 @@ dev-libs/libratbag 0.18: Library to configure gaming mice
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
-dev-libs/tdlib 1.5.0 1.6.0 9999: Cross-platform library for building Telegram clients
+dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
 dev-libs/v2ray-domain-list-community 20241013063848: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241013063848: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202410310053: GeoIP for V2Ray.
