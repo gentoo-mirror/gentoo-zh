@@ -201,7 +201,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.6: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.14.2_p1: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.15.2_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/mpv-handler 0.3.13: Play website videos and songs with mpv & yt-dlp
 media-video/tenvideo 1.0.10: Tencent videos
@@ -302,7 +302,7 @@ sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
 sys-kernel/xanmod-sources 6.11.4: Full XanMod source, including the Gentoo patchset and other patch options.
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
-sys-libs/libsolv 0.7.28: Library for solving packages and reading repositories
+sys-libs/libsolv 0.7.30: Library for solving packages and reading repositories
 sys-power/tlpui 1.7.1: A GTK user interface for TLP written in Python
 virtual/dist-kernel 6.11.4: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
@@ -334,4 +334,4 @@ x11-themes/nordic 2.1.0 2.2.0-r1: Dark Gtk3.20+ theme created using the awesome 
 x11-themes/nordzy-cursors 0.5.0 0.6.0: Cursor theme using the Nord color palette and based on Vimix and cz-Viator
 x11-themes/nordzy-icon 1.5 1.6: A free and open source icon theme for Linux desktops using the Nord color palette
 x11-wm/chamferwm 9999: A tiling X11 window manager with Vulkan compositor.
-x11-wm/hypr 1.1.3 9999: A dynamic Linux tiling window manager for Xorg
+x11-wm/hypr 1.1.4 9999: A dynamic Linux tiling window manager for Xorg
