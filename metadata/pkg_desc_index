@@ -27,7 +27,7 @@ app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distr
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-crypt/cfssl 1.6.5: Cloudflare's PKI and TLS toolkit
 app-dicts/fcitx-pinyin-moegirl 20241009: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-moegirl-bin 20240809: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-moegirl-bin 20241009: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20241020: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20240909: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20240722: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
@@ -104,7 +104,7 @@ dev-cpp/tl-expected 1.1.0: Guideline Support Library implementation by Microsoft
 dev-db/dbeaver-bin 24.2.4: Free universal database tool (community edition).
 dev-db/mongodb 5.3.1 6.2.0-r4: A high-performance, open source, schema-free document-oriented database
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
-dev-java/google-java-format 1.22.0: Reformats Java source code to comply with Google Java Style.
+dev-java/google-java-format 1.24.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
