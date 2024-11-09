@@ -8,6 +8,6 @@ KEYWORDS=~amd64
 LICENSE=all-rights-reserved
 RESTRICT=mirror strip bindist
 SLOT=0
-SRC_URI=https://uu.gdl.netease.com/uuplugin/steam-deck-plugin-x86_64/v4.14.4/uu.tar.gz -> uuplugin-4.14.4.tar.gz
+SRC_URI=https://uu.gdl.netease.com/uuplugin/steam-deck-plugin-x86_64/v7.12.12/uu.tar.gz -> uuplugin-7.12.12.tar.gz
 _eclasses_=toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0
 _md5_=689cfd069f0eb636d197c6fb38679f73
