@@ -289,7 +289,6 @@ sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary pack
 sys-apps/pnpm 8.15.4: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
 sys-boot/ventoy-bin 1.0.99: A new multiboot USB solution
-sys-fs/erofs-utils 1.3: Userspace tools for EROFS images
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
 sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
