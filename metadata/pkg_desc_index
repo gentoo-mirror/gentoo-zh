@@ -210,7 +210,7 @@ net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
 net-dns/ddns-go 6.7.5: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
-net-dns/dog 0.1.0-r1 0.1.0_p20211007: A command-line DNS client
+net-dns/dog 0.1.0-r1 0.1.0_p20211007-r1: A command-line DNS client
 net-dns/libidn11 1.33: Internationalized Domain Names (IDN) implementation
 net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
