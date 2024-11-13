@@ -168,7 +168,7 @@ media-fonts/lxgw-neo-zhisong 1.021: An open-source Chinese font derived from IPA
 media-fonts/misans 4.003-r1: MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 media-fonts/nerd-fonts 3.2.1: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/sarasa-gothic 1.0.23: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
-media-fonts/sarasa-term-sc-nerd 2.1.0: Sarasa Mono SC font patched with Nerd fonts
+media-fonts/sarasa-term-sc-nerd 2.1.1: Sarasa Mono SC font patched with Nerd fonts
 media-fonts/smiley-sans 2.0.1: An open-source font for Chinese.
 media-fonts/taipei-sans-tc 1.0: JT Foundry - Taipei Sans TC Beta font
 media-fonts/tiejili 1.100: An open-source font that extends Reggae One to Chinese.
@@ -267,7 +267,7 @@ net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern
 net-proxy/shadowsocks-rust 1.21.0 1.21.2: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.9.7 1.10.1: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
-net-proxy/trojan-go-fork 2024.11.10: A fork of trojan-go
+net-proxy/trojan-go-fork 2024.11.13: A fork of trojan-go
 net-proxy/v2ray 5.21.0 5.22.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.21.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.2 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
@@ -302,7 +302,7 @@ sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
 sys-kernel/xanmod-sources 6.11.4: Full XanMod source, including the Gentoo patchset and other patch options.
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
-sys-libs/libsolv 0.7.30: Library for solving packages and reading repositories
+sys-libs/libsolv 0.7.31: Library for solving packages and reading repositories
 sys-power/tlpui 1.7.1: A GTK user interface for TLP written in Python
 virtual/dist-kernel 6.11.4: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
