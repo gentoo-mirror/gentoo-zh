@@ -8,5 +8,5 @@ LICENSE=Unlicense CC-BY-NC-SA-3.0
 RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fcitx-rime ) ) !app-dicts/fcitx-pinyin-moegirl
 REQUIRED_USE=|| ( fcitx rime )
 SLOT=5
-SRC_URI=fcitx? ( https://github.com/outloudvi/mw2fcitx/releases/download/20241009/moegirl.dict -> fcitx-pinyin-moegirl-bin-20241009.dict ) rime? ( https://github.com/outloudvi/mw2fcitx/releases/download/20241009/moegirl.dict.yaml -> fcitx-pinyin-moegirl-bin-20241009.dict.yaml )
+SRC_URI=fcitx? ( https://github.com/outloudvi/mw2fcitx/releases/download/20241109/moegirl.dict -> fcitx-pinyin-moegirl-bin-20241109.dict ) rime? ( https://github.com/outloudvi/mw2fcitx/releases/download/20241109/moegirl.dict.yaml -> fcitx-pinyin-moegirl-bin-20241109.dict.yaml )
 _md5_=de9d4101ab3e88de9482a5728e715575
