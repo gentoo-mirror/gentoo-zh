@@ -140,7 +140,7 @@ dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop wi
 dev-util/android-studio 2024.2.1.10: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 28-r1: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.14.1: Manage all your runtime versions with one tool
-dev-util/cargo-about 0.6.4: Cargo plugin to generate list of all licenses for a crate
+dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.1.34629: Manage all your JetBrains Projects and Tools
 dev-util/mamba 1.5.8: The Fast Cross-Platform Package Manager
 dev-util/mongodb-compass-bin 1.44.7: The GUI for MongoDB
@@ -152,7 +152,7 @@ dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Taur
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.38.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 8.39: Opensource Git GUI client.
-games-arcade/osu-lazer 2024.1009.1: rhythm is just a *click* away!
+games-arcade/osu-lazer 2024.1115.3: rhythm is just a *click* away!
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
@@ -260,7 +260,7 @@ net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.1.15: Custom protocol, rule based network proxy
 net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 0.8.0 0.9.0_rc1 9999: A lightweight and high-performance transparent proxy solution based on eBPF
-net-proxy/daed 0.7.0 9999: A Modern Dashboard For dae
+net-proxy/daed 0.8.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.0: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/mihomo 1.18.10: Another Clash Kernel, formerly Clash.Meta
