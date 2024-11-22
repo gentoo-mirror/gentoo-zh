@@ -105,7 +105,7 @@ dev-cpp/tl-expected 1.1.0: Guideline Support Library implementation by Microsoft
 dev-db/dbeaver-bin 24.2.5: Free universal database tool (community edition).
 dev-db/mongodb 5.3.1 6.2.0-r4: A high-performance, open source, schema-free document-oriented database
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
-dev-java/google-java-format 1.24.0: Reformats Java source code to comply with Google Java Style.
+dev-java/google-java-format 1.25.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
