@@ -7,4 +7,4 @@ KEYWORDS=~amd64
 LICENSE=GPL-2
 RDEPEND=archroot? ( sys-apps/arch-chroot ) genfstab? ( sys-fs/genfstab ) pacstrap? ( dev-util/pacstrap )
 SLOT=0
-_md5_=06f5bd1c9100acfe7765b6de801c2b93
+_md5_=fc86fc491c45cd860eb5792d046889a1
