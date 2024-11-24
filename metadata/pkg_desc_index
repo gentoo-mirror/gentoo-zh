@@ -80,7 +80,7 @@ app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 22.11.3656 23.07.201366-r1: Brainstorming and Mind Mapping Software
 app-misc/yazi 0.3.3: Blazing fast terminal file manager written in Rust, based on async I/O.
-app-office/anytype-bin 0.35.4 0.43.6: A notebook based on p2p network
+app-office/anytype-bin 0.35.4 0.43.7: A notebook based on p2p network
 app-office/bytedance-feishu 7.15.13 7.15.13-r1 7.18.11 7.22.9: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
@@ -228,7 +228,7 @@ net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (
 net-im/weixin-uos 2.1.8: UOS weixin
 net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400: Wemeet - Tencent Video Conferencing
 net-libs/jzmq 9999: jzmq
-net-misc/alist 3.32.0 3.39.4: A file list/WebDAV program that supports multiple storages
+net-misc/alist 3.32.0 3.40.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.2.8: aliyunpan cli client, support Webdav service, JavaScript plugin
 net-misc/apifox 2.5.19: API 文档、API 调试、API Mock、API 自动化测试
