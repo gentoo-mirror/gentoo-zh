@@ -32,7 +32,7 @@ app-dicts/fcitx-pinyin-sougou-baidu 20241020: Sougou & Baidu Pinyin dictionary f
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20240909: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20240722: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.7.4: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.42.5: Cursor App - AI-first coding environment
+app-editors/cursor 0.43.3: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.9.3: A truely minimal markdown editor.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -150,7 +150,7 @@ dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly ID
 dev-util/tailspin 4.0.0: A log file highlighter
 dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Tauri apps
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
-dev-vcs/gitoxide 0.38.0: A command-line application for interacting with git repositories
+dev-vcs/gitoxide 0.39.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 8.40: Opensource Git GUI client.
 games-arcade/osu-lazer 2024.1115.3: rhythm is just a *click* away!
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
