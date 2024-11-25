@@ -237,6 +237,7 @@ net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
 net-misc/biliup-app 0.4.1-r2: A Tool for Upload video to bilibili
 net-misc/biliup-app-bin 0.5.3: A Tool for Upload video to bilibili
 net-misc/biliup-rs 0.2.1: Upload video to bilibili.
+net-misc/bruno-bin 1.35.0: Opensource IDE For Exploring and Testing Api's
 net-misc/geo 1.1: An easy way to manage all your Geo resources
 net-misc/hoppscotch-bin 24.10.2.0: Open source API development ecosystem
 net-misc/localsend-bin 1.16.1: An open-source cross-platform alternative to AirDrop
