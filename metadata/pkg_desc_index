@@ -161,7 +161,6 @@ gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
 gui-wm/swayfx 0.3.2: SwayFX: Sway, but with eye candy!
 kde-misc/plasma-applet-netspeed-widget 2.0 3.1 9999: Plasma 5 widget that displays the currently used network bandwidth.
 media-fonts/Plangothic 1.9.5766: 遍黑体项目（Plangothic Project）
-media-fonts/Shanggu 1.021: A Noto-based font for traditional Chinese characters
 media-fonts/iansui 1.000: An open-source Chinese font derived from Klee One (Fontworks).
 media-fonts/jf-openhuninn 2.1: An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
 media-fonts/lxgw-neo-xihei 1.211: A Chinese sans-serif font derived from IPAex Gothic.
@@ -170,6 +169,7 @@ media-fonts/misans 4.003-r1: MiSans 是由小米主导,联合汉仪发布的可�
 media-fonts/nerd-fonts 3.3.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/sarasa-gothic 1.0.24: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
 media-fonts/sarasa-term-sc-nerd 2.3.0: Sarasa Mono SC font patched with Nerd fonts
+media-fonts/shanggu 1.021: A Noto-based font for traditional Chinese characters
 media-fonts/smiley-sans 2.0.1: An open-source font for Chinese.
 media-fonts/taipei-sans-tc 1.0: JT Foundry - Taipei Sans TC Beta font
 media-fonts/tiejili 1.100: An open-source font that extends Reggae One to Chinese.

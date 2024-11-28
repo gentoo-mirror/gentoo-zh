@@ -141,10 +141,6 @@ gui-wm/swayfx:tray - Enable support for StatusNotifierItem tray specification
 gui-wm/swayfx:wallpapers - Install sway's default wallpaper image
 media-fonts/Plangothic:allideo - use HanaMin to display unincluded fonts
 media-fonts/Plangothic:fallback - do not display unincluded fonts
-media-fonts/Shanggu:mono - Install ShangguMono font family
-media-fonts/Shanggu:round - Install ShangguRound font family
-media-fonts/Shanggu:sans - Install ShangguSans font family
-media-fonts/Shanggu:serif - Install ShangguSerif font family (default)
 media-fonts/nerd-fonts:0xproto - Install Nerd-fonts-patched 0xProto fonts
 media-fonts/nerd-fonts:3270 - Install Nerd-fonts-patched 3270 fonts
 media-fonts/nerd-fonts:agave - Install Nerd-fonts-patched Agave fonts
@@ -209,6 +205,10 @@ media-fonts/nerd-fonts:tinos - Install Nerd-fonts-patched Tinos fonts
 media-fonts/nerd-fonts:ubuntu - Install Nerd-fonts-patched Ubuntu fonts
 media-fonts/nerd-fonts:ubuntumono - Install Nerd-fonts-patched Ubuntu Mono fonts
 media-fonts/nerd-fonts:victormono - Install Nerd-fonts-patched Victor Mono fonts
+media-fonts/shanggu:mono - Install ShangguMono font family
+media-fonts/shanggu:round - Install ShangguRound font family
+media-fonts/shanggu:sans - Install ShangguSans font family
+media-fonts/shanggu:serif - Install ShangguSerif font family (default)
 media-gfx/unityhub:legacy - add support for Legacy versions
 media-plugins/osdlyrics:gnome - add support for gnome
 media-plugins/osdlyrics:indicator - add support for appindicator
