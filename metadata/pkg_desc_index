@@ -140,6 +140,7 @@ dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop wi
 dev-util/android-studio 2024.2.1.11: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.14.1: Manage all your runtime versions with one tool
+dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.2.35332: Manage all your JetBrains Projects and Tools
 dev-util/mamba 1.5.8: The Fast Cross-Platform Package Manager
