@@ -256,7 +256,7 @@ net-p2p/amule-dlp-antileech 9999: amule-dlp-antileech, dynamic DLP library for a
 net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.0.2.10: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
-net-proxy/Xray 24.11.11 24.11.21: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 24.11.21 24.11.30: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.1.15: Custom protocol, rule based network proxy
@@ -265,7 +265,7 @@ net-proxy/dae 0.8.0 0.9.0_rc1 9999: A lightweight and high-performance transpare
 net-proxy/daed 0.8.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.0: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.173.1: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.173.2: The Official Mihomo Dashboard
 net-proxy/mihomo 1.18.10-r2: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.5.12: Mihomo Party
 net-proxy/naiveproxy-bin 131.0.6778.86_p1: A proxy using Chromium's network stack to camouflage traffic
