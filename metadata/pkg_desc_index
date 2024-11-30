@@ -130,9 +130,9 @@ dev-python/feeluown-bilibili 0.4.1: bilibili support for feeluown
 dev-python/fuo-netease 1.0.3: netease cloud music support for feeluown
 dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
-dev-python/janus 1.0.0-r1: Implementation of the asyncio (PEP 3156) event-loop with Qt
+dev-python/janus 1.1.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/mw2fcitx 0.16.0: Build fcitx5 libraries from MediaWiki sites
-dev-python/nvchecker 2.13.1 2.14 2.14.1 2.15 2.15.1: nvchecker is for checking if a new version of some software has been released
+dev-python/nvchecker 2.16: nvchecker is for checking if a new version of some software has been released
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.53.0: Tool for converting Chinese characters to pinyin
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
