@@ -11,5 +11,5 @@ RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fci
 REQUIRED_USE=|| ( fcitx rime )
 SLOT=5
 SRC_URI=https://github.com/felixonmars/fcitx5-pinyin-zhwiki/archive/refs/tags/0.2.5.tar.gz -> fcitx-pinyin-zhwiki-0.2.5.tar.gz https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.5/web-slang-20240909.source https://dumps.wikimedia.org/zhwiki/20240701/zhwiki-20240701-all-titles-in-ns0.gz
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	b5b2c146634108c3b50cf26eb05b848a	python-any-r1	f7b9a2fa38c69a9c2a7ad8fc9283ccf7
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-any-r1	6ddb5e75c10db046f89ebe39c85e1d82
 _md5_=d0364887e5d2dae09b127c72522bd68a
