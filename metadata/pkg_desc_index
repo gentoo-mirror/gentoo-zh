@@ -335,7 +335,7 @@ x11-terms/wezterm-bin 20240203: A terminal emulator and multiplexer implemented 
 x11-themes/bibata-cursor 2.0.7: Open source, compact, and material designed cursor set
 x11-themes/fcitx-breeze 3.1.0: Fcitx5 theme to match KDE's Breeze style.
 x11-themes/klassy 4.0.5.25.80-r1: Highly customizable theme plugin for KDE Plasma desktop
-x11-themes/kora-icon-theme 1.6.1: An SVG icon theme with lots of new icons for GNU/Linux operating systems
+x11-themes/kora-icon-theme 1.6.2: An SVG icon theme with lots of new icons for GNU/Linux operating systems
 x11-themes/nordic 2.1.0 2.2.0-r1: Dark Gtk3.20+ theme created using the awesome Nord color pallete
 x11-themes/nordzy-cursors 0.5.0 2.3.0: Cursor theme using the Nord color palette and based on Vimix and cz-Viator
 x11-themes/nordzy-icon 1.5 1.8.7: A free and open source icon theme for Linux desktops using the Nord color palette
