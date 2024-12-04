@@ -14,6 +14,7 @@ inherit distutils-r1 cmake multilib
 DESCRIPTION="The Fast Cross-Platform Package Manager"
 HOMEPAGE="https://github.com/mamba-org/mamba"
 SRC_URI="https://github.com/mamba-org/mamba/archive/refs/tags/${P}.tar.gz"
+S="${WORKDIR}/${PN}-${P}"
 
 LICENSE="BSD"
 SLOT="0/2"
@@ -56,8 +57,6 @@ BDEPEND="python? (
 #			dev-python/pytest-xprocess[${PYTHON_USEDEP}]
 #		')
 #	)
-
-S="${WORKDIR}/${PN}-${P}"
 
 # distutils_enable_tests pytest
 
