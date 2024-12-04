@@ -266,7 +266,7 @@ net-proxy/dae 0.8.0 0.9.0_rc1 9999: A lightweight and high-performance transpare
 net-proxy/daed 0.8.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.0: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.173.2: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.173.3: The Official Mihomo Dashboard
 net-proxy/mihomo 1.18.10-r2: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.5.12: Mihomo Party
 net-proxy/naiveproxy-bin 131.0.6778.86_p1: A proxy using Chromium's network stack to camouflage traffic
