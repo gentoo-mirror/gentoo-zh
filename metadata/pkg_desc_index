@@ -144,7 +144,7 @@ dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.2.35332: Manage all your JetBrains Projects and Tools
 dev-util/mamba 1.5.10: The Fast Cross-Platform Package Manager
-dev-util/mongodb-compass-bin 1.44.7: The GUI for MongoDB
+dev-util/mongodb-compass-bin 1.45.0: The GUI for MongoDB
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
 dev-util/patchelf-liblol 0.1.4: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
