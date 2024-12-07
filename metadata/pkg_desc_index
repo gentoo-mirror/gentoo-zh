@@ -85,7 +85,7 @@ app-office/bytedance-feishu 7.15.13 7.15.13-r1 7.18.11 7.22.9: 飞书（Feishu�
 app-office/freeoffice 1062 1064 1068: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
 app-pda/ipadcharge 9999: Enables USB charging for Apple devices.
-app-shells/blesh 0.4.0_pre3 9999: A line editor written in pure Bash with enhanced features
+app-shells/blesh 9999: A line editor written in pure Bash with enhanced features
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/oh-my-bash 9999: An open source, community-driven framework for managing your bash configuration
 app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
