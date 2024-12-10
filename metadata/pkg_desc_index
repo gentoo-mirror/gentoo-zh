@@ -71,7 +71,7 @@ app-i18n/mozc 2.26.4632_p20220213064411_p20220214004422 2.28.5029.102 2.28.5029.
 app-i18n/zh-autoconvert 0.3.16_p7: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
-app-misc/go-yq-bin 4.44.5: yq is a portable command-line YAML, JSON and XML processor
+app-misc/go-yq-bin 4.44.6: yq is a portable command-line YAML, JSON and XML processor
 app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ toolkit
 app-misc/joshuto 0.9.8: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
@@ -152,7 +152,7 @@ dev-util/tailspin 4.0.0: A log file highlighter
 dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Tauri apps
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.39.0: A command-line application for interacting with git repositories
-dev-vcs/sourcegit-bin 8.41: Opensource Git GUI client.
+dev-vcs/sourcegit-bin 8.42: Opensource Git GUI client.
 games-arcade/osu-lazer 2024.1115.3: rhythm is just a *click* away!
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
@@ -256,7 +256,7 @@ net-p2p/amule-dlp-antileech 9999: amule-dlp-antileech, dynamic DLP library for a
 net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.0.2.10: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
-net-print/kyodialog 9.4-r1: Kyocera printer driver for linux
+net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
 net-proxy/Xray 24.11.21 24.11.30: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
