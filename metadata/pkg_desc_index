@@ -25,7 +25,6 @@ app-backup/restic-rest-server 0.13.0: A high performance HTTP server that implem
 app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snapshot management
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
-app-crypt/cfssl 1.6.5: Cloudflare's PKI and TLS toolkit
 app-dicts/fcitx-pinyin-moegirl 20241109: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-moegirl-bin 20241109: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20241020: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
