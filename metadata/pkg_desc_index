@@ -152,6 +152,7 @@ dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Taur
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.39.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 8.42: Opensource Git GUI client.
+games-action/vintagestory 1.19.8 1.20.0_rc1: Uncompromising wilderness survival sandbox game (requires paid account)
 games-arcade/osu-lazer 2024.1208.0: rhythm is just a *click* away!
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
@@ -317,7 +318,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/chatgpt-desktop 1.1.0: ChatGPT Desktop Application
 www-apps/follow-bin 0.2.6_beta0: Next generation information browser
-www-client/brave-bin 1.73.97: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.73.101: Web browser that blocks ads and trackers by default
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.28.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
