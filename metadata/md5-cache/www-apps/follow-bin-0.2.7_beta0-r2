@@ -9,4 +9,4 @@ RDEPEND=dev-libs/nss media-libs/alsa-lib media-libs/mesa x11-libs/gtk+:3[X,cups]
 SLOT=0
 SRC_URI=https://github.com/RSSNext/Follow/releases/download/v0.2.7-beta.0/Follow-0.2.7-beta.0-linux-x64.AppImage -> follow-bin-0.2.7_beta0.AppImage
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09
-_md5_=0fc0548a4211704d095c069349ad0b40
+_md5_=46cb47d00a16dd9c6ca65cefbe36ac28
