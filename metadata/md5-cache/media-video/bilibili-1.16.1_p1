@@ -9,6 +9,6 @@ KEYWORDS=-* ~amd64
 LICENSE=MIT
 RDEPEND=dev-libs/nss media-libs/alsa-lib x11-libs/gtk+:* x11-libs/libxkbcommon x11-libs/libX11 x11-libs/libXext x11-libs/libxcb x11-misc/xdg-utils wayland? ( dev-libs/wayland ) x11-libs/libvdpau
 SLOT=0
-SRC_URI=https://github.com/msojocs/bilibili-linux/releases/download/v1.15.2-2/io.github.msojocs.bilibili_1.15.2-2_amd64.deb
+SRC_URI=https://github.com/msojocs/bilibili-linux/releases/download/v1.16.1-1/io.github.msojocs.bilibili_1.16.1-1_amd64.deb
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=71d44242f693e671cd6cac11f2644264
