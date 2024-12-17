@@ -11,5 +11,5 @@ RDEPEND=app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/Potterli20/trojan-go-fork/archive/refs/tags/V2024.11.17.tar.gz -> trojan-go-fork-2024.11.17.tar.gz https://github.com/peeweep/gentoo-go-deps/releases/download/trojan-go-fork-2024.11.17/trojan-go-fork-2024.11.17-vendor.tar.xz
-_eclasses_=toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0	multiprocessing	1e32df7deee68372153dca65f4a7c21f	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	go-module	df32d29550d40a92da723d3b8e17b467
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0	multiprocessing	1e32df7deee68372153dca65f4a7c21f	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	go-module	df32d29550d40a92da723d3b8e17b467
 _md5_=e07b64e30c7183918b92904cc4649e50
