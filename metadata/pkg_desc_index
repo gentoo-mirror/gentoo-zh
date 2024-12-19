@@ -231,7 +231,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.41.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.2.8: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/apifox 2.5.19: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.5.19-r1: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
@@ -256,7 +256,7 @@ net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.0.2.10: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
-net-proxy/Xray 24.11.21 24.11.30: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 24.12.18: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.1.15: Custom protocol, rule based network proxy
