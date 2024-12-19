@@ -1,12 +1,13 @@
-DEFINED_PHASES=install postinst postrm unpack
+DEFINED_PHASES=install postinst postrm preinst unpack
 DESCRIPTION=Next generation information browser
 EAPI=8
 HOMEPAGE=https://follow.is/ https://github.com/RSSNext/Follow
-INHERIT=desktop xdg-utils
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop xdg
 KEYWORDS=~amd64
 LICENSE=GPL-3
 RDEPEND=dev-libs/nss media-libs/alsa-lib media-libs/mesa x11-libs/gtk+:3[X,cups] x11-libs/libxkbcommon
 SLOT=0
 SRC_URI=https://github.com/RSSNext/Follow/releases/download/v0.2.7-beta.0/Follow-0.2.7-beta.0-linux-x64.AppImage -> follow-bin-0.2.7_beta0.AppImage
-_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09
-_md5_=46cb47d00a16dd9c6ca65cefbe36ac28
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=8427584fcd87dc42d93e17244559ff5d
