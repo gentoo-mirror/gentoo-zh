@@ -77,7 +77,7 @@ app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 24.10.01101: Brainstorming and Mind Mapping Software
-app-misc/yazi 0.4.1: Blazing fast terminal file manager written in Rust, based on async I/O.
+app-misc/yazi 0.4.2: Blazing fast terminal file manager written in Rust, based on async I/O.
 app-office/anytype-bin 0.35.4 0.44.0: A notebook based on p2p network
 app-office/bytedance-feishu 7.15.13 7.15.13-r1 7.18.11 7.22.9: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068: A complete, free Microsoft Office-compatible alternative office suite.
@@ -167,7 +167,7 @@ media-fonts/lxgw-neo-xihei 1.211: A Chinese sans-serif font derived from IPAex G
 media-fonts/lxgw-neo-zhisong 1.021: An open-source Chinese font derived from IPAmj Mincho
 media-fonts/misans 4.003-r1: MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 media-fonts/nerd-fonts 3.3.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
-media-fonts/sarasa-gothic 1.0.25: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
+media-fonts/sarasa-gothic 1.0.26: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
 media-fonts/sarasa-term-sc-nerd 2.3.0: Sarasa Mono SC font patched with Nerd fonts
 media-fonts/shanggu 1.021-r1: A Noto-based font for traditional Chinese characters
 media-fonts/smiley-sans 2.0.1: An open-source font for Chinese.
