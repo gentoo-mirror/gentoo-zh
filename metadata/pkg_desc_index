@@ -27,9 +27,9 @@ app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distr
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-moegirl 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-moegirl-bin 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20241020: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
-app-dicts/fcitx-pinyin-zhwiki 0.2.5.20240909: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20240722: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.7.8: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.44.5: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -113,9 +113,9 @@ dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20241013063848: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20241221105938: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
-dev-libs/v2ray-geoip 202410310053: GeoIP for V2Ray.
+dev-libs/v2ray-geoip 202412201411: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202411022212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
@@ -273,7 +273,7 @@ net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern
 net-proxy/shadowsocks-rust 1.21.0 1.21.2: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.9.7 1.10.3: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
-net-proxy/trojan-go-fork 2024.11.17: A fork of trojan-go
+net-proxy/trojan-go-fork 2024.12.21: A fork of trojan-go
 net-proxy/v2ray 5.21.0 5.22.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.22.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.3 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
