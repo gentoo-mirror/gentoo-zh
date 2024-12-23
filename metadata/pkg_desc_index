@@ -31,7 +31,7 @@ app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary f
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.7.8: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.44.8: Cursor App - AI-first coding environment
+app-editors/cursor 0.44.8-r1: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.9.3: A truely minimal markdown editor.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -103,7 +103,7 @@ dev-cpp/tl-expected 1.1.0: Guideline Support Library implementation by Microsoft
 dev-db/dbeaver-bin 24.3.1: Free universal database tool (community edition).
 dev-db/mongodb 5.3.1 6.2.0-r4: A high-performance, open source, schema-free document-oriented database
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
-dev-java/google-java-format 1.25.0: Reformats Java source code to comply with Google Java Style.
+dev-java/google-java-format 1.25.2: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
