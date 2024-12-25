@@ -5,9 +5,9 @@ EAPI=8
 HOMEPAGE=https://sites.google.com/view/jtfoundry/
 INHERIT=font
 IUSE=X
-KEYWORDS=~alpha ~amd64 ~arm ~ia64 ~ppc ~ppc64 ~s390 ~sparc ~x86 ~amd64-linux ~x86-linux ~ppc-macos
+KEYWORDS=~alpha ~amd64 ~arm ~ppc ~ppc64 ~s390 ~sparc ~x86 ~amd64-linux ~x86-linux ~ppc-macos
 LICENSE=OFL-1.1
 SLOT=0
 SRC_URI=https://drive.google.com/uc?export=download&id=1eGAsTN1HBpJAkeVM57_C7ccp7hbgSz3_ -> TaipeiSansTCBeta-Regular.ttf https://drive.google.com/uc?export=download&id=1QdaqR8Setf4HEulrIW79UEV_Lg_fuoWz -> TaipeiSansTCBeta-Light.ttf https://drive.google.com/uc?export=download&id=1Om8izPz02Msc15onhS_ki1lrlAIf05Pd -> TaipeiSansTCBeta-Bold.ttf
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
-_md5_=32ce318783c6c67899e606e6ee345680
+_md5_=fe3dbb50bd0e9adeeb8ac013de8e2950
