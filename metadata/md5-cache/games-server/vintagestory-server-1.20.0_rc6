@@ -1,0 +1,15 @@
+BDEPEND=virtual/dotnet-sdk:7.0 virtual/pkgconfig
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=Dedicated game server for Vintage Story
+EAPI=8
+HOMEPAGE=https://www.vintagestory.at/
+INHERIT=dotnet-pkg-base systemd
+IUSE=debug
+KEYWORDS=-* ~amd64
+LICENSE=all-rights-reserved
+RDEPEND=acct-group/vintagestory acct-user/vintagestory app-misc/dtach net-misc/curl virtual/dotnet-sdk:7.0
+RESTRICT=bindist mirror strip strip
+SLOT=1.20.0_rc6
+SRC_URI=https://cdn.vintagestory.at/gamefiles/unstable/vs_server_linux-x64_1.20.0-rc.6.tar.gz
+_eclasses_=edo	367e103a74bf77e6a8da7894d999fa3c	multiprocessing	1e32df7deee68372153dca65f4a7c21f	nuget	5b6663023b71fb1220f230ac225205ae	dotnet-pkg-base	0ba28001d3de46e8e4d6c0c54adfd36d	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_md5_=1b6b9c389b6bd4584d793614b81c6e77

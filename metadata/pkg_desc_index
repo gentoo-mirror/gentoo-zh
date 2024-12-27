@@ -6,6 +6,7 @@ acct-group/mihomo 0-r1: System group: mihomo
 acct-group/n2n 0: System group: n2n
 acct-group/ntpd-rs 0: System group: ntpd-rs
 acct-group/ntpd-rs-observe 0: System group: ntpd-rs-observe
+acct-group/vintagestory 0: User group for Vintage Story Server
 acct-user/alist 0: System user: alist
 acct-user/aptly 0: System user: aptly
 acct-user/hysteria 0: System user: hysteria
@@ -13,6 +14,7 @@ acct-user/mihomo 0-r1: System user: mihomo
 acct-user/n2n 0: System user: n2n
 acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
+acct-user/vintagestory 0: User for Vintage Story Server
 app-admin/enpass 6.10.1.1661: A cross-platform, complete password management solution.
 app-admin/rbw 1.13.0: Unofficial Bitwarden CLI
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
@@ -155,6 +157,7 @@ games-action/vintagestory 1.19.8 1.20.0_rc6: Uncompromising wilderness survival 
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
+games-server/vintagestory-server 1.19.8 1.20.0_rc6: Dedicated game server for Vintage Story
 games-util/winegame-client-bin 0.5.10.5 0.5.12.2: An open source gaming platform for GNU/Linux
 gui-apps/crystal-dock 2.7: Cool dock (desktop panel) for Linux desktop
 gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
