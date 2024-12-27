@@ -707,13 +707,6 @@ use_latest_release = true
 prefix = "v"
 github_account = "gouwazi"
 
-["games-arcade/osu-lazer"]
-source = "github"
-github = "ppy/osu"
-use_latest_release = true
-prefix = "v"
-github_account = "liuyujielol"
-
 ["games-board/othello"]
 source = "regex"
 url = "http://othello-game.sourceforge.net/en/Download.html"
@@ -731,6 +724,13 @@ use_latest_tag = true
 source = "regex"
 url = "https://winegame.net/downloads/"
 regex = "net.winegame.client_([\\d.]+)_amd64.deb"
+
+["gui-apps/crystal-dock"]
+source = "github"
+github = "dangvd/crystal-dock"
+prefix = "v"
+use_latest_release = true
+github_account = "liuyujielol"
 
 ["gui-libs/libdecor"]
 source = "gitlab"
