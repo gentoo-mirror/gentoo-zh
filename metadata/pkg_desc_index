@@ -335,7 +335,6 @@ x11-misc/i3lock-fancy 9999: A fancy i3lock
 x11-misc/ly 0.6.0-r1 1.0.2 9999: Ly - a TUI display manager
 x11-misc/picom-jonaburg 8 9999: A lightweight compositor for X11 (previously a compton fork)
 x11-misc/snapd-xdg-open 20170401: Software for opening links from snaps in desktop
-x11-terms/ghostty 1.0.0: Fast, native, feature-rich terminal emulator pushing modern features
 x11-terms/wezterm-bin 20240203: A terminal emulator and multiplexer implemented in Rust
 x11-themes/bibata-cursor 2.0.7: Open source, compact, and material designed cursor set
 x11-themes/fcitx-breeze 3.1.0: Fcitx5 theme to match KDE's Breeze style.
