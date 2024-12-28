@@ -88,6 +88,7 @@ app-pda/ipadcharge 9999: Enables USB charging for Apple devices.
 app-shells/blesh 9999: A line editor written in pure Bash with enhanced features
 app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/oh-my-bash 9999: An open source, community-driven framework for managing your bash configuration
+app-shells/zfe 0.6.1: Small unix terminal file explorer
 app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/cajviewer 1.3.22 9.0: Document Viewer for CAJ, KDH, NH, TEB and PDF format
 app-text/goldendict 24.05.05 24.09.1: Feature-rich dictionary lookup program (qtwebengine fork)
