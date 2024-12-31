@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.21.4 >=dev-lang/go-1.20:= app-arch/unzip virtual/pkgconfig
+DEFINED_PHASES=compile install unpack
+DEPEND=app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
+DESCRIPTION=Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+EAPI=8
+HOMEPAGE=https://xtls.github.io/ https://github.com/XTLS/Xray-core
+INHERIT=go-module systemd
+KEYWORDS=~amd64 ~arm ~arm64 ~loong ~riscv ~x86
+LICENSE=MPL-2.0
+RDEPEND=app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/XTLS/Xray-core/archive/refs/tags/v24.12.31.tar.gz -> Xray-24.12.31.tar.gz https://github.com/peeweep/gentoo-go-deps/releases/download/Xray-24.12.31/Xray-24.12.31-vendor.tar.xz
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	go-module	df32d29550d40a92da723d3b8e17b467	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_md5_=c762f28aeff5b197115886171d118f1f

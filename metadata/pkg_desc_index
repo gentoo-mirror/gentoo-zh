@@ -260,7 +260,7 @@ net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.0.3.10: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
-net-proxy/Xray 24.12.18: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 24.12.18 24.12.31: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.1.15: Custom protocol, rule based network proxy
@@ -307,6 +307,7 @@ sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38: Modular initramfs image creation utility
+sys-kernel/tkg-sources 6.12.7: Full linux-tkg sources including the Gentoo patchset for the 6.12 kernel tree
 sys-kernel/xanmod-kernel 6.11.9: XanMod lts kernel built with Gentoo patches and cjktty
 sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
 sys-kernel/xanmod-sources 6.11.9-r1: Full XanMod source, including the Gentoo patchset and other patch options.
