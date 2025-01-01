@@ -324,6 +324,7 @@ www-apps/chatgpt-desktop 1.1.0: ChatGPT Desktop Application
 www-apps/follow-bin 0.2.9_beta0: Next generation information browser
 www-apps/lzc-client-desktop 1.1.6: 懒猫微服
 www-client/brave-bin 1.73.104: Web browser that blocks ads and trackers by default
+www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.28.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
