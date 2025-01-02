@@ -322,7 +322,7 @@ virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/chatgpt-desktop 1.1.0: ChatGPT Desktop Application
-www-apps/follow-bin 0.2.9_beta0: Next generation information browser
+www-apps/follow-bin 0.3.0_beta0: Next generation information browser
 www-apps/lzc-client-desktop 1.1.6: 懒猫微服
 www-client/brave-bin 1.73.104: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
