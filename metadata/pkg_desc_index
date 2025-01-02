@@ -226,7 +226,7 @@ net-im/deepin-wine-qq 9.5.2.27897: Tencent QQ on Deepin Wine(com.qq.im.deepin) F
 net-im/deepin-wine-wechat 3.9.0.28-r3: Tencent WeChat on Deepin Wine For Gentoo
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.0.40.30706 7.1.0.31017 7.1.0.31120: Communication platform that supports video and audio conferencing
-net-im/tencent-qq 3.2.15_p241224: The new version of the official linux-qq
+net-im/tencent-qq 3.2.15_p241224-r1: The new version of the official linux-qq
 net-im/wechat 4.0.1.11-r1: Weixin for Linux
 net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (Universal) with bwrap sandbox
 net-im/weixin-uos 2.1.8: UOS weixin
@@ -266,7 +266,7 @@ net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.1.15: Custom protocol, rule based network proxy
 net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 0.9.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
-net-proxy/daed 0.8.0 9999: A Modern Dashboard For dae
+net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.0-r1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.176.1: The Official Mihomo Dashboard
