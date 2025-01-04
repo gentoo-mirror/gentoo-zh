@@ -154,11 +154,11 @@ dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Taur
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.40.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 8.45: Opensource Git GUI client.
-games-action/vintagestory 1.19.8 1.20.0_rc6: Uncompromising wilderness survival sandbox game (requires paid account)
+games-action/vintagestory 1.19.8 1.20.0_rc8: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
-games-server/vintagestory-server 1.19.8 1.20.0_rc6: Dedicated game server for Vintage Story
+games-server/vintagestory-server 1.19.8 1.20.0_rc8: Dedicated game server for Vintage Story
 games-util/winegame-client-bin 0.5.10.5 0.5.12.2: An open source gaming platform for GNU/Linux
 gui-apps/crystal-dock 2.7: Cool dock (desktop panel) for Linux desktop
 gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
@@ -168,7 +168,7 @@ media-fonts/Plangothic 1.9.5769: 遍黑体项目（Plangothic Project）
 media-fonts/iansui 1.000: An open-source Chinese font derived from Klee One (Fontworks).
 media-fonts/jf-openhuninn 2.1: An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
 media-fonts/lxgw-neo-xihei 1.211: A Chinese sans-serif font derived from IPAex Gothic.
-media-fonts/lxgw-neo-zhisong 1.021: An open-source Chinese font derived from IPAmj Mincho
+media-fonts/lxgw-neo-zhisong 1.022: An open-source Chinese font derived from IPAmj Mincho
 media-fonts/misans 4.003-r1: MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 media-fonts/nerd-fonts 3.3.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/sarasa-gothic 1.0.27: A CJK programming font based on Iosevka and Source Han Sans. (TTC)

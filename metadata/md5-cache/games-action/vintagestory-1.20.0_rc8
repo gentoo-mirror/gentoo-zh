@@ -12,6 +12,6 @@ LICENSE=all-rights-reserved
 RDEPEND=virtual/dotnet-sdk:7.0 media-libs/openal virtual/opengl
 RESTRICT=bindist mirror strip strip
 SLOT=0
-SRC_URI=https://cdn.vintagestory.at/gamefiles/unstable/vs_client_linux-x64_1.20.0-rc.6.tar.gz
+SRC_URI=https://cdn.vintagestory.at/gamefiles/unstable/vs_client_linux-x64_1.20.0-rc.8.tar.gz
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	edo	367e103a74bf77e6a8da7894d999fa3c	multiprocessing	1e32df7deee68372153dca65f4a7c21f	nuget	5b6663023b71fb1220f230ac225205ae	dotnet-pkg-base	0ba28001d3de46e8e4d6c0c54adfd36d	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=46cffe0e5b91d06c558456ffce49ad63
