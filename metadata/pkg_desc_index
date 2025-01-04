@@ -276,7 +276,7 @@ net-proxy/naiveproxy-bin 131.0.6778.86_p1: A proxy using Chromium's network stac
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.9.7 1.10.5: The universal proxy platform.
+net-proxy/sing-box 1.9.7 1.10.6: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2024.12.21: A fork of trojan-go
 net-proxy/v2ray 5.22.0 5.23.0: A platform for building proxies to bypass network restrictions.
