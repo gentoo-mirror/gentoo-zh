@@ -291,9 +291,11 @@ sys-kernel/tkg-sources:Arch - Use Arch patches
 sys-kernel/tkg-sources:O3 - Enable O3 optimization
 sys-kernel/tkg-sources:acs-override - Use ACS override patch
 sys-kernel/tkg-sources:aggressive-ondemand - Use an aggressive ondemand governor for PDS/BMQ
+sys-kernel/tkg-sources:bbr3 - Use BBR v3 (unsupported)
 sys-kernel/tkg-sources:bmq - Use BMQ CPU scheduler
 sys-kernel/tkg-sources:bore - Use BORE CPU scheduler
 sys-kernel/tkg-sources:clear - Use Clear Linux patches
+sys-kernel/tkg-sources:crypto - Use patches to improve performance of CRC32 and AES128 crypto (unsupported)
 sys-kernel/tkg-sources:eevdf - Use EEVDF CPU scheduler
 sys-kernel/tkg-sources:glitched-base - Use various patches and tweaks from Zen/Liquorix, Xanmod and the community
 sys-kernel/tkg-sources:graysky - Use graysky's cpu opts patch
@@ -301,9 +303,11 @@ sys-kernel/tkg-sources:misc-adds - Enable misc additions
 sys-kernel/tkg-sources:ntsync - Enable builtin support for ntsync
 sys-kernel/tkg-sources:openrgb - Add OpenRGB compatibility for certain i2c controllers
 sys-kernel/tkg-sources:pds - Use PDS CPU scheduler
+sys-kernel/tkg-sources:rt - Use RT patches (unsupported)
 sys-kernel/tkg-sources:sched-yield-type-0 - No yield for PDS/BMQ
 sys-kernel/tkg-sources:sched-yield-type-1 - Yield only to better priority/deadline tasks for PDS/Deboost and requeue task for BMQ
 sys-kernel/tkg-sources:sched-yield-type-2 - Expire timeslice and recalculate deadline for PDS/Set rq skip task for BMQ
+sys-kernel/tkg-sources:zstd - Use latest and improved ZSTD patch-set (unsupported)
 sys-kernel/xanmod-kernel:clang - Use clang compiler instead of GCC
 sys-kernel/xanmod-kernel:debug - Pseudo flag
 sys-kernel/xanmod-kernel:initramfs - Build initramfs along with the kernel.
