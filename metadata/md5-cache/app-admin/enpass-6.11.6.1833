@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=elibc_glibc? ( sys-libs/glibc:2.2 )
+DESCRIPTION=A cross-platform, complete password management solution.
+EAPI=8
+HOMEPAGE=https://www.enpass.io
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop unpacker xdg
+KEYWORDS=~amd64
+LICENSE=SINEW-EULA
+RDEPEND=app-arch/xz-utils dev-libs/glib:2 media-libs/fontconfig media-libs/freetype:2 media-libs/libglvnd media-libs/libpulse net-print/cups sys-apps/dbus sys-apps/util-linux sys-libs/zlib x11-libs/gtk+:3 x11-libs/libICE x11-libs/libSM x11-libs/libX11 x11-libs/libXScrnSaver x11-libs/libxcb x11-libs/libxkbcommon x11-libs/pango x11-libs/xcb-util-image x11-libs/xcb-util-keysyms x11-libs/xcb-util-renderutil x11-libs/xcb-util-wm
+RESTRICT=bindist mirror strip
+SLOT=0
+SRC_URI=https://apt.enpass.io/pool/main/e/enpass/enpass_6.11.6.1833_amd64.deb
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=bb2ac864615c20dc07144a6de3b42d6e
