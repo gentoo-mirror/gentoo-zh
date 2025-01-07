@@ -32,7 +32,7 @@ app-dicts/fcitx-pinyin-moegirl-bin 20241211: Fcitx 5 Pinyin Dictionary from zh.m
 app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-app-editors/appflowy-bin 0.7.9: AppFlowy is an open-source alternative to Notion
+app-editors/appflowy-bin 0.8.0: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.44.11: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.9.3: A truely minimal markdown editor.
