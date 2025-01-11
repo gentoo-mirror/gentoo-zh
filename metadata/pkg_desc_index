@@ -140,7 +140,7 @@ dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-util/android-studio 2024.2.2.13: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
-dev-util/asdf-vm 0.14.1: Manage all your runtime versions with one tool
+dev-util/asdf-vm 0.15.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.2.35332: Manage all your JetBrains Projects and Tools
@@ -235,7 +235,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.41.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.4: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/apifox 2.5.19-r1: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.6.43: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
