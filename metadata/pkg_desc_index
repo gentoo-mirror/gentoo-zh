@@ -27,8 +27,8 @@ app-backup/restic-rest-server 0.13.0: A high performance HTTP server that implem
 app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snapshot management
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
-app-dicts/fcitx-pinyin-moegirl 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-moegirl-bin 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-moegirl 20250111: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-moegirl-bin 20250111: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
@@ -208,7 +208,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.6: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.16.1_p3: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.16.2_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.13: Play website videos and songs with mpv & yt-dlp
@@ -273,7 +273,7 @@ net-proxy/hysteria 2.6.0-r1: A powerful, lightning fast and censorship resistant
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.176.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.1: Another Clash Kernel, formerly Clash.Meta
-net-proxy/mihomo-party-bin 1.5.12: Mihomo Party
+net-proxy/mihomo-party-bin 1.5.13: Mihomo Party
 net-proxy/naiveproxy-bin 131.0.6778.86_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
