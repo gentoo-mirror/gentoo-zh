@@ -157,7 +157,7 @@ dev-util/vfox 0.6.0: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.0: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.40.0: A command-line application for interacting with git repositories
-dev-vcs/sourcegit-bin 2025.01: Opensource Git GUI client.
+dev-vcs/sourcegit-bin 2025.02: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.0_rc8: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
@@ -275,7 +275,7 @@ net-proxy/hysteria 2.6.0-r1: A powerful, lightning fast and censorship resistant
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.176.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.1: Another Clash Kernel, formerly Clash.Meta
-net-proxy/mihomo-party-bin 1.5.13: Mihomo Party
+net-proxy/mihomo-party-bin 1.6.0: Mihomo Party
 net-proxy/naiveproxy-bin 131.0.6778.86_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
