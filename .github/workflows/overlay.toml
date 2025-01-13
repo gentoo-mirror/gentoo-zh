@@ -2,6 +2,20 @@
 oldver = "old_ver.json"
 newver = "new_ver.json"
 
+["app-admin/chezmoi"]
+source = "github"
+github = "twpayne/chezmoi"
+use_latest_tag = true
+prefix = "v"
+github_account = "tsln1998"
+
+["app-admin/chezmoi-bin"]
+source = "github"
+github = "twpayne/chezmoi"
+use_latest_release = true
+prefix = "v"
+github_account = "tsln1998"
+
 ["app-admin/enpass"]
 source = "regex"
 url = "https://apt.enpass.io/dists/stable/main/binary-amd64/Packages"
@@ -234,9 +248,6 @@ debianpkg = "lunar"
 from_pattern = "-(\\d+)"
 to_pattern = ""
 github_account = "liangyongxiang"
-
-# TODO: only old data tag
-#["app-i18n/mozc"]
 
 ["app-i18n/zh-autoconvert"]
 source = "debianpkg"
@@ -693,6 +704,20 @@ github = "tauri-apps/tauri"
 use_latest_tag = true
 prefix = "cli.rs-v"
 github_account = "123485k"
+
+["dev-util/vfox"]
+source = "github"
+github = "version-fox/vfox"
+use_latest_tag = true
+prefix = "v"
+github_account = "tsln1998"
+
+["dev-util/vfox-bin"]
+source = "github"
+github = "version-fox/vfox"
+use_latest_release = true
+prefix = "v"
+github_account = "tsln1998"
 
 ["dev-util/zprint-bin"]
 source = "github"
@@ -1369,6 +1394,14 @@ github_account = "blackteahamburger"
 #prefix = "v"
 #github_account = "Jackarain"
 
+["net-proxy/serenity"]
+source = "github"
+github = "SagerNet/serenity"
+use_latest_tag = true
+from_pattern = '^v?(\d+\.\d+\.\d+)-(.+)\.(\d+)$'
+to_pattern = '\1_\2\3'
+github_account = "peeweep"
+
 ["net-proxy/shadowsocks-rust"]
 source = "github"
 github = "shadowsocks/shadowsocks-rust"
@@ -1622,6 +1655,13 @@ github = "brave/brave-browser"
 use_latest_release = true
 github_account = "irort"
 prefix = "v"
+
+["www-client/thorium-browser-bin"]
+source = "github"
+github = "Alex313031/thorium"
+use_latest_release = true
+prefix = "M"
+github_account = "blackteahamburger"
 
 ["www-servers/darkhttpd"]
 source = "github"
