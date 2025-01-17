@@ -1,4 +1,4 @@
-# Copyright 1999-2022 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -7,7 +7,7 @@ inherit desktop pax-utils xdg
 
 DESCRIPTION="A complete, free Microsoft Office-compatible alternative office suite."
 HOMEPAGE="https://www.freeoffice.com"
-BASE_URI="https://www.softmaker.net/down/softmaker-freeoffice-2021-${PV}"
+BASE_URI="https://www.softmaker.net/down/softmaker-freeoffice-2024-${PV}"
 SRC_URI="${BASE_URI}-amd64.tgz"
 
 S="${WORKDIR}"
@@ -150,9 +150,9 @@ src_install(){
 	cd "${ED}/usr/lib64/${PN}"
 
 	unpack ${A}
-	xz -d "freeoffice2021.tar.lzma" || die
-	tar x -f "freeoffice2021.tar" \
-		&& rm "freeoffice2021.tar" || die
+	xz -d "freeoffice2024.tar.lzma" || die
+	tar x -f "freeoffice2024.tar" \
+		&& rm "freeoffice2024.tar" || die
 	rm "installfreeoffice"
 
 	chrpath --delete "textmaker"
@@ -175,7 +175,7 @@ src_install(){
 	done
 
 	insinto /usr/share/mime/packages
-	doins mime/softmaker-freeoffice21.xml
+	doins mime/softmaker-freeoffice24.xml
 
 	pax-mark -m "${ED}"/usr/lib64/${PN}/planmaker
 	pax-mark -m "${ED}"/usr/lib64/${PN}/presentations
