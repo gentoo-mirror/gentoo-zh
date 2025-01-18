@@ -327,7 +327,6 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/chatgpt-desktop 1.1.0: ChatGPT Desktop Application
 www-apps/follow-bin 0.3.1_beta0: Next generation information browser
-www-apps/lzc-client-desktop 1.1.6: 懒猫微服
 www-client/brave-bin 1.74.48: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
