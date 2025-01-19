@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=isd (interactive systemd) — a better way to work with systemd units
+EAPI=8
+HOMEPAGE=https://github.com/isd-project/isd
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=sys-apps/systemd sys-fs/fuse:0
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/isd-project/isd/releases/download/v0.2.0/isd.AppImage -> isd-0.2.0.AppImage
+_md5_=4f589951d4f5267c18f9f38c4846ec5a
