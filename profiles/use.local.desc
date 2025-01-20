@@ -247,7 +247,12 @@ net-p2p/n2n:zstd - Use zstd support
 net-p2p/qbittorrent-enhanced:webui - Enable the Web UI
 net-proxy/clash-nyanpasu:clash-rs - Install net-proxy/clash-rs as clash backend
 net-proxy/clash-nyanpasu:mihomo - Install net-proxy/mihomo as clash backend
+net-proxy/clash-rs:bench - Enable Bench Protocol
 net-proxy/clash-rs:lto - Enable Link Time Optimization
+net-proxy/clash-rs:onion - Enable Onion Protocol
+net-proxy/clash-rs:shadowsocks - Enable Shadowsocks Protocol
+net-proxy/clash-rs:tracing - Enable Tracing Protocol
+net-proxy/clash-rs:tuic - Enable Tuic Protocol
 net-proxy/daed:webui - Build and install daed instead of dae-wing
 net-proxy/hysteria:goamd64 - detect golang arch level on amd64 cpus by CPU_FLAGS_X86
 net-proxy/juicity:client - install juicity-client
