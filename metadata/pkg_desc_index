@@ -35,7 +35,7 @@ app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary f
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.1: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.44.11: Cursor App - AI-first coding environment
+app-editors/cursor 0.45.1: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.9.3: A truely minimal markdown editor.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -311,9 +311,9 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
+sys-kernel/cachyos-sources 6.12.10: Full Cachyos sources including the Gentoo patchset for the 6.12 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
-sys-kernel/tkg-sources 6.12.8: Full linux-tkg sources including the Gentoo patchset for the 6.12 kernel tree
 sys-kernel/xanmod-kernel 6.11.9: XanMod lts kernel built with Gentoo patches and cjktty
 sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
 sys-kernel/xanmod-sources 6.11.9-r1: Full XanMod source, including the Gentoo patchset and other patch options.
@@ -321,6 +321,7 @@ sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen f
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
 sys-libs/libsolv 0.7.31: Library for solving packages and reading repositories
 sys-power/tlpui 1.7.1: A GTK user interface for TLP written in Python
+sys-process/uksmd-cachyos 1.2.12 1.3.0: Userspace KSM helper daemon (CachyOS version)
 virtual/dist-kernel 6.11.9: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility

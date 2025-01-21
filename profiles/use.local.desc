@@ -291,28 +291,28 @@ sci-electronics/openfpgaloader:gpio - enable libgpiod bitbang support
 sci-electronics/openfpgaloader:remote - enable remote bitbang support
 sys-apps/pacman:doc - Install extended documentation using app-text/doxygen. (Man pages are included by default.)
 sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
+sys-kernel/cachyos-sources:amd-cache-optimizer - Support for AMD 3D V-Cache optimizer driver
+sys-kernel/cachyos-sources:amd-pstate - AMD P-State enhancements and fixes from linux-next
+sys-kernel/cachyos-sources:amd-tlb-broadcast - Support for AMD broadcast TLB invalidation
+sys-kernel/cachyos-sources:aufs - Support for Aufs
+sys-kernel/cachyos-sources:autofdo - Support for generating and using AutoFDO profiles
+sys-kernel/cachyos-sources:bbr3 - BBR v3
+sys-kernel/cachyos-sources:bmq - BMQ CPU scheduler
+sys-kernel/cachyos-sources:bore - BORE CPU scheduler
+sys-kernel/cachyos-sources:clang-polly - Support for Clang's polyhedral loop optimizer
+sys-kernel/cachyos-sources:crypto - Patches to improve performance of CRC32 and AES128 crypto
+sys-kernel/cachyos-sources:deckify - Support for handhelds
+sys-kernel/cachyos-sources:dkms-clang - Remove some Werror CFLAGS to increase compatibility with some DKMS modules in clang-built kernels
+sys-kernel/cachyos-sources:fixes - CachyOS fixes
+sys-kernel/cachyos-sources:hardened - linux-hardened patchset
+sys-kernel/cachyos-sources:ntsync - NTSync module support
+sys-kernel/cachyos-sources:perf-per-core - Allows reading per-core CPU energy usage for AMD users
+sys-kernel/cachyos-sources:pksm - KSM patch for proper working of uksmd daemon from pf
+sys-kernel/cachyos-sources:preempt-lazy - Support for PREEMPT_LAZY
+sys-kernel/cachyos-sources:rt - RT patches
+sys-kernel/cachyos-sources:t2 - T2 Macbook support
+sys-kernel/cachyos-sources:zstd - Latest and improved ZSTD patch-set
 sys-kernel/liquorix-sources:cjk - Enable cjktty Patches.
-sys-kernel/tkg-sources:Arch - Use Arch patches
-sys-kernel/tkg-sources:O3 - Enable O3 optimization
-sys-kernel/tkg-sources:acs-override - Use ACS override patch
-sys-kernel/tkg-sources:aggressive-ondemand - Use an aggressive ondemand governor for PDS/BMQ
-sys-kernel/tkg-sources:bbr3 - Use BBR v3 (unsupported)
-sys-kernel/tkg-sources:bmq - Use BMQ CPU scheduler
-sys-kernel/tkg-sources:bore - Use BORE CPU scheduler
-sys-kernel/tkg-sources:clear - Use Clear Linux patches
-sys-kernel/tkg-sources:crypto - Use patches to improve performance of CRC32 and AES128 crypto (unsupported)
-sys-kernel/tkg-sources:eevdf - Use EEVDF CPU scheduler
-sys-kernel/tkg-sources:glitched-base - Use various patches and tweaks from Zen/Liquorix, Xanmod and the community
-sys-kernel/tkg-sources:graysky - Use graysky's cpu opts patch
-sys-kernel/tkg-sources:misc-adds - Enable misc additions
-sys-kernel/tkg-sources:ntsync - Enable builtin support for ntsync
-sys-kernel/tkg-sources:openrgb - Add OpenRGB compatibility for certain i2c controllers
-sys-kernel/tkg-sources:pds - Use PDS CPU scheduler
-sys-kernel/tkg-sources:rt - Use RT patches (unsupported)
-sys-kernel/tkg-sources:sched-yield-type-0 - No yield for PDS/BMQ
-sys-kernel/tkg-sources:sched-yield-type-1 - Yield only to better priority/deadline tasks for PDS/Deboost and requeue task for BMQ
-sys-kernel/tkg-sources:sched-yield-type-2 - Expire timeslice and recalculate deadline for PDS/Set rq skip task for BMQ
-sys-kernel/tkg-sources:zstd - Use latest and improved ZSTD patch-set (unsupported)
 sys-kernel/xanmod-kernel:clang - Use clang compiler instead of GCC
 sys-kernel/xanmod-kernel:debug - Pseudo flag
 sys-kernel/xanmod-kernel:initramfs - Build initramfs along with the kernel.
