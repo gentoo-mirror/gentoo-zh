@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=CLI for building apps using Cloud Native Buildpacks
+EAPI=8
+HOMEPAGE=https://buildpacks.io https://paketo.io https://github.com/buildpacks/pack
+KEYWORDS=~amd64 ~arm64
+LICENSE=Apache-2.0
+RDEPEND=|| ( app-containers/docker-cli app-containers/podman ) !dev-util/pack-cli
+SLOT=0
+SRC_URI=amd64? ( https://github.com/buildpacks/pack/releases/download/v0.36.4/pack-v0.36.4-linux.tgz ) arm64? ( https://github.com/buildpacks/pack/releases/download/v0.36.4/pack-v0.36.4-linux-arm64.tgz )
+_md5_=4268617e4f131d9d5e67a4ab95f42d54
