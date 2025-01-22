@@ -12,4 +12,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://api.nuget.org/v3-flatcontainer/sharpziplib/1.4.2/sharpziplib.1.4.2.nupkg https://api.nuget.org/v3-flatcontainer/utf.unknown/2.5.1/utf.unknown.2.5.1.nupkg
 _eclasses_=edo	367e103a74bf77e6a8da7894d999fa3c	multiprocessing	1e32df7deee68372153dca65f4a7c21f	nuget	5b6663023b71fb1220f230ac225205ae	dotnet-pkg-base	6c5f563c6f9f99038ac0ddf7403e3b55	dotnet-pkg	149be926006315896e1a57f36db1b772	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=b6f26b0e97a2279d0699e1ca1fd07ce1
+_md5_=59140c4099e181f09bcea28735a325aa

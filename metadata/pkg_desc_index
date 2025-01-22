@@ -30,8 +30,8 @@ app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snap
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-moegirl 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-moegirl-bin 20250111: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20241220: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-moegirl-bin 20250113: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-sougou-baidu 20250122: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.1: AppFlowy is an open-source alternative to Notion
@@ -95,7 +95,7 @@ app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, 
 app-text/cajviewer 1.3.22 9.0: Document Viewer for CAJ, KDH, NH, TEB and PDF format
 app-text/goldendict 24.05.05 24.09.1: Feature-rich dictionary lookup program (qtwebengine fork)
 app-text/groff-utf8 0-r1: GNU groff wrapper allowing UTF-8 input
-app-text/imewlconverter 3.1.1 9999: An open source and free input method dictionary conversion program
+app-text/imewlconverter 3.2.0 9999: An open source and free input method dictionary conversion program
 app-vim/easymotion 1.3 3.0.1: vim plugin: Vim motions on speed!
 app-vim/powerline 9999: vim plugin: The ultimate vim statusline utility.
 dev-build/gyp 20230914150222 99999999999999: GYP (Generate Your Projects) meta-build system
@@ -120,7 +120,7 @@ dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
 dev-libs/v2ray-domain-list-community 20241221105938: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
-dev-libs/v2ray-geoip 202412201411: GeoIP for V2Ray.
+dev-libs/v2ray-geoip 202501190004: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202411022212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
@@ -134,7 +134,7 @@ dev-python/fuo-netease 1.0.3: netease cloud music support for feeluown
 dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
 dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/mw2fcitx 0.16.0: Build fcitx5 libraries from MediaWiki sites
+dev-python/mw2fcitx 0.18.1: Build fcitx5 libraries from MediaWiki sites
 dev-python/nvchecker 2.16: nvchecker is for checking if a new version of some software has been released
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.53.0: Tool for converting Chinese characters to pinyin
@@ -279,13 +279,13 @@ net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.176.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.1: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.6.0: Mihomo Party
-net-proxy/naiveproxy-bin 132.0.6834.79_p1: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 132.0.6834.79_p2: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.9.7 1.10.7: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
-net-proxy/trojan-go-fork 2024.12.21: A fork of trojan-go
+net-proxy/trojan-go-fork 2025.01.22: A fork of trojan-go
 net-proxy/v2ray 5.22.0 5.23.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.23.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.3 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel

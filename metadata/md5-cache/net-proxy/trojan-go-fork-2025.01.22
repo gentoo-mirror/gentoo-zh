@@ -1,4 +1,4 @@
-BDEPEND=>=dev-lang/go-1.22 virtual/pkgconfig >=dev-lang/go-1.20:= app-arch/unzip
+BDEPEND=>=dev-lang/go-1.23 virtual/pkgconfig >=dev-lang/go-1.20:= app-arch/unzip
 DEFINED_PHASES=compile install unpack
 DEPEND=app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
 DESCRIPTION=A fork of trojan-go
@@ -10,6 +10,6 @@ LICENSE=GPL-3
 RDEPEND=app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/Potterli20/trojan-go-fork/archive/refs/tags/V2024.12.21.tar.gz -> trojan-go-fork-2024.12.21.tar.gz https://github.com/blackteahamburger/gentoo-deps/releases/download/trojan-go-fork-2024.12.21/trojan-go-fork-2024.12.21-vendor.tar.xz
+SRC_URI=https://github.com/Potterli20/trojan-go-fork/archive/refs/tags/V2025.01.22.tar.gz -> trojan-go-fork-2025.01.22.tar.gz https://github.com/blackteahamburger/gentoo-deps/releases/download/trojan-go-fork-2025.01.22/trojan-go-fork-2025.01.22-vendor.tar.xz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0	multiprocessing	1e32df7deee68372153dca65f4a7c21f	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	go-module	df32d29550d40a92da723d3b8e17b467
-_md5_=2b869194e583c3b8a9f813b99c5a5e0f
+_md5_=d89a508c420c8b581fecc973fef655ee
