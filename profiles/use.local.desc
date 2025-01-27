@@ -84,13 +84,9 @@ app-misc/joshuto:fzf - Fuzzy search via fzf
 app-misc/yazi:cli - Install CLI Data Distribution Service
 app-text/goldendict:epwing - Enable EPWING Dictionary Format
 app-text/goldendict:ffmpeg - Use ffmpeg to play audio
-app-text/goldendict:multimedia - Use Qt5 Multimedia and GStreamer to play audio
-app-text/goldendict:opencc - Add chinese conversion support
 app-text/goldendict:systemfmt - Build with dev-lib/libfmt
 app-text/goldendict:systemtoml - Build with dev-cpp/tomlplusplus
 app-text/goldendict:tts - Enable QTexttoSpeech support
-app-text/goldendict:wayland - Allow run under wayland.
-app-text/goldendict:xapian - Add Xapian full text search support
 app-text/goldendict:zim - Add Zim and Slob formats support
 dev-cpp/cppcoro:shared - Build shared library instead of static library.
 dev-cpp/tgbot-cpp:shared-libs - Build shared library instead of static library.
