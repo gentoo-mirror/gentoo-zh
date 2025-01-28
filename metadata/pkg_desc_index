@@ -147,7 +147,6 @@ dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.2.35332: Manage all your JetBrains Projects and Tools
 dev-util/mamba 1.5.10: The Fast Cross-Platform Package Manager
-dev-util/mongodb-compass-bin 1.45.1: The GUI for MongoDB
 dev-util/pack-cli 0.36.4: CLI for building apps using Cloud Native Buildpacks
 dev-util/pack-cli-bin 0.36.4: CLI for building apps using Cloud Native Buildpacks
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
