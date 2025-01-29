@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=MIT 0BSD Apache-2.0 BSD-2 BSD CC0-1.0 ISC MIT MPL-2.0 Unicode-3.0 WTFPL-2
 SLOT=0
 SRC_URI=https://github.com/shadowsocks/shadowsocks-rust/archive/v1.22.0.tar.gz -> shadowsocks-rust-1.22.0.tar.gz https://github.com/peeweep/gentoo-go-deps/releases/download/shadowsocks-rust-1.22.0/shadowsocks-rust-1.22.0-crates.tar.xz
-_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	44c8464f6266787f32aab8b1f056a28b	rust-toolchain	3f822985d9297438ed2443aa1fbdf33e	cargo	313cf4d416506d4c3d8b9c5dbd9ce689	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	b012b0371821bfd49fee2a8760fb18e3	rust-toolchain	3f822985d9297438ed2443aa1fbdf33e	cargo	313cf4d416506d4c3d8b9c5dbd9ce689	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	systemd	54bd206bb5c4efac6ae28b6b006713b0
 _md5_=ae42ecfeb99f9e61ee0fa2db2a3ecf65
