@@ -1,5 +1,5 @@
 BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
-DEFINED_PHASES=install postinst postrm setup unpack
+DEFINED_PHASES=install postinst postrm setup
 DESCRIPTION=An open-source Chinese font derived from Klee One (Fontworks).
 EAPI=7
 HOMEPAGE=https://github.com/ButTaiwan/iansui
@@ -8,6 +8,6 @@ IUSE=X
 KEYWORDS=~amd64
 LICENSE=OFL-1.1
 SLOT=0
-SRC_URI=https://github.com/ButTaiwan/iansui/archive/refs/tags/v1.000.tar.gz -> iansui-1.000.tar.gz
+SRC_URI=https://github.com/ButTaiwan/iansui/archive/refs/tags/v1.011.tar.gz -> iansui-1.011.tar.gz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
-_md5_=b6d5bb61df68cfa854114ddc34717079
+_md5_=71500df373fe19b325f0036b77abeb9b
