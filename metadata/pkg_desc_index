@@ -213,7 +213,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.6: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.16.2_p2: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.16.2_p3: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.13: Play website videos and songs with mpv & yt-dlp
