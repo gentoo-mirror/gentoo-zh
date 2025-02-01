@@ -7,5 +7,5 @@ LICENSE=GPL-3
 RDEPEND=sys-apps/systemd sys-fs/fuse:0
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/isd-project/isd/releases/download/v0.3.0/isd.AppImage -> isd-0.3.0.AppImage
-_md5_=4f589951d4f5267c18f9f38c4846ec5a
+SRC_URI=https://github.com/isd-project/isd/releases/download/v0.4.0/isd.x86_64-linux.AppImage -> isd-0.4.0.AppImage
+_md5_=ed912d862326fac517d3c99c518ac286
