@@ -290,7 +290,6 @@ sys-kernel/cachyos-sources:amd-cache-optimizer - Support for AMD 3D V-Cache opti
 sys-kernel/cachyos-sources:amd-pstate - AMD P-State enhancements and fixes from linux-next
 sys-kernel/cachyos-sources:amd-tlb-broadcast - Support for AMD broadcast TLB invalidation
 sys-kernel/cachyos-sources:aufs - Support for Aufs
-sys-kernel/cachyos-sources:autofdo - Support for generating and using AutoFDO profiles
 sys-kernel/cachyos-sources:bbr3 - BBR v3
 sys-kernel/cachyos-sources:bore - BORE CPU scheduler
 sys-kernel/cachyos-sources:clang-polly - Support for Clang's polyhedral loop optimizer

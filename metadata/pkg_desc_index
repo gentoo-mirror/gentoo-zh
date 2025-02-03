@@ -118,7 +118,7 @@ dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20241221105938: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20250124154827: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202501190004: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
@@ -303,7 +303,7 @@ sci-electronics/lceda-pro 2.2.35.1: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
 sys-apps/aptly 1.5.0 9999: A swiss army knife for Debian repository management
-sys-apps/isd 0.4.0: isd (interactive systemd) — a better way to work with systemd units
+sys-apps/isd 0.4.1: isd (interactive systemd) — a better way to work with systemd units
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
@@ -315,7 +315,7 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
-sys-kernel/cachyos-sources 6.12.11 6.13.0: Full Cachyos sources including the Gentoo patchset for the 6.13 kernel tree
+sys-kernel/cachyos-sources 6.12.12 6.13.1: Full Cachyos sources including the Gentoo patchset for the 6.13 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
 sys-kernel/xanmod-kernel 6.11.9: XanMod lts kernel built with Gentoo patches and cjktty
