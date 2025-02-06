@@ -9,6 +9,6 @@ KEYWORDS=~amd64
 LICENSE=all-rights-reserved
 RESTRICT=strip mirror
 SLOT=0
-SRC_URI=amd64? ( https://file-assets.apifox.com/download/Apifox-linux-latest.zip -> apifox-2.6.46-amd64.zip )
+SRC_URI=amd64? ( https://file-assets.apifox.com/download/Apifox-linux-latest.zip -> apifox-2.6.47-amd64.zip )
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=e71095fd75ab442d40e6179e64992542
