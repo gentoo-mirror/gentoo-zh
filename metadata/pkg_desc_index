@@ -210,7 +210,7 @@ media-sound/qqmusic 1.1.7: Tencent QQ Music, converted from .deb package
 media-sound/spotube-bin 3.9.0: A lightweight Spotify client using YouTube as audio source
 media-sound/termusic 0.9.1: Terminal Music and Podcast Player written in Rust
 media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
-media-sound/ytmdesktop-bin 2.0.6: A Desktop App for YouTube Music
+media-sound/ytmdesktop-bin 2.0.7: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
 media-video/bilibili 1.16.2_p3: Based on the Bilibli offcial client to linux version, support roaming
@@ -336,7 +336,7 @@ www-apps/follow-bin 0.3.3_beta0: Next generation information browser
 www-client/brave-bin 1.74.51: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
-www-servers/miniserve 0.28.0: For when you really just want to serve some files over HTTP right now!
+www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
