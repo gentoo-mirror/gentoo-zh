@@ -35,7 +35,7 @@ app-dicts/fcitx-pinyin-sougou-baidu 20250122: Sougou & Baidu Pinyin dictionary f
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.3: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.44.11-r1 0.45.9: Cursor App - AI-first coding environment
+app-editors/cursor 0.44.11-r1 0.45.10: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.9.3: A truely minimal markdown editor.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -292,7 +292,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.26.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.6.3 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-vpn/cloudflared-bin 2025.1.1: Cloudflare Tunnel client (formerly Argo Tunnel)
+net-vpn/cloudflared-bin 2025.2.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
 sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
