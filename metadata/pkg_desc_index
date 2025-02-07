@@ -145,7 +145,7 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
-dev-util/jetbrains-toolbox 1.28.1.15219 2.5.2.35332: Manage all your JetBrains Projects and Tools
+dev-util/jetbrains-toolbox 1.28.1.15219 2.5.3.37797: Manage all your JetBrains Projects and Tools
 dev-util/mamba 1.5.10: The Fast Cross-Platform Package Manager
 dev-util/pack-cli 0.36.4: CLI for building apps using Cloud Native Buildpacks
 dev-util/pack-cli-bin 0.36.4: CLI for building apps using Cloud Native Buildpacks
@@ -242,7 +242,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.42.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.4: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/apifox 2.6.47: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.6.48: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
@@ -333,7 +333,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/chatgpt-desktop 1.1.0: ChatGPT Desktop Application
 www-apps/follow-bin 0.3.3_beta0: Next generation information browser
-www-client/brave-bin 1.74.51: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.75.175: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
