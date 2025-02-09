@@ -289,7 +289,7 @@ net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.01.22: A fork of trojan-go
 net-proxy/v2ray 5.22.0 5.23.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.26.0: A platform for building proxies to bypass network restrictions
-net-proxy/v2rayA 2.2.6.3 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
+net-proxy/v2rayA 2.2.6.5 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
 net-vpn/cloudflared-bin 2025.2.0: Cloudflare Tunnel client (formerly Argo Tunnel)
