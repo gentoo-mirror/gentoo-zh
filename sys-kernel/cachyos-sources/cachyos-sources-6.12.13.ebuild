@@ -4,16 +4,16 @@
 EAPI="8"
 ETYPE="sources"
 K_WANT_GENPATCHES="base extras"
-K_GENPATCHES_VER="2"
+K_GENPATCHES_VER="16"
 K_SECURITY_UNSUPPORTED="1"
 K_NOSETEXTRAVERSION="1"
 
-inherit check-reqs kernel-2 optfeature
+inherit check-reqs kernel-2
 detect_version
 detect_arch
 
 MY_KV="${KV_MAJOR}.${KV_MINOR}"
-AUFS_V="20250127"
+AUFS_V="20250106"
 GIT_COMMIT_CACHYOS="3216bcc085f66090b5a9c891e16b8516c6760856"
 
 DESCRIPTION="Full Cachyos sources including the Gentoo patchset for the ${MY_KV} kernel tree"
@@ -21,23 +21,21 @@ HOMEPAGE="https://cachyos.org"
 CACHYOS_URI="https://raw.githubusercontent.com/CachyOS/kernel-patches/${GIT_COMMIT_CACHYOS}/${MY_KV}"
 SRC_URI="
 	${KERNEL_URI} ${GENPATCHES_URI} ${ARCH_URI}
-	${CACHYOS_URI}/0004-cachy.patch -> ${P}-0004-cachy.patch
-	amd-pstate? ( ${CACHYOS_URI}/0001-amd-pstate.patch -> ${P}-0001-amd-pstate.patch )
-	amd-tlb-broadcast? ( ${CACHYOS_URI}/0002-amd-tlb-broadcast.patch -> ${P}-0002-amd-tlb-broadcast.patch )
-	bbr3? ( ${CACHYOS_URI}/0003-bbr3.patch -> ${P}-0003-bbr3.patch )
-	crypto? ( ${CACHYOS_URI}/0005-crypto.patch -> ${P}-0005-crypto.patch )
-	fixes? ( ${CACHYOS_URI}/0006-fixes.patch -> ${P}-0006-fixes.patch )
-	itmt-core-ranking? ( ${CACHYOS_URI}/0007-itmt-core-ranking.patch -> ${P}-0007-itmt-core-ranking.patch )
-	ntsync? ( ${CACHYOS_URI}/0008-ntsync.patch -> ${P}-0008-ntsync.patch )
-	perf-per-core? ( ${CACHYOS_URI}/0009-perf-per-core.patch -> ${P}-0009-perf-per-core.patch )
-	pksm? ( ${CACHYOS_URI}/0010-pksm.patch -> ${P}-0010-pksm.patch )
-	t2? ( ${CACHYOS_URI}/0011-t2.patch -> ${P}-0011-t2.patch )
-	zstd? ( ${CACHYOS_URI}/0012-zstd.patch -> ${P}-0012-zstd.patch )
+	${CACHYOS_URI}/0003-cachy.patch -> ${P}-0003-cachy.patch
+	amd-cache-optimizer? ( ${CACHYOS_URI}/0001-amd-cache-optimizer.patch -> ${P}-0001-amd-cache-optimizer.patch )
+	bbr3? ( ${CACHYOS_URI}/0002-bbr3.patch -> ${P}-0002-bbr3.patch )
+	fixes? ( ${CACHYOS_URI}/0004-fixes.patch -> ${P}-0004-fixes.patch )
+	ntsync? ( ${CACHYOS_URI}/0005-ntsync.patch -> ${P}-0005-ntsync.patch )
+	perf-per-core? ( ${CACHYOS_URI}/0006-perf-per-core.patch -> ${P}-0006-perf-per-core.patch )
+	t2? ( ${CACHYOS_URI}/0007-t2.patch -> ${P}-0007-t2.patch )
+	zstd? ( ${CACHYOS_URI}/0008-zstd.patch -> ${P}-0008-zstd.patch )
 	bore? ( ${CACHYOS_URI}/sched/0001-bore-cachy.patch -> ${P}-0001-bore-cachy.patch )
 	prjc? ( ${CACHYOS_URI}/sched/0001-prjc-cachy.patch -> ${P}-0001-prjc-cachy.patch )
-	rt? ( ${CACHYOS_URI}/misc/0001-rt-i915.patch -> ${P}-0001-rt-i915.patch )
+	hardened? ( ${CACHYOS_URI}/misc/0001-hardened.patch -> ${P}-0001-hardened.patch )
+	rt? ( ${CACHYOS_URI}/misc/0001-rt.patch -> ${P}-0001-rt.patch )
 	dkms-clang? ( ${CACHYOS_URI}/misc/dkms-clang.patch -> ${P}-dkms-clang.patch )
 	clang-polly? ( ${CACHYOS_URI}/misc/0001-clang-polly.patch -> ${P}-0001-clang-polly.patch )
+	preempt-lazy? ( ${CACHYOS_URI}/misc/0001-preempt-lazy.patch -> ${P}-0001-preempt-lazy.patch )
 	aufs? ( ${CACHYOS_URI}/misc/0001-aufs-${MY_KV}-merge-v${AUFS_V}.patch
 		-> ${P}-0001-aufs-${MY_KV}-merge-v${AUFS_V}.patch )
 	deckify? (
@@ -46,7 +44,7 @@ SRC_URI="
 	)
 "
 KEYWORDS="~amd64"
-IUSE="amd-pstate amd-tlb-broadcast bbr3 +crypto +fixes itmt-core-ranking ntsync perf-per-core pksm t2 +zstd +bore prjc rt dkms-clang clang-polly aufs deckify"
+IUSE="amd-cache-optimizer bbr3 +fixes ntsync perf-per-core t2 +zstd +bore prjc hardened rt dkms-clang clang-polly preempt-lazy aufs deckify"
 REQUIRED_USE="?? ( bore prjc )"
 
 pkg_pretend() {
@@ -60,23 +58,21 @@ src_unpack() {
 }
 
 src_prepare() {
-	use amd-pstate && eapply "${DISTDIR}/${P}-0001-amd-pstate.patch"
-	use amd-tlb-broadcast && eapply "${DISTDIR}/${P}-0002-amd-tlb-broadcast.patch"
-	use bbr3 && eapply "${DISTDIR}/${P}-0003-bbr3.patch"
-	eapply "${DISTDIR}/${P}-0004-cachy.patch"
-	use crypto && eapply "${DISTDIR}/${P}-0005-crypto.patch"
-	use fixes && eapply "${DISTDIR}/${P}-0006-fixes.patch"
-	use itmt-core-ranking && eapply "${DISTDIR}/${P}-0007-itmt-core-ranking.patch"
-	use ntsync && eapply "${DISTDIR}/${P}-0008-ntsync.patch"
-	use perf-per-core && eapply "${DISTDIR}/${P}-0009-perf-per-core.patch"
-	use pksm && eapply "${DISTDIR}/${P}-0010-pksm.patch"
-	use t2 && eapply "${DISTDIR}/${P}-0011-t2.patch"
-	use zstd && eapply "${DISTDIR}/${P}-0012-zstd.patch"
+	use amd-cache-optimizer && eapply "${DISTDIR}/${P}-0001-amd-cache-optimizer.patch"
+	use bbr3 && eapply "${DISTDIR}/${P}-0002-bbr3.patch"
+	eapply "${DISTDIR}/${P}-0003-cachy.patch"
+	use fixes && eapply "${DISTDIR}/${P}-0004-fixes.patch"
+	use ntsync && eapply "${DISTDIR}/${P}-0005-ntsync.patch"
+	use perf-per-core && eapply "${DISTDIR}/${P}-0006-perf-per-core.patch"
+	use t2 && eapply "${DISTDIR}/${P}-0007-t2.patch"
+	use zstd && eapply "${DISTDIR}/${P}-0008-zstd.patch"
 	use bore && eapply "${DISTDIR}/${P}-0001-bore-cachy.patch"
 	use prjc && eapply "${DISTDIR}/${P}-0001-prjc-cachy.patch"
-	use rt && eapply "${DISTDIR}/${P}-0001-rt-i915.patch"
+	use hardened && eapply "${DISTDIR}/${P}-0001-hardened.patch"
+	use rt && eapply "${DISTDIR}/${P}-0001-rt.patch"
 	use dkms-clang && eapply "${DISTDIR}/${P}-dkms-clang.patch"
 	use clang-polly && eapply "${DISTDIR}/${P}-0001-clang-polly.patch"
+	use preempt-lazy && eapply "${DISTDIR}/${P}-0001-preempt-lazy.patch"
 	use aufs && eapply "${DISTDIR}/${P}-0001-aufs-${MY_KV}-merge-v${AUFS_V}.patch"
 
 	if use deckify; then
@@ -102,8 +98,6 @@ pkg_postinst() {
 	kernel-2_pkg_postinst
 	einfo "For more info on this patchset, and how to report problems, see:"
 	einfo "${HOMEPAGE}"
-
-	use pksm && optfeature "userspace KSM helper" sys-process/uksmd-cachyos sys-process/uksmd
 }
 
 pkg_postrm() {
