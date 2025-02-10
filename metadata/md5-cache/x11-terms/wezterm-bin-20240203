@@ -7,9 +7,9 @@ INHERIT=xdg
 IUSE=wayland +X
 KEYWORDS=-* ~amd64
 LICENSE=MIT
-RDEPEND=sys-apps/dbus >=media-libs/fontconfig-2.12 >=dev-libs/openssl-1.1 wayland? ( dev-libs/wayland dev-libs/wayland-protocols ) X? ( >=x11-libs/libX11-1.7.5 >=x11-libs/libxcb-1.8 >=x11-libs/xcb-util-0.4 >=x11-libs/xcb-util-wm-0.4.1 >=x11-libs/xcb-util-image-0.2.1 >=x11-libs/xcb-util-keysyms-0.4 x11-libs/libxkbcommon[X] ) x11-themes/hicolor-icon-theme
+RDEPEND=sys-apps/dbus >=media-libs/fontconfig-2.12 || ( dev-libs/openssl-compat:1.1.1 dev-libs/openssl:0/1.1 ) wayland? ( dev-libs/wayland dev-libs/wayland-protocols ) X? ( >=x11-libs/libX11-1.7.5 >=x11-libs/libxcb-1.8 >=x11-libs/xcb-util-0.4 >=x11-libs/xcb-util-wm-0.4.1 >=x11-libs/xcb-util-image-0.2.1 >=x11-libs/xcb-util-keysyms-0.4 x11-libs/libxkbcommon[X] ) x11-themes/hicolor-icon-theme
 REQUIRED_USE=|| ( wayland X )
 SLOT=0
 SRC_URI=https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz
 _eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=6e992c643f9fed9b2e350ec1e3ca10f9
+_md5_=64959562c41bc2cf93ada568ec9ab627
