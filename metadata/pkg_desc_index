@@ -280,7 +280,7 @@ net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.176.2: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.2: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.6.0 1.7.1: Mihomo Party
-net-proxy/naiveproxy-bin 132.0.6834.79_p2: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 133.0.6943.49_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
