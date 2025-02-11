@@ -153,7 +153,6 @@ dev-util/pacstrap 29: Pacstrap - install packages to the specified new root dire
 dev-util/patchelf-liblol 0.1.4: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 4.0.0: A log file highlighter
-dev-util/tauri-cli 1.5.9 2.0.0_alpha17: Command line interface for building Tauri apps
 dev-util/vfox 0.6.0: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.0: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
@@ -284,7 +283,7 @@ net-proxy/naiveproxy-bin 133.0.6943.49_p1: A proxy using Chromium's network stac
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.9.7 1.10.7 1.11.2: The universal proxy platform.
+net-proxy/sing-box 1.9.7 1.10.7 1.11.3: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.01.22: A fork of trojan-go
 net-proxy/v2ray 5.22.0 5.23.0: A platform for building proxies to bypass network restrictions.
