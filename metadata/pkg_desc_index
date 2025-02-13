@@ -287,7 +287,7 @@ net-proxy/sing-box 1.9.7 1.10.7 1.11.3: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.01.22: A fork of trojan-go
 net-proxy/v2ray 5.22.0 5.23.0: A platform for building proxies to bypass network restrictions.
-net-proxy/v2ray-bin 4.45.0-r2 5.26.0: A platform for building proxies to bypass network restrictions
+net-proxy/v2ray-bin 4.45.0-r2 5.27.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.5 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
@@ -308,7 +308,7 @@ sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
 sys-apps/pnpm 9.15.4: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
-sys-boot/ventoy-bin 1.1.00: A new multiboot USB solution
+sys-boot/ventoy-bin 1.1.02: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
 sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
@@ -333,7 +333,7 @@ virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 0.9.21: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.3.3_beta0: Next generation information browser
 www-client/brave-bin 1.75.175: Web browser that blocks ads and trackers by default
-www-client/thorium-browser-bin 128.0.6613.189: Chromium fork focused on high performance and security
+www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
