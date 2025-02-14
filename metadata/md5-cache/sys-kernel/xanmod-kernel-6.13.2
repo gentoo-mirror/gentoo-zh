@@ -5,14 +5,13 @@ EAPI=8
 HOMEPAGE=https://www.kernel.org/
 IDEPEND=!initramfs? ( >=sys-kernel/installkernel-14 ) initramfs? ( || ( >=sys-kernel/installkernel-14[dracut(-)] >=sys-kernel/installkernel-14[ugrd(-)] ) )
 INHERIT=kernel-build toolchain-funcs
-IUSE=clang debug +x86-64-v2 x86-64-v3 x86-64-v4 savedconfig +initramfs test +strip
+IUSE=clang debug savedconfig +initramfs test +strip
 KEYWORDS=~amd64
 LICENSE=GPL-2
-PDEPEND=>=virtual/dist-kernel-6.11.9
+PDEPEND=>=virtual/dist-kernel-6.13.2
 RDEPEND=virtual/libelf
-REQUIRED_USE=^^ ( x86-64-v2 x86-64-v3 x86-64-v4 )
 RESTRICT=!test? ( test ) test? ( userpriv ) arm? ( test )
-SLOT=6.11.9
-SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.11.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.11-11.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.11-11.extras.tar.xz https://download.sourceforge.net/xanmod/patch-6.11.9-xanmod1.xz
+SLOT=6.13.2
+SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.13-3.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.13-3.extras.tar.xz https://download.sourceforge.net/xanmod/patch-6.13.2-xanmod1.xz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-any-r1	6ddb5e75c10db046f89ebe39c85e1d82	portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	dist-kernel-utils	97700892f3bc8ee315ee55ff5297a739	kernel-install	0b514a68b37af1d396618edfbf1dd064	kernel-build	181daddd7aea64d9ff4057bd1c7b472e
-_md5_=e0a949231064ea95211b04e96024e1d4
+_md5_=094ed3bc3e639cfa2f093338467be33f
