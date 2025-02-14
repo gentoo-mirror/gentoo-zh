@@ -8,6 +8,6 @@ KEYWORDS=~amd64
 LICENSE=Cherry-Studio
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.23/Cherry-Studio-0.9.23-x86_64.AppImage -> cherry-studio-bin-0.9.23.AppImage
+SRC_URI=https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.24/Cherry-Studio-0.9.24-x86_64.AppImage -> cherry-studio-bin-0.9.24.AppImage
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=927d556e2bb3053ef050ea702f60ab0a
