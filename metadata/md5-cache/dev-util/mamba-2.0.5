@@ -1,4 +1,4 @@
-BDEPEND=python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_10? ( dev-python/pybind11[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/pybind11[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/pybind11[python_targets_python3_12(-)] ) ) app-alternatives/ninja >=dev-build/cmake-3.20.5
+BDEPEND=python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_10? ( dev-python/pybind11[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/pybind11[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/pybind11[python_targets_python3_12(-)] ) python_single_target_python3_10? ( dev-python/scikit-build[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/scikit-build[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/scikit-build[python_targets_python3_12(-)] ) ) app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare setup test
 DEPEND=app-arch/libarchive:= app-arch/zstd:= dev-cpp/cli11 dev-cpp/nlohmann_json dev-cpp/reproc:= dev-cpp/tl-expected dev-cpp/yaml-cpp:= dev-libs/libfmt:= dev-libs/spdlog net-misc/curl sys-libs/libsolv:=[conda] python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) )
 DESCRIPTION=The Fast Cross-Platform Package Manager
@@ -12,6 +12,6 @@ RDEPEND=app-arch/libarchive:= app-arch/zstd:= dev-cpp/cli11 dev-cpp/nlohmann_jso
 REQUIRED_USE=python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 ) )
 RESTRICT=test
 SLOT=0/2
-SRC_URI=https://github.com/mamba-org/mamba/archive/refs/tags/mamba-1.5.10.tar.gz
+SRC_URI=https://github.com/mamba-org/mamba/archive/refs/tags/2024.12.12.tar.gz -> mamba-2.0.5.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	distutils-r1	85ccd3b54a6533fb120ee52b7c76a3df	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056
-_md5_=b217339f72e94187915a6dabc35a9f5f
+_md5_=248c8728a95141a0265cc304774c2d0e
