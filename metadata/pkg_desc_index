@@ -15,7 +15,7 @@ acct-user/n2n 0: System user: n2n
 acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/vintagestory 0: User for Vintage Story Server
-app-admin/chezmoi 2.59.1: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi 2.59.1-r1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/chezmoi-bin 2.59.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
