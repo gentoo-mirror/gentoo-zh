@@ -1,0 +1,10 @@
+DEFINED_PHASES=prepare
+DESCRIPTION=Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
+EAPI=8
+HOMEPAGE=https://packages.debian.org/stable/source/zh-autoconvert
+IUSE=static-libs
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://salsa.debian.org/chinese-team/zh-autoconvert/-/archive/debian/0.3.16-10/zh-autoconvert-debian-0.3.16-10.tar.gz
+_md5_=103b4596a44fc057b5eb757239d9dd91

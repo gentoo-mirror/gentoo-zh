@@ -70,7 +70,7 @@ app-i18n/ibus-rime 9999: Rime Input Method Engine for IBus Framework
 app-i18n/libime 9999: Fcitx5 Next generation of fcitx
 app-i18n/libime-jyutping 1.0.13: A library make use of libime to implement jyutping input method
 app-i18n/lunar 2.2-r5: Chinese Lunar Calendar conversion utility
-app-i18n/zh-autoconvert 0.3.16_p7: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
+app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
 app-misc/go-yq-bin 4.45.1: yq is a portable command-line YAML, JSON and XML processor
