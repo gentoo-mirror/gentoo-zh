@@ -142,7 +142,7 @@ dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-util/android-studio 2024.2.2.13: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
-dev-util/asdf-vm 0.15.0 0.16.2: Manage all your runtime versions with one tool
+dev-util/asdf-vm 0.15.0 0.16.3: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/cargo-about 0.6.6: Cargo plugin to generate list of all licenses for a crate
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
