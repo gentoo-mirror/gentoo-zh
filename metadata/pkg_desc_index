@@ -154,8 +154,8 @@ dev-util/pacstrap 29: Pacstrap - install packages to the specified new root dire
 dev-util/patchelf-liblol 0.1.4: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 4.0.0: A log file highlighter
-dev-util/vfox 0.6.0: A cross-platform version manager, extendable via plugins
-dev-util/vfox-bin 0.6.0: A cross-platform version manager, extendable via plugins
+dev-util/vfox 0.6.1: A cross-platform version manager, extendable via plugins
+dev-util/vfox-bin 0.6.1: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 2025.05: Opensource Git GUI client.
