@@ -334,7 +334,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 0.9.27: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.3.5: Next generation information browser
-www-client/brave-bin 1.75.178: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.75.180: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
