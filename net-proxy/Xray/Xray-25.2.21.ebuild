@@ -1,4 +1,4 @@
-# Copyright 1999-2024 Gentoo Authors
+# Copyright 1999-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -8,7 +8,7 @@ inherit go-module systemd
 DESCRIPTION="Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support."
 HOMEPAGE="https://xtls.github.io/ https://github.com/XTLS/Xray-core"
 SRC_URI="https://github.com/XTLS/Xray-core/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz
-	https://github.com/peeweep/gentoo-go-deps/releases/download/${P}/${P}-vendor.tar.xz"
+	https://github.com/gentoo-zh/gentoo-deps/releases/download/${P}/${P}-vendor.tar.xz"
 
 S="${WORKDIR}/${PN}-core-${PV}"
 
@@ -19,7 +19,7 @@ KEYWORDS="~amd64 ~arm ~arm64 ~loong ~riscv ~x86"
 DEPEND="app-alternatives/v2ray-geoip
 	app-alternatives/v2ray-geosite"
 RDEPEND="${DEPEND}"
-BDEPEND=">=dev-lang/go-1.21.4"
+BDEPEND=">=dev-lang/go-1.23"
 
 src_compile() {
 	ego build -o xray -trimpath -ldflags "-w -s -X 'github.com/XTLS/Xray-core/core.build=${PV}'" ./main
