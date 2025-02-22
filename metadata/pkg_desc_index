@@ -325,7 +325,7 @@ sys-kernel/xanmod-sources 6.13.2: Full XanMod source, including the Gentoo patch
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
 sys-libs/libsolv 0.7.31: Library for solving packages and reading repositories
-sys-power/tlpui 1.7.1: A GTK user interface for TLP written in Python
+sys-power/tlpui 1.8.0: A GTK user interface for TLP written in Python
 sys-process/cachyos-ksm-settings 1: Package for easy configuration of KSM via systemd
 virtual/dist-kernel 6.13.2: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
