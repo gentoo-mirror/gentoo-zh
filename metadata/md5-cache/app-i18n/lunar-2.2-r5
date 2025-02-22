@@ -6,4 +6,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=mirror://debian/pool/main/l/lunar/lunar_2.2.orig.tar.gz mirror://debian/pool/main/l/lunar/lunar_2.2-9.debian.tar.xz
-_md5_=687b326fbdb25c215b40e31512389354
+_md5_=a5d1cc669aa0ebe6e295f7da7c07d430
