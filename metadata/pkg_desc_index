@@ -158,7 +158,7 @@ dev-util/vfox 0.6.1: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.1: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
-dev-vcs/sourcegit-bin 2025.05: Opensource Git GUI client.
+dev-vcs/sourcegit-bin 2025.06: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.4: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-fps/source-engine 9999: A 3D game engine developed by Valve
@@ -299,17 +299,17 @@ sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
 sci-electronics/circuitjs1-bin 2.9.1: Electronic Circuit Simulator in the Browser
 sci-electronics/jlc-assistant-bin 5.0.69: JLC Order Assistant (binary package)
 sci-electronics/lceda 6.5.37 6.5.46: LCEDA (binary package)
-sci-electronics/lceda-pro 2.2.36.5: LCEDA Pro (binary package)
+sci-electronics/lceda-pro 2.2.36.7: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
 sys-apps/aptly 1.5.0 9999: A swiss army knife for Debian repository management
-sys-apps/isd 0.5.0: isd (interactive systemd) — a better way to work with systemd units
+sys-apps/isd 0.5.1: isd (interactive systemd) — a better way to work with systemd units
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
 sys-apps/pnpm 9.15.5 10.4.1: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
-sys-boot/ventoy-bin 1.1.04: A new multiboot USB solution
+sys-boot/ventoy-bin 1.1.05: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
 sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
