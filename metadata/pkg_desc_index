@@ -81,7 +81,7 @@ app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.01.01061: Brainstorming and Mind Mapping Software
-app-misc/yazi 25.2.11: Blazing fast terminal file manager written in Rust, based on async I/O.
+app-misc/yazi 25.2.26: Blazing fast terminal file manager written in Rust, based on async I/O.
 app-office/anytype-bin 0.35.4 0.45.3: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.32.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220: A complete, free Microsoft Office-compatible alternative office suite.
@@ -273,7 +273,7 @@ net-proxy/bore 0.5.2: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.7.5: Custom protocol, rule based network proxy
-net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3: (Continuation) of Clash Meta GUI based on Tauri.
+net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3 2.1.1: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 0.9.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
