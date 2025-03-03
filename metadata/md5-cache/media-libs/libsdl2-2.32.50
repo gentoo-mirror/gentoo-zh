@@ -1,5 +1,5 @@
 BDEPEND=virtual/pkgconfig wayland? ( >=dev-util/wayland-scanner-1.20 ) app-alternatives/ninja >=dev-build/cmake-3.20.5
-DEFINED_PHASES=compile configure install prepare test
+DEFINED_PHASES=compile configure install postinst prepare test
 DEPEND=media-libs/libsdl3[vulkan?,wayland?,opengl?,jack?,ibus?,video?,sound?,dbus?,joystick?,abi_x86_32?] !media-libs/libsdl2:0
 DESCRIPTION=SDL2 compat layer over SDL3
 EAPI=8
@@ -14,4 +14,4 @@ RESTRICT=!test? ( test )
 SLOT=2
 SRC_URI=https://github.com/libsdl-org/sdl2-compat/releases/download/release-2.32.50/sdl2-compat-2.32.50.zip
 _eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib-build	9ac26ea006828266d235e2f0135429b5	multilib-minimal	e9f54d75b074edc47d36994bbc1e2123	cmake-multilib	37d23064f303dcf23453353ab8c77059
-_md5_=8e3483d461a40431108b3ad39072ba0f
+_md5_=bc0ecb845ae0ba96e059ea8595913762
