@@ -143,7 +143,7 @@ dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-util/android-studio 2024.3.1.13: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
-dev-util/asdf-vm 0.15.0 0.16.4: Manage all your runtime versions with one tool
+dev-util/asdf-vm 0.15.0 0.16.5: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.4.38621: Manage all your JetBrains Projects and Tools
@@ -154,8 +154,8 @@ dev-util/pacstrap 29: Pacstrap - install packages to the specified new root dire
 dev-util/patchelf-liblol 0.1.4: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 4.0.0: A log file highlighter
-dev-util/vfox 0.6.1: A cross-platform version manager, extendable via plugins
-dev-util/vfox-bin 0.6.1: A cross-platform version manager, extendable via plugins
+dev-util/vfox 0.6.2: A cross-platform version manager, extendable via plugins
+dev-util/vfox-bin 0.6.2: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 2025.07: Opensource Git GUI client.
