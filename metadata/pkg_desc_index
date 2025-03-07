@@ -43,10 +43,10 @@ app-emulation/deepin-wine-helper 5.1.27-r1 5.1.45: Deepin Wine Helper
 app-emulation/deepin-wine-plugin 5.1.13-r1: Deepin Wine plugin
 app-emulation/deepin-wine5 5.0.16-r1: Deepin wine5
 app-emulation/deepin-wine6-stable 6.0.0.52: Deepin wine6 stable
-app-emulation/la-ow-syscall 0.1.0-r1: Linux kernel module for compatibility with LoongArch's old-world ABI
-app-emulation/liblol 0.1.5_pre6 0.1.5: LoongArch old-world ABI compatibility layer from AOSC OS
-app-emulation/liblol-glibc 0.1.5_pre6 0.1.5: GNU libc C library, for liblol
-app-emulation/liblol-libxcrypt 0.1.5_pre6 0.1.5: libxcrypt for liblol
+app-emulation/la-ow-syscall 0.1.1: Linux kernel module for compatibility with LoongArch's old-world ABI
+app-emulation/liblol 0.1.5 0.1.9: LoongArch old-world ABI compatibility layer from AOSC OS
+app-emulation/liblol-glibc 0.1.5 0.1.9: GNU libc C library, for liblol
+app-emulation/liblol-libxcrypt 0.1.5 0.1.9: libxcrypt for liblol
 app-emulation/looking-glass 0_beta7_rc1-r1: A low latency KVMFR application for guests with VGA PCI Passthrough
 app-emulation/winetricks-zh 9999 20240105.1: windows applications setup wizard for Chinese wine users
 app-i18n/cskk 3.1.4: C ABIから使う事を目的とした SKK(Simple Kana Kanji henkan)方式のかな漢字変換ライブラリ
@@ -151,7 +151,7 @@ dev-util/mamba 2.0.5: The Fast Cross-Platform Package Manager
 dev-util/pack-cli 0.36.4: CLI for building apps using Cloud Native Buildpacks
 dev-util/pack-cli-bin 0.36.4: CLI for building apps using Cloud Native Buildpacks
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
-dev-util/patchelf-liblol 0.1.4: patchelf patched for building libLoL only
+dev-util/patchelf-liblol 0.1.9: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 4.0.0: A log file highlighter
 dev-util/vfox 0.6.2: A cross-platform version manager, extendable via plugins

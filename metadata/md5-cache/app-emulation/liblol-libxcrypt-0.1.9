@@ -1,0 +1,16 @@
+BDEPEND=dev-lang/perl >=dev-util/patchelf-liblol-0.1.9 test? ( || ( ( dev-lang/python:3.13 dev-python/passlib[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/passlib[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/passlib[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/passlib[python_targets_python3_10(-)] ) ) )
+DEFINED_PHASES=compile configure install prepare pretend setup test
+DEPEND=elibc_glibc? ( sys-libs/glibc[-crypt(-)] !sys-libs/glibc[crypt(-)] ) elibc_musl? ( sys-libs/musl[-crypt(+)] !sys-libs/musl[crypt(+)] )
+DESCRIPTION=libxcrypt for liblol
+EAPI=8
+HOMEPAGE=https://github.com/besser82/libxcrypt https://liblol.aosc.io
+INHERIT=crossdev multibuild multilib python-any-r1 flag-o-matic toolchain-funcs multilib-minimal
+IUSE=static-libs test headers-only abi_x86_32 abi_x86_64 abi_x86_x32 abi_mips_n32 abi_mips_n64 abi_mips_o32 abi_s390_32 abi_s390_64
+KEYWORDS=-* ~loong
+LICENSE=LGPL-2.1+ public-domain BSD BSD-2
+RDEPEND=elibc_glibc? ( sys-libs/glibc[-crypt(-)] !sys-libs/glibc[crypt(-)] ) elibc_musl? ( sys-libs/musl[-crypt(+)] !sys-libs/musl[crypt(+)] )
+RESTRICT=!test? ( test )
+SLOT=0/1
+SRC_URI=https://dev.gentoo.org/~sam/distfiles/sys-libs/libxcrypt/libxcrypt-4.4.38-autotools.tar.xz
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	crossdev	f04338ff78f213a4a55c5c37b3c6563e	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	b7726144f5af59e186d66746d0f513e5	python-any-r1	891415dfe39ad9b41b461f2b86354af0	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multilib-build	9ac26ea006828266d235e2f0135429b5	multilib-minimal	e9f54d75b074edc47d36994bbc1e2123
+_md5_=a68a8018b9797cef4f9a23ad326adad2
