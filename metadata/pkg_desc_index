@@ -268,7 +268,7 @@ net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.0.3.10: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
-net-proxy/Xray 25.2.21: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 25.3.6: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/bore 0.5.2: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
