@@ -281,7 +281,7 @@ net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.177.0: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.3: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.6.0 1.7.1: Mihomo Party
-net-proxy/naiveproxy-bin 133.0.6943.49_p1: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 134.0.6998.39_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
@@ -333,7 +333,7 @@ virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.0.6: Cherry Studio is a desktop client that supports for multiple LLM providers.
-www-apps/follow-bin 0.3.10: Next generation information browser
+www-apps/follow-bin 0.3.11: Next generation information browser
 www-client/brave-bin 1.76.73: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
