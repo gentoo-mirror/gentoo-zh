@@ -15,8 +15,8 @@ acct-user/n2n 0: System user: n2n
 acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/vintagestory 0: User for Vintage Story Server
-app-admin/chezmoi 2.59.1-r1 2.60.0: Manage your dotfiles across multiple diverse machines, securely.
-app-admin/chezmoi-bin 2.60.0: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi 2.60.1: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi-bin 2.60.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
@@ -154,8 +154,8 @@ dev-util/pacstrap 29: Pacstrap - install packages to the specified new root dire
 dev-util/patchelf-liblol 0.1.9: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 4.0.0: A log file highlighter
-dev-util/vfox 0.6.2: A cross-platform version manager, extendable via plugins
-dev-util/vfox-bin 0.6.2: A cross-platform version manager, extendable via plugins
+dev-util/vfox 0.6.3: A cross-platform version manager, extendable via plugins
+dev-util/vfox-bin 0.6.3: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 2025.08: Opensource Git GUI client.
