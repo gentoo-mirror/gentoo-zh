@@ -208,7 +208,7 @@ media-sound/lx-music-desktop-bin 2.10.0: 一个基于 electron 的音乐软件
 media-sound/netease-cloud-music 1.2.1: Netease Cloud Music, converted from .deb package
 media-sound/netease-cloud-music-gtk 2.5.0: netease cloud music player based on Rust & GTK for Linux
 media-sound/qqmusic 1.1.7: Tencent QQ Music, converted from .deb package
-media-sound/spotube-bin 3.9.0: A lightweight Spotify client using YouTube as audio source
+media-sound/spotube-bin 4.0.0: A lightweight Spotify client using YouTube as audio source
 media-sound/termusic 0.10.0: Terminal Music and Podcast Player written in Rust
 media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.7: A Desktop App for YouTube Music
