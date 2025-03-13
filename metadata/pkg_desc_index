@@ -228,7 +228,7 @@ net-dns/libidn11 1.33: Internationalized Domain Names (IDN) implementation
 net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
 net-dns/q 0.19.2-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
-net-fs/mc 2025.02.21.16.00.46: Minio client provides alternatives for ls, cat on cloud storage and filesystems
+net-fs/mc 2025.03.12.17.29.24: Minio client provides alternatives for ls, cat on cloud storage and filesystems
 net-im/deepin-wine-qq 9.5.2.27897: Tencent QQ on Deepin Wine(com.qq.im.deepin) For Gentoo
 net-im/deepin-wine-wechat 3.9.0.28-r3: Tencent WeChat on Deepin Wine For Gentoo
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
@@ -243,7 +243,7 @@ net-misc/alist 3.32.0 3.42.0: A file list/WebDAV program that supports multiple 
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.6: aliyunpan cli client, support Webdav service, JavaScript plugin
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
-net-misc/apifox 2.7.0: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.7.1: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
@@ -252,7 +252,7 @@ net-misc/biliup-app-bin 0.5.3: A Tool for Upload video to bilibili
 net-misc/biliup-rs 0.2.1: Upload video to bilibili.
 net-misc/bruno-bin 1.35.0: Opensource IDE For Exploring and Testing Api's
 net-misc/geo 1.1: An easy way to manage all your Geo resources
-net-misc/hoppscotch-bin 25.2.1.0: Open source API development ecosystem
+net-misc/hoppscotch-bin 25.2.2.0: Open source API development ecosystem
 net-misc/localsend-bin 1.17.0: An open-source cross-platform alternative to AirDrop
 net-misc/ntpd-rs 1.5.0: Full-featured implementation of NTP with NTS support
 net-misc/pcmanx-gtk2 1.3 9999: PCMan is a gtk+ based free BBS client
