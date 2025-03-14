@@ -84,7 +84,7 @@ app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.01.01061: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.3.2: Blazing fast terminal file manager written in Rust, based on async I/O.
 app-office/anytype-bin 0.35.4 0.45.3: A notebook based on p2p network
-app-office/bytedance-feishu 7.22.9 7.32.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
+app-office/bytedance-feishu 7.22.9 7.36.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
 app-pda/ipadcharge 9999: Enables USB charging for Apple devices.
@@ -333,7 +333,7 @@ virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.0.6: Cherry Studio is a desktop client that supports for multiple LLM providers.
-www-apps/follow-bin 0.3.11: Next generation information browser
+www-apps/follow-bin 0.3.12: Next generation information browser
 www-client/brave-bin 1.76.74: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
