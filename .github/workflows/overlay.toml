@@ -1106,10 +1106,6 @@ from_pattern = 'RELEASE\.(\d{4})-(\d{2})-(\d{2})T(\d{2})-(\d{2})-(\d{2})Z'
 to_pattern = '\1.\2.\3.\4.\5.\6'
 github_account = "peeweep"
 
-#["net-im/deepin-wine-qq"]
-
-#["net-im/deepin-wine-wechat"]
-
 #["net-im/deepin-wine-wecom"]
 
 #["net-im/dingtalk"]
@@ -1127,12 +1123,6 @@ url = "https://github.com/peeweep/wechat-linux-watcher/raw/refs/heads/master/wec
 regex = '(.*)'
 
 #["net-im/wechat-universal-bwrap"]
-
-["net-im/weixin-uos"]
-source = "aur"
-aur = "wechat-uos"
-from_pattern = "([\\d.]+):([\\d.]+)-([\\d.]+)"
-to_pattern = "\\2"
 
 ["net-im/wemeet"]
 source = "aur"
