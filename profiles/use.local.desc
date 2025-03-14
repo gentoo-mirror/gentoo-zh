@@ -121,6 +121,8 @@ dev-util/arch-install-scripts:archroot - Install arch-chroot
 dev-util/arch-install-scripts:genfstab - Install genfstab
 dev-util/arch-install-scripts:pacstrap - Install pacstrap
 dev-util/mamba:micromamba - build micromamba
+games-roguelike/tsl:allegro - Build Allegro-based GUI
+games-roguelike/tsl:ncurses - Build ncurses-based CLI
 gui-libs/libdecor:dbus - Enable dbus to query current cursor theme
 gui-libs/libdecor:examples - Build and install examples
 gui-wm/swayfx:X - Enable support for X11 applications (XWayland)
@@ -216,9 +218,6 @@ media-sound/termusic:yt-dlp - Use net-misc/yt-dlp to provide the youtebe-dl feat
 net-dns/dnsmasq-china-list:dnscrypt-proxy - Install rules for dnscrypt-proxy
 net-dns/dnsmasq-china-list:dnsmasq - Install rules for dnsmasq
 net-dns/dnsmasq-china-list:smartdns - Install rules for smartdns
-net-im/deepin-wine-wechat:fake-simsun - Use fake_simsun font
-net-im/deepin-wine-wechat:reg-patch - Disable wechat-{player,app,appex,browser} plugin
-net-im/deepin-wine-wechat:wqy-microhei - Use wqy-microhei font
 net-im/tencent-qq:bwrap - Use sys-apps/bubblewrap to prevent private information leakage
 net-im/tencent-qq:gnome - Supporting screenshot when using GNOME
 net-im/tencent-qq:liteloader - Add liteloader support

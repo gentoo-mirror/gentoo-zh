@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/gcc
+DEFINED_PHASES=compile install postinst prepare
+DEPEND=allegro? ( media-libs/allegro:5 ) ncurses? ( sys-libs/ncurses )
+DESCRIPTION=The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
+EAPI=8
+HOMEPAGE=http://www.happyponyland.net/roguelike.php
+INHERIT=readme.gentoo-r1
+IUSE=allegro ncurses
+KEYWORDS=~amd64
+LICENSE=TSL BSD
+RDEPEND=allegro? ( media-libs/allegro:5 ) ncurses? ( sys-libs/ncurses )
+REQUIRED_USE=|| ( allegro ncurses )
+SLOT=0
+SRC_URI=https://gitlab.com/vitaly-zdanevich/the-slimy-lichmummy/-/archive/698f45f25c72f172434fe3ca5fce8e5df7f1e189/the-slimy-lichmummy-698f45f25c72f172434fe3ca5fce8e5df7f1e189.tar.bz2
+_eclasses_=readme.gentoo-r1	b045f3acf546393ab6b3170781875358
+_md5_=f39ec5408dc74feb52f3a1e5fd0b3b5d

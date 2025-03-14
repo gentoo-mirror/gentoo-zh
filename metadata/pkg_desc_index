@@ -164,6 +164,7 @@ games-board/othello 0.2.2: Othello is a classic strategy game, also known as Rev
 games-emulation/conty 1.27.1: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
+games-roguelike/tsl 0.40-r2: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
 games-server/vintagestory-server 1.19.8 1.20.4: Dedicated game server for Vintage Story
 games-util/winegame-client-bin 0.5.10.5 0.5.12.2: An open source gaming platform for GNU/Linux
 gui-apps/crystal-dock 2.9: Cool dock (desktop panel) for Linux desktop
@@ -229,14 +230,11 @@ net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
 net-dns/q 0.19.2-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-fs/mc 2025.03.12.17.29.24-r1: Minio client provides alternatives for ls, cat on cloud storage and filesystems
-net-im/deepin-wine-qq 9.5.2.27897: Tencent QQ on Deepin Wine(com.qq.im.deepin) For Gentoo
-net-im/deepin-wine-wechat 3.9.0.28-r3: Tencent WeChat on Deepin Wine For Gentoo
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.0.40.30706 7.1.0.31017 7.1.0.31120 7.6.25.4122001: Communication platform that supports video and audio conferencing
 net-im/tencent-qq 3.2.16_p250307: The new version of the official linux-qq
 net-im/wechat 4.0.1.11-r1: Weixin for Linux
 net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (Universal) with bwrap sandbox
-net-im/weixin-uos 2.1.8: UOS weixin
 net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400: Wemeet - Tencent Video Conferencing
 net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.42.0: A file list/WebDAV program that supports multiple storages
