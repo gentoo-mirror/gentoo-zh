@@ -304,6 +304,7 @@ sys-kernel/cachyos-sources:itmt-core-ranking - Support for AMD dynamic preferred
 sys-kernel/cachyos-sources:ntsync - NTSync module support
 sys-kernel/cachyos-sources:perf-per-core - Allows reading per-core CPU energy usage for AMD users
 sys-kernel/cachyos-sources:pksm - KSM patch for proper working of uksmd daemon from pf
+sys-kernel/cachyos-sources:polly - Add support for Clang's polyhedral loop optimizer
 sys-kernel/cachyos-sources:prjc - Project C CPU scheduler (BMQ/PDS)
 sys-kernel/cachyos-sources:rt - RT i915 patches
 sys-kernel/cachyos-sources:t2 - T2 Macbook support
