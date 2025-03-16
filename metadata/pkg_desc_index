@@ -29,11 +29,11 @@ app-backup/restic-rest-server 0.13.0: A high performance HTTP server that implem
 app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snapshot management
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
-app-dicts/fcitx-pinyin-moegirl 20241211: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-moegirl-bin 20250113: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20250122: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
-app-dicts/fcitx-pinyin-zhwiki 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20241218: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+app-dicts/fcitx-pinyin-moegirl 20250309: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-moegirl-bin 20250309: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-sougou-baidu 20250219: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.6: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.45.14 0.47.5: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -119,7 +119,7 @@ dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20250124154827: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20250312064659: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202501190004: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
@@ -285,7 +285,7 @@ net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.9.7 1.10.7 1.11.5: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
-net-proxy/trojan-go-fork 2025.01.22: A fork of trojan-go
+net-proxy/trojan-go-fork 2025.03.09: A fork of trojan-go
 net-proxy/v2ray 5.28.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.28.0: A platform for building proxies to bypass network restrictions
 net-proxy/v2rayA 2.2.6.5 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
@@ -314,7 +314,7 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
-sys-kernel/cachyos-sources 6.12.13 6.13.2: Full Cachyos sources including the Gentoo patchset for the 6.13 kernel tree
+sys-kernel/cachyos-sources 6.13.7: Full Cachyos sources including the Gentoo patchset for the 6.13 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
 sys-kernel/xanmod-kernel 6.13.2: XanMod lts kernel built with Gentoo patches and cjktty

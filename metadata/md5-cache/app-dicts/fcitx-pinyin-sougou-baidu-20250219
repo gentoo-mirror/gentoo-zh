@@ -9,5 +9,5 @@ LICENSE=Unlicense
 RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fcitx-rime ) )
 REQUIRED_USE=|| ( fcitx rime ) || ( sougou baidu )
 SLOT=5
-SRC_URI=https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/archive/refs/tags/20250122.tar.gz -> fcitx-pinyin-sougou-baidu-20250122.tar.gz sougou? ( https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/releases/download/20250122/sougou_dict.tar.gz -> sougou_dict-20250122.tar.gz ) baidu? ( https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/releases/download/20250122/baidu_dict.tar.gz -> baidu_dict-20250122.tar.gz )
+SRC_URI=https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/archive/refs/tags/20250219.tar.gz -> fcitx-pinyin-sougou-baidu-20250219.tar.gz sougou? ( https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/releases/download/20250219/sougou_dict.tar.gz -> sougou_dict-20250219.tar.gz ) baidu? ( https://github.com/blackteahamburger/fcitx5-pinyin-sougou-baidu/releases/download/20250219/baidu_dict.tar.gz -> baidu_dict-20250219.tar.gz )
 _md5_=a62231601510bdb8df685381adf27bc7

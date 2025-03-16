@@ -289,7 +289,6 @@ sci-electronics/openfpgaloader:gpio - enable libgpiod bitbang support
 sci-electronics/openfpgaloader:remote - enable remote bitbang support
 sys-apps/pacman:doc - Install extended documentation using app-text/doxygen. (Man pages are included by default.)
 sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
-sys-kernel/cachyos-sources:amd-cache-optimizer - Support for AMD 3D V-Cache optimizer driver
 sys-kernel/cachyos-sources:amd-pstate - AMD P-State enhancements and fixes from linux-next
 sys-kernel/cachyos-sources:amd-tlb-broadcast - Support for AMD broadcast TLB invalidation
 sys-kernel/cachyos-sources:aufs - Support for Aufs
@@ -305,7 +304,6 @@ sys-kernel/cachyos-sources:itmt-core-ranking - Support for AMD dynamic preferred
 sys-kernel/cachyos-sources:ntsync - NTSync module support
 sys-kernel/cachyos-sources:perf-per-core - Allows reading per-core CPU energy usage for AMD users
 sys-kernel/cachyos-sources:pksm - KSM patch for proper working of uksmd daemon from pf
-sys-kernel/cachyos-sources:preempt-lazy - Support for PREEMPT_LAZY
 sys-kernel/cachyos-sources:prjc - Project C CPU scheduler (BMQ/PDS)
 sys-kernel/cachyos-sources:rt - RT i915 patches
 sys-kernel/cachyos-sources:t2 - T2 Macbook support
