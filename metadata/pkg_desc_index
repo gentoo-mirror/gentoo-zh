@@ -136,7 +136,7 @@ dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
 dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/mw2fcitx 0.18.1: Build fcitx5 libraries from MediaWiki sites
-dev-python/nvchecker 2.16: nvchecker is for checking if a new version of some software has been released
+dev-python/nvchecker 2.17: nvchecker is for checking if a new version of some software has been released
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.53.0: Tool for converting Chinese characters to pinyin
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
@@ -276,7 +276,7 @@ net-proxy/dae 0.9.0 9999: A lightweight and high-performance transparent proxy s
 net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.184.0: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.186.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.3: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.6.0 1.7.1: Mihomo Party
 net-proxy/naiveproxy-bin 134.0.6998.39_p1: A proxy using Chromium's network stack to camouflage traffic
