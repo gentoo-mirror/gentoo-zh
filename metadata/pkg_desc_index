@@ -305,7 +305,7 @@ sys-apps/isd 0.5.1: isd (interactive systemd) — a better way to work with syst
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
-sys-apps/pnpm 9.15.5 10.6.3: Fast, disk space efficient package manager
+sys-apps/pnpm 9.15.5 10.6.4: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
 sys-boot/ventoy-bin 1.1.05: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
@@ -329,7 +329,7 @@ virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
-www-apps/cherry-studio-bin 1.0.6: Cherry Studio is a desktop client that supports for multiple LLM providers.
+www-apps/cherry-studio-bin 1.1.5: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.3.12: Next generation information browser
 www-client/brave-bin 1.76.74: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
