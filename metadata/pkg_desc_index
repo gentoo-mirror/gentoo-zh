@@ -158,7 +158,7 @@ dev-util/vfox 0.6.3: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.3: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
-dev-vcs/sourcegit-bin 2025.08: Opensource Git GUI client.
+dev-vcs/sourcegit-bin 2025.09: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.4: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-emulation/conty 1.27.1: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
@@ -195,7 +195,6 @@ media-gfx/unityhub 3.11.0: The official unity tool for manager Unity Engines and
 media-gfx/zw3d 2022.0.3.1-r3 2023.0.3.1: CAD/CAM software for 3D design and processing
 media-gfx/zwcad 2023.23.0.3.4-r2: CAD software for 2D drawing, reviewing and printing work
 media-libs/libsdl2 2.32.50: SDL2 compat layer over SDL3
-media-libs/libsdl3 3.2.4: Simple Direct Media Layer
 media-libs/openslide 20230904: C library with simple interface to read virtual slides
 media-libs/phonon-mpv 0.1.0: Phonon Backend using MPV Player(libmpv)
 media-plugins/osdlyrics 0.5.15 9999: Standalone lyrics fetcher/displayer (windowed and OSD mode).
