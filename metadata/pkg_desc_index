@@ -271,7 +271,7 @@ net-proxy/bore 0.5.2: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.7.6: Custom protocol, rule based network proxy
-net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3 2.1.2: (Continuation) of Clash Meta GUI based on Tauri.
+net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3 2.1.2 2.2.0: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 0.9.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
@@ -282,7 +282,7 @@ net-proxy/mihomo-party-bin 1.6.0 1.7.1: Mihomo Party
 net-proxy/naiveproxy-bin 134.0.6998.39_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
-net-proxy/shadowsocks-rust 1.21.2 1.22.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
+net-proxy/shadowsocks-rust 1.23.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.9.7 1.10.7 1.11.5: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.03.09: A fork of trojan-go
