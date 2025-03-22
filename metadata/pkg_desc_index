@@ -35,7 +35,7 @@ app-dicts/fcitx-pinyin-sougou-baidu 20250219: Sougou & Baidu Pinyin dictionary f
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-dicts/fcitx-pinyin-zhwiki-bin 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.6: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.45.14 0.47.8: Cursor App - AI-first coding environment
+app-editors/cursor 0.45.14 0.47.9: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -145,6 +145,7 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0 0.16.5: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
+dev-util/goland 2024.3.4: Golang IDE by JetBrains
 dev-util/jetbrains-toolbox 1.28.1.15219 2.5.4.38621: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.0.5: The Fast Cross-Platform Package Manager
 dev-util/osc 1.14.0: The Command Line Interface to work with an Open Build Service
