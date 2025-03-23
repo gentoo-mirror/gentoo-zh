@@ -248,7 +248,7 @@ net-misc/biliup-app 0.4.1-r4: A Tool for Upload video to bilibili
 net-misc/biliup-app-bin 0.5.3: A Tool for Upload video to bilibili
 net-misc/biliup-rs 0.2.1: Upload video to bilibili.
 net-misc/bruno-bin 1.35.0: Opensource IDE For Exploring and Testing Api's
-net-misc/geo 1.1: An easy way to manage all your Geo resources
+net-misc/geo 1.1 1.1_p20240718: An easy way to manage all your Geo resources
 net-misc/hoppscotch-bin 25.2.3.0: Open source API development ecosystem
 net-misc/localsend-bin 1.17.0: An open-source cross-platform alternative to AirDrop
 net-misc/ntpd-rs 1.5.0: Full-featured implementation of NTP with NTS support
