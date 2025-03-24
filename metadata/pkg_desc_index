@@ -159,7 +159,7 @@ dev-util/vfox 0.6.3: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.3: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.41.0: A command-line application for interacting with git repositories
-dev-vcs/sourcegit-bin 2025.09: Opensource Git GUI client.
+dev-vcs/sourcegit-bin 2025.10: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.5: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-emulation/conty 1.27.1: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
