@@ -105,7 +105,7 @@ dev-cpp/nameof 0.10.4: Nameof operator for modern C++
 dev-cpp/reproc 14.2.5: A cross-platform (C99/C++11) process library
 dev-cpp/tgbot-cpp 1.9: C++ library for Telegram bot API
 dev-cpp/tl-expected 1.1.0: Guideline Support Library implementation by Microsoft
-dev-db/dbeaver-bin 25.0.0: Free universal database tool (community edition).
+dev-db/dbeaver-bin 25.0.1: Free universal database tool (community edition).
 dev-db/mongodb 5.3.1 6.2.0-r4: A high-performance, open source, schema-free document-oriented database
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
 dev-java/google-java-format 1.25.2: Reformats Java source code to comply with Google Java Style.
@@ -330,7 +330,7 @@ virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
-www-apps/cherry-studio-bin 1.1.8: Cherry Studio is a desktop client that supports for multiple LLM providers.
+www-apps/cherry-studio-bin 1.1.10: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.3.12: Next generation information browser
 www-client/brave-bin 1.76.81: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
