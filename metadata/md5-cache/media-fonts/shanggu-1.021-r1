@@ -10,5 +10,5 @@ LICENSE=OFL-1.1
 REQUIRED_USE=|| ( round sans serif mono )
 SLOT=0
 SRC_URI=mono? ( https://github.com/GuiWonder/Shanggu/releases/download/1.021/ShangguMonoTTFs.7z -> ShangguMono-1.021.7z ) round? ( https://github.com/GuiWonder/Shanggu/releases/download/1.021/ShangguRoundTTFs.7z -> ShangguRound-1.021.7z ) sans? ( https://github.com/GuiWonder/Shanggu/releases/download/1.021/ShangguSansTTFs.7z -> ShangguSans-1.021.7z ) serif? ( https://github.com/GuiWonder/Shanggu/releases/download/1.021/ShangguSerifTTFs.7z -> ShangguSerif-1.021.7z )
-_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	13d8d65b19f96f31b38c39b57419304e
 _md5_=2ec26ed3ca794c3b5d8e3ae2e237f361

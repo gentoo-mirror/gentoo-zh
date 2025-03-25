@@ -9,5 +9,5 @@ LICENSE=Apache-2.0
 RDEPEND=x11-libs/gtk+:3[cups] x11-libs/libXScrnSaver dev-libs/nss app-crypt/p11-kit dev-libs/libayatana-appindicator app-accessibility/at-spi2-core[X] app-crypt/libsecret x11-libs/libnotify
 SLOT=0
 SRC_URI=amd64? ( https://github.com/lyswhut/lx-music-desktop/releases/download/v2.10.0/lx-music-desktop_2.10.0_amd64.deb ) arm64? ( https://github.com/lyswhut/lx-music-desktop/releases/download/v2.10.0/lx-music-desktop_2.10.0_arm64.deb )
-_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	13d8d65b19f96f31b38c39b57419304e	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=78a3f66a458857c580d86e809f988430
