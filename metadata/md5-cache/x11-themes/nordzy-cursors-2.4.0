@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Cursor theme using the Nord color palette and based on Vimix and cz-Viator
+EAPI=8
+HOMEPAGE=https://github.com/guillaumeboehm/Nordzy-cursors
+IUSE=nord-white
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/guillaumeboehm/Nordzy-cursors/releases/download/v2.4.0/Nordzy-cursors.tar.gz -> nordzy-cursors-2.4.0.tar.gz nord-white? ( https://github.com/guillaumeboehm/Nordzy-cursors/releases/download/v2.4.0/Nordzy-cursors-white.tar.gz -> nordzy-cursors-2.4.0-white.tar.gz )
+_md5_=5cdbace3472a03e5590a10bcf88777aa
