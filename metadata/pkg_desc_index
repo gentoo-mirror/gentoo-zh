@@ -344,7 +344,6 @@ x11-misc/flatpak-xdg-utils 1.0.6: Utilities for containerized apps to launch pro
 x11-misc/fqterm 0.9.10.1 9999: a modern terminal emulator for Linux
 x11-misc/i3lock-color 9999: An improved i3lock
 x11-misc/i3lock-fancy 9999: A fancy i3lock
-x11-misc/ly 0.6.0-r1 1.0.2 9999: Ly - a TUI display manager
 x11-misc/picom-jonaburg 8 9999: A lightweight compositor for X11 (previously a compton fork)
 x11-misc/snapd-xdg-open 20170401: Software for opening links from snaps in desktop
 x11-terms/wezterm-bin 20240203: A terminal emulator and multiplexer implemented in Rust
