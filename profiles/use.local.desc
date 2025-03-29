@@ -291,6 +291,7 @@ sys-apps/pacman:doc - Install extended documentation using app-text/doxygen. (Ma
 sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
 sys-kernel/cachyos-sources:amd-pstate - AMD P-State enhancements and fixes from linux-next
 sys-kernel/cachyos-sources:amd-tlb-broadcast - Support for AMD broadcast TLB invalidation
+sys-kernel/cachyos-sources:asus - ASUS patchset
 sys-kernel/cachyos-sources:aufs - Support for Aufs
 sys-kernel/cachyos-sources:bbr3 - BBR v3
 sys-kernel/cachyos-sources:bore - BORE CPU scheduler
@@ -301,6 +302,7 @@ sys-kernel/cachyos-sources:dkms-clang - Remove some Werror CFLAGS to increase co
 sys-kernel/cachyos-sources:fixes - CachyOS fixes
 sys-kernel/cachyos-sources:hardened - linux-hardened patchset
 sys-kernel/cachyos-sources:itmt-core-ranking - Support for AMD dynamic preferred core rankings
+sys-kernel/cachyos-sources:mm - Fixes for madvise
 sys-kernel/cachyos-sources:ntsync - NTSync module support
 sys-kernel/cachyos-sources:perf-per-core - Allows reading per-core CPU energy usage for AMD users
 sys-kernel/cachyos-sources:pksm - KSM patch for proper working of uksmd daemon from pf
