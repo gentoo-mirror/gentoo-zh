@@ -221,7 +221,7 @@ media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.13: Play website videos and songs with mpv & yt-dlp
 media-video/tenvideo 1.0.10: Tencent videos
-media-video/tsukimi 0.20.0: A simple Emby Client written by GTK4-RS
+media-video/tsukimi 0.20.0-r1: A simple Emby Client written by GTK4-RS
 net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geographic information and CDN provider.
 net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
 net-dns/ddns-go 6.9.1: Automatically obtain your public IP address and set to your domain name service.

@@ -216,6 +216,7 @@ media-sound/termusic:gst - Use media-libs/gstreamer as decoding backend
 media-sound/termusic:mpv - Use media-video/mpv as decoding backend
 media-sound/termusic:symphonia - Use symphonia as decoding backend (default)
 media-sound/termusic:yt-dlp - Use net-misc/yt-dlp to provide the youtebe-dl feature
+media-video/tsukimi:clang - Use clang compiler instead of GCC
 net-dns/dnsmasq-china-list:dnscrypt-proxy - Install rules for dnscrypt-proxy
 net-dns/dnsmasq-china-list:dnsmasq - Install rules for dnsmasq
 net-dns/dnsmasq-china-list:smartdns - Install rules for smartdns
