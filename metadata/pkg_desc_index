@@ -94,7 +94,7 @@ app-shells/gitstatus 1.5.5: Git status for Bash and Zsh prompt
 app-shells/oh-my-bash 9999: An open source, community-driven framework for managing your bash configuration
 app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/cajviewer 1.3.22-r1 9.0-r1: Document Viewer for CAJ, KDH, NH, TEB and PDF format
-app-text/goldendict 24.09.1 25.02.0: Feature-rich dictionary lookup program (qtwebengine fork)
+app-text/goldendict 25.02.0 25.05.0: Feature-rich dictionary lookup program (qtwebengine fork)
 app-text/groff-utf8 0-r1: GNU groff wrapper allowing UTF-8 input
 app-text/imewlconverter 3.2.0 9999: An open source and free input method dictionary conversion program
 app-vim/easymotion 1.3 3.0.1: vim plugin: Vim motions on speed!
