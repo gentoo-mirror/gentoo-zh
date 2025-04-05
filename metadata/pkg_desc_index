@@ -120,9 +120,9 @@ dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20250312064659: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20250401022534: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
-dev-libs/v2ray-geoip 202501190004: GeoIP for V2Ray.
+dev-libs/v2ray-geoip 202504050136: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202504042212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
@@ -282,7 +282,7 @@ net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.186.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.4: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.7.2: Mihomo Party
-net-proxy/naiveproxy-bin 134.0.6998.39_p1: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 135.0.7049.38_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/nekobox-core 4.2.12: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/nekoray 4.2.12: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
