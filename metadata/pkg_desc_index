@@ -124,7 +124,7 @@ dev-libs/v2ray-domain-list-community 20250312064659: Community managed domain li
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202501190004: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
-dev-libs/v2ray-rules-dat-bin 202411022212: Enhanced edition of V2Ray rules dat files.
+dev-libs/v2ray-rules-dat-bin 202504042212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
 dev-python/conda 25.1.1: OS-agnostic, system-level binary package manager and ecosystem
 dev-python/conda-libmamba-solver 25.1.1: The libmamba based solver for conda
