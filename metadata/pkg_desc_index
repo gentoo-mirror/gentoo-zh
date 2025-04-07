@@ -16,7 +16,7 @@ acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/vintagestory 0: User for Vintage Story Server
 app-admin/chezmoi 2.61.0: Manage your dotfiles across multiple diverse machines, securely.
-app-admin/chezmoi-bin 2.61.0: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi-bin 2.62.0: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
@@ -142,7 +142,7 @@ dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-util/android-studio 2024.3.1.14: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
-dev-util/asdf-vm 0.15.0 0.16.6: Manage all your runtime versions with one tool
+dev-util/asdf-vm 0.15.0 0.16.7: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/goland 2024.3.4 2024.3.5: Golang IDE by JetBrains
