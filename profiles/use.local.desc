@@ -10,16 +10,12 @@ app-alternatives/v2ray-geosite:v2fly - use virtual/v2ray-domain-list-community
 app-arch/zchunk:openssl - Build with openssl support
 app-dicts/fcitx-pinyin-moegirl:fcitx - Install Fcitx 5 dictionary
 app-dicts/fcitx-pinyin-moegirl:rime - Install Rime dictionary
-app-dicts/fcitx-pinyin-moegirl-bin:fcitx - Install Fcitx 5 dictionary
-app-dicts/fcitx-pinyin-moegirl-bin:rime - Install Rime dictionary
 app-dicts/fcitx-pinyin-sougou-baidu:baidu - Install Baidu dictionary
 app-dicts/fcitx-pinyin-sougou-baidu:fcitx - Install Fcitx 5 dictionary
 app-dicts/fcitx-pinyin-sougou-baidu:rime - Install Rime dictionary
 app-dicts/fcitx-pinyin-sougou-baidu:sougou - Install Sougou dictionary
 app-dicts/fcitx-pinyin-zhwiki:fcitx - Install Fcitx 5 dictionary
 app-dicts/fcitx-pinyin-zhwiki:rime - Install Rime dictionary
-app-dicts/fcitx-pinyin-zhwiki-bin:fcitx - Install Fcitx 5 dictionary
-app-dicts/fcitx-pinyin-zhwiki-bin:rime - Install Rime dictionary
 app-editors/cursor:egl - Use EGL platform, enables smooth rending in high refresh rate monitors on X11/Xwayland
 app-editors/cursor:wayland - Run in wayland mode under wayland sessions, xwayland otherwise. This flag doesn't affect x11 sessions.
 app-emulation/deepin-wine-plugin:virtual-pkg - With deepin-wine-plugin-virtual package
