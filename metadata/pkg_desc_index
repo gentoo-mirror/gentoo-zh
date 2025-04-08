@@ -309,7 +309,7 @@ sys-apps/isd 0.5.1: isd (interactive systemd) — a better way to work with syst
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
-sys-apps/pnpm 9.15.5 10.7.1: Fast, disk space efficient package manager
+sys-apps/pnpm 9.15.5 10.8.0: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
 sys-boot/ventoy-bin 1.1.05: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
