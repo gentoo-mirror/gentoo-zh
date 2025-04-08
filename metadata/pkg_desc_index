@@ -241,7 +241,7 @@ net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple 
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
-net-misc/apifox 2.7.3: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.7.4: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
@@ -281,8 +281,8 @@ net-proxy/metacubexd 1.186.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.4: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.7.2: Mihomo Party
 net-proxy/naiveproxy-bin 135.0.7049.38_p1: A proxy using Chromium's network stack to camouflage traffic
-net-proxy/nekobox-core 4.2.12: Qt based Desktop cross-platform GUI proxy configuration manager
-net-proxy/nekoray 4.2.12: Qt based Desktop cross-platform GUI proxy configuration manager
+net-proxy/nekobox-core 4.3.2: Qt based Desktop cross-platform GUI proxy configuration manager
+net-proxy/nekoray 4.3.2: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.22.0 1.23.0: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
