@@ -300,7 +300,6 @@ sys-kernel/cachyos-sources:dkms-clang - Remove some Werror CFLAGS to increase co
 sys-kernel/cachyos-sources:fixes - CachyOS fixes
 sys-kernel/cachyos-sources:hardened - linux-hardened patchset
 sys-kernel/cachyos-sources:itmt-core-ranking - Support for AMD dynamic preferred core rankings
-sys-kernel/cachyos-sources:mm - Fixes for madvise
 sys-kernel/cachyos-sources:ntsync - NTSync module support
 sys-kernel/cachyos-sources:perf-per-core - Allows reading per-core CPU energy usage for AMD users
 sys-kernel/cachyos-sources:pksm - KSM patch for proper working of uksmd daemon from pf
