@@ -10,5 +10,5 @@ RDEPEND=dev-libs/libayatana-appindicator sys-apps/systemd
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
 _md5_=c2c83b03136416fb1b9626028ec74d21
