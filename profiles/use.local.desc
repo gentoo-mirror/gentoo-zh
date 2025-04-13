@@ -8,6 +8,8 @@ app-alternatives/v2ray-geoip:v2fly - use virtual/v2ray-geoip
 app-alternatives/v2ray-geosite:loyalsoldier - use dev-libs/v2ray-rules-dat-bin
 app-alternatives/v2ray-geosite:v2fly - use virtual/v2ray-domain-list-community
 app-arch/zchunk:openssl - Build with openssl support
+app-dicts/fcitx-pinyin-custom-pinyin-dictionary:fcitx - Install Fcitx 5 dictionary
+app-dicts/fcitx-pinyin-custom-pinyin-dictionary:rime - Install Rime dictionary
 app-dicts/fcitx-pinyin-moegirl:fcitx - Install Fcitx 5 dictionary
 app-dicts/fcitx-pinyin-moegirl:rime - Install Rime dictionary
 app-dicts/fcitx-pinyin-sougou-baidu:baidu - Install Baidu dictionary
