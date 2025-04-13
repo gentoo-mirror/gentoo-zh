@@ -154,7 +154,7 @@ dev-util/pack-cli-bin 0.37.0: CLI for building apps using Cloud Native Buildpack
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
 dev-util/patchelf-liblol 0.1.9: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
-dev-util/tailspin 5.2.0: A log file highlighter
+dev-util/tailspin 5.2.1: A log file highlighter
 dev-util/vfox 0.6.4: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.4: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
