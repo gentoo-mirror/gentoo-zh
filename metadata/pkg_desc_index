@@ -147,7 +147,7 @@ dev-util/asdf-vm 0.15.0 0.16.7: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/goland 2024.3.4 2024.3.5: Golang IDE by JetBrains
-dev-util/jetbrains-toolbox 1.28.1.15219 2.5.4.38621: Manage all your JetBrains Projects and Tools
+dev-util/jetbrains-toolbox 1.28.1.15219 2.6.0.40632: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.0.5: The Fast Cross-Platform Package Manager
 dev-util/osc 1.15.1: The Command Line Interface to work with an Open Build Service
 dev-util/pack-cli 0.37.0: CLI for building apps using Cloud Native Buildpacks
@@ -336,7 +336,7 @@ virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
-www-apps/cherry-studio-bin 1.2.2: Cherry Studio is a desktop client that supports for multiple LLM providers.
+www-apps/cherry-studio-bin 1.2.4: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.4.2: Next generation information browser
 www-client/brave-bin 1.77.97: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
