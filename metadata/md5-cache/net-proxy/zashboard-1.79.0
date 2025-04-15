@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/Zephyruso/zashboard
 KEYWORDS=~amd64
 LICENSE=MIT
 SLOT=0
-SRC_URI=https://github.com/Zephyruso/zashboard/archive/refs/tags/v1.78.0.tar.gz -> zashboard-1.78.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/zashboard-1.78.0/zashboard-1.78.0-node_modules.tar.xz
+SRC_URI=https://github.com/Zephyruso/zashboard/archive/refs/tags/v1.79.0.tar.gz -> zashboard-1.79.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/zashboard-1.79.0/zashboard-1.79.0-node_modules.tar.xz
 _md5_=a74f1dcdb85bfe2d8978e9f6bc118154
