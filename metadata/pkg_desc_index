@@ -33,7 +33,7 @@ app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输
 app-dicts/fcitx-pinyin-moegirl 20250409: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20250320: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-app-editors/appflowy-bin 0.8.8: AppFlowy is an open-source alternative to Notion
+app-editors/appflowy-bin 0.8.9: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.45.14 0.47.9: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
@@ -83,7 +83,7 @@ app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.01.01061: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.4.8: Blazing fast terminal file manager written in Rust, based on async I/O.
-app-office/anytype-bin 0.35.4 0.45.3: A notebook based on p2p network
+app-office/anytype-bin 0.35.4 0.46.0: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.36.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220 1224: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
@@ -155,7 +155,7 @@ dev-util/pack-cli-bin 0.37.0: CLI for building apps using Cloud Native Buildpack
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
 dev-util/patchelf-liblol 0.1.9: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 2.26 3.1: A lightweight yet powerful C/C++/GNU Assembly IDE.
-dev-util/tailspin 5.2.1: A log file highlighter
+dev-util/tailspin 5.3.0: A log file highlighter
 dev-util/vfox 0.6.4: A cross-platform version manager, extendable via plugins
 dev-util/vfox-bin 0.6.4: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
