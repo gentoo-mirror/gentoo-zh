@@ -243,7 +243,7 @@ net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
 net-misc/ananta 1.1.4: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
-net-misc/apifox 2.7.6: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.7.7: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.5 3.9.5-r1: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
@@ -304,7 +304,7 @@ sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
 sci-electronics/circuitjs1-bin 2.9.1: Electronic Circuit Simulator in the Browser
 sci-electronics/jlc-assistant-bin 5.0.69: JLC Order Assistant (binary package)
 sci-electronics/lceda 6.5.37 6.5.46: LCEDA (binary package)
-sci-electronics/lceda-pro 2.2.37.7: LCEDA Pro (binary package)
+sci-electronics/lceda-pro 2.2.38.8: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
 sys-apps/aptly 1.5.0 9999: A swiss army knife for Debian repository management
