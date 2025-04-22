@@ -161,13 +161,13 @@ dev-util/vfox-bin 0.6.4: A cross-platform version manager, extendable via plugin
 dev-util/zprint-bin 1.2.9: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.42.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 2025.14: Opensource Git GUI client.
-games-action/vintagestory 1.19.8 1.20.8: Uncompromising wilderness survival sandbox game (requires paid account)
+games-action/vintagestory 1.19.8 1.20.9: Uncompromising wilderness survival sandbox game (requires paid account)
 games-board/othello 0.2.2: Othello is a classic strategy game, also known as Reversi
 games-emulation/conty 1.27.1: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
 games-roguelike/tsl 0.40-r2: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
-games-server/vintagestory-server 1.19.8 1.20.8: Dedicated game server for Vintage Story
+games-server/vintagestory-server 1.19.8 1.20.9: Dedicated game server for Vintage Story
 games-util/winegame-client-bin 0.5.10.5 0.5.12.2: An open source gaming platform for GNU/Linux
 gui-apps/crystal-dock 2.11: Cool dock (desktop panel) for Linux desktop
 gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
