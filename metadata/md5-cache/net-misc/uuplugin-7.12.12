@@ -9,5 +9,5 @@ LICENSE=all-rights-reserved
 RESTRICT=mirror strip bindist
 SLOT=0
 SRC_URI=https://uu.gdl.netease.com/uuplugin/steam-deck-plugin-x86_64/v7.12.12/uu.tar.gz -> uuplugin-7.12.12.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=689cfd069f0eb636d197c6fb38679f73
