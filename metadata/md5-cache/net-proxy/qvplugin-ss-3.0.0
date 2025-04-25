@@ -1,0 +1,14 @@
+BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-qt/qtbase:6[gui,network,widgets] dev-libs/libuv:= dev-libs/libsodium:= net-libs/mbedtls:0= dev-libs/openssl:0=
+DESCRIPTION=Plugin for Qv2ray to support SIP003 in Qv2ray
+EAPI=8
+HOMEPAGE=https://github.com/Qv2ray/QvPlugin-SS
+INHERIT=cmake
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=>=net-proxy/qv2ray-2.7.0 dev-qt/qtbase:6[gui,network,widgets] dev-libs/libuv:= dev-libs/libsodium:= net-libs/mbedtls:0= dev-libs/openssl:0=
+SLOT=0
+SRC_URI=https://github.com/Qv2ray/QvPlugin-SS/archive/refs/tags/v3.0.0.tar.gz -> qvplugin-ss-3.0.0.tar.gz https://github.com/Qv2ray/QvPlugin-Interface/archive/911c4adbb7b598435162da245ab248d215d3f018.tar.gz -> QvPlugin-Interface-911c4adbb7b598435162da245ab248d215d3f018.tar.gz https://github.com/Qv2ray/QJsonStruct/archive/02416895f2f1fb826f8e9207d8bbe5804b6d0441.tar.gz -> QJsonStruct-02416895f2f1fb826f8e9207d8bbe5804b6d0441.tar.gz https://github.com/Qv2ray/shadowsocks-uvw/archive/c731a8aa06d7bf560e772e6ab1b41d679a1136a2.tar.gz -> shadowsocks-uvw-c731a8aa06d7bf560e772e6ab1b41d679a1136a2.tar.gz
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f
+_md5_=5b018c12e8e75103697c943ee9380aa8

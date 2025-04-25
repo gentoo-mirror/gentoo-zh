@@ -258,6 +258,12 @@ net-proxy/mihomo:gvisor - Enable gvisor stack support
 net-proxy/mihomo:systemd - Enable systemd support
 net-proxy/mihomo:tun - Enable tun support
 net-proxy/mihomo-party-bin:tun - Enable TUN support
+net-proxy/qv2ray:themes - Build with built-in themes
+net-proxy/qv2ray:xray - Use Xray core
+net-proxy/qvplugin-trojan:mysql - build with MySQL support
+net-proxy/qvplugin-trojan:nat - Build with NAT support
+net-proxy/qvplugin-trojan:reuseport - Build with SO_REUSEPORT support
+net-proxy/qvplugin-trojan:tcpfastopen - Force build with TCP Fast Open support
 net-proxy/shadowsocks-rust:redir - Enable redir protocol for sslocal (transparent proxy)
 net-proxy/shadowsocks-rust:tun - Enable Tun interface protocol for sslocal
 net-proxy/sing-box:acme - Build with ACME TLS certificate issuer support

@@ -1,0 +1,17 @@
+BDEPEND=dev-qt/qttools:6[linguist] app-alternatives/ninja >=dev-build/cmake-3.20.5
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test unpack
+DEPEND=dev-qt/qtbase:6[gui,network,widgets] dev-qt/qtsvg:6 dev-libs/libuv:= net-libs/grpc:= dev-libs/protobuf:= net-misc/curl
+DESCRIPTION=Qt GUI fontend of v2ray
+EAPI=8
+HOMEPAGE=https://github.com/Qv2ray/Qv2ray
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=cmake xdg flag-o-matic
+IUSE=test +themes xray
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=!xray? ( || ( =net-proxy/v2ray-bin-5* =net-proxy/v2ray-5* ) !app-alternatives/v2ray-geoip[loyalsoldier] !app-alternatives/v2ray-geosite[loyalsoldier] ) xray? ( net-proxy/Xray ) dev-libs/openssl:0= dev-qt/qtbase:6[gui,network,widgets] dev-qt/qtsvg:6 dev-libs/libuv:= net-libs/grpc:= dev-libs/protobuf:= net-misc/curl
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=https://github.com/Qv2ray/Qv2ray/archive/d5c5aeb366e2fbe9c9243648af36b0d11da14920.tar.gz -> qv2ray-2.7.0_p20240625.tar.gz https://github.com/cpeditor/QCodeEditor/archive/ed1196a91dd6415c5ad6d0e85a90630e9b3b9f6c.tar.gz -> QCodeEditor-ed1196a91dd6415c5ad6d0e85a90630e9b3b9f6c.tar.gz https://github.com/Qv2ray/QJsonStruct/archive/02416895f2f1fb826f8e9207d8bbe5804b6d0441.tar.gz -> QJsonStruct-02416895f2f1fb826f8e9207d8bbe5804b6d0441.tar.gz https://github.com/Qv2ray/QNodeEditor/archive/808a7cf0359771a474db17a82cbf631746d8735d.tar.gz -> QNodeEditor-808a7cf0359771a474db17a82cbf631746d8735d.tar.gz https://github.com/itay-grudev/SingleApplication/archive/refs/tags/v3.5.2.tar.gz -> SingleApplication-3.5.2.tar.gz https://github.com/Qv2ray/PureSource/archive/a4872c1fb429ed70eb183c3846bcf791bda75459.tar.gz -> PureSource-a4872c1fb429ed70eb183c3846bcf791bda75459.tar.gz https://github.com/danielsanfr/qt-qrcode/archive/2d57d9c6e2341689d10f9360a16a08831a4a820b.tar.gz -> qt-qrcode-2d57d9c6e2341689d10f9360a16a08831a4a820b.tar.gz https://fukuchi.org/works/qrencode/qrencode-4.0.0.tar.bz2 https://github.com/skypjack/uvw/archive/c56c05e6daaf6d7644b46d0d0bf902f099d0a218.tar.gz -> uvw-c56c05e6daaf6d7644b46d0d0bf902f099d0a218.tar.gz https://github.com/Qv2ray/QvPlugin-Interface/archive/911c4adbb7b598435162da245ab248d215d3f018.tar.gz -> QvPlugin-Interface-911c4adbb7b598435162da245ab248d215d3f018.tar.gz
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=8f9072cec5d8f75f7d26ee1d58d8be5d
