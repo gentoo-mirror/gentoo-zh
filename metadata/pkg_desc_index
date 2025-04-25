@@ -30,7 +30,7 @@ app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distr
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输入法词库，百万常用词汇量。
 app-dicts/fcitx-pinyin-moegirl 20250409: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20250320: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-sougou-baidu 20250420: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.9: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.45.14 0.47.9: Cursor App - AI-first coding environment
@@ -320,7 +320,7 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
-sys-kernel/cachyos-sources 6.13.10 6.14.2: Full Cachyos sources including the Gentoo patchset for the 6.14 kernel tree
+sys-kernel/cachyos-sources 6.13.12 6.14.3: Full Cachyos sources including the Gentoo patchset for the 6.14 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
 sys-kernel/xanmod-kernel 6.13.2: XanMod lts kernel built with Gentoo patches and cjktty
