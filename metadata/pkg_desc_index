@@ -30,7 +30,7 @@ app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distr
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输入法词库，百万常用词汇量。
 app-dicts/fcitx-pinyin-moegirl 20250409: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20250420: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-sougou-baidu 20250428: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.9: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.45.14 0.47.9: Cursor App - AI-first coding environment
