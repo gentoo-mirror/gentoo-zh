@@ -36,7 +36,7 @@ app-editors/appflowy-bin 0.8.9: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.45.14 0.47.9: Cursor App - AI-first coding environment
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
-app-editors/void-editor 1.2.1.25105: Void Editor - AI Code Editor
+app-editors/void-editor 1.2.1.25105 1.99.30001: Void Editor - AI Code Editor
 app-editors/windsurf 1.6.2: AI-powered code editor maintaining flow state with instant assistance.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
 app-emulation/deepin-wine-helper 5.1.27-r1 5.1.45: Deepin Wine Helper
