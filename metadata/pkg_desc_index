@@ -146,7 +146,6 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0 0.16.7: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
-dev-util/goland 2024.3.4 2024.3.5: Golang IDE by JetBrains
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.1.40902: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.0.5: The Fast Cross-Platform Package Manager
 dev-util/osc 1.15.1: The Command Line Interface to work with an Open Build Service
