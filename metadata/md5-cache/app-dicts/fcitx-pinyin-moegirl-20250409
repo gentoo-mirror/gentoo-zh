@@ -1,4 +1,4 @@
-BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) fcitx? ( app-i18n/libime:5 ) || ( ( dev-lang/python:3.13 dev-python/mw2fcitx[python_single_target_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/mw2fcitx[python_single_target_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/mw2fcitx[python_single_target_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/mw2fcitx[python_single_target_python3_10(-)] ) )
+BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 ) fcitx? ( app-i18n/libime:5 ) || ( ( dev-lang/python:3.13 dev-python/mw2fcitx[python_single_target_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/mw2fcitx[python_single_target_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/mw2fcitx[python_single_target_python3_11(-)] ) )
 DEFINED_PHASES=compile install prepare setup
 DESCRIPTION=Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 EAPI=8
@@ -11,5 +11,5 @@ RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fci
 REQUIRED_USE=|| ( fcitx rime )
 SLOT=5
 SRC_URI=https://github.com/outloudvi/mw2fcitx/archive/refs/tags/20250409.tar.gz -> fcitx-pinyin-moegirl-20250409.tar.gz
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	974462533ec80cd68e5f366ad8a86002	python-any-r1	891415dfe39ad9b41b461f2b86354af0
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b	python-any-r1	891415dfe39ad9b41b461f2b86354af0
 _md5_=806e65f84a598cfe41ddbf0aa536a96a
