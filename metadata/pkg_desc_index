@@ -332,7 +332,7 @@ sys-kernel/xanmod-kernel 6.13.2: XanMod lts kernel built with Gentoo patches and
 sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
 sys-kernel/xanmod-sources 6.13.2: Full XanMod source, including the Gentoo patchset and other patch options.
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
-sys-libs/libsolv 0.7.31: Library for solving packages and reading repositories
+sys-libs/libsolv 0.7.32: Library for solving packages and reading repositories
 sys-power/tlpui 1.8.0: A GTK user interface for TLP written in Python
 sys-process/cachyos-ksm-settings 1: Package for easy configuration of KSM via systemd
 virtual/dist-kernel 6.13.2: Virtual to depend on any Distribution Kernel
