@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=app-i18n/fcitx:5
 SLOT=5
 SRC_URI=https://gitlab.com/scratch-er/fcitx5-breeze/-/archive/v3.1.0/fcitx5-breeze-3.1.0.tar.bz2
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b	python-any-r1	891415dfe39ad9b41b461f2b86354af0
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	de71d9571aa267f353b9e8ab4666732e	python-any-r1	891415dfe39ad9b41b461f2b86354af0
 _md5_=53e6df05e6593a2d3bc359872ed7ce8c
