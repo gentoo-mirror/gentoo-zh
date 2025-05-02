@@ -240,7 +240,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/ananta 1.1.5: a powerful command-line tool
+net-misc/ananta 1.1.6: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
 net-misc/apifox 2.7.7: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
@@ -342,7 +342,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.2.10: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/follow-bin 0.4.4: Next generation information browser
-www-client/brave-bin 1.77.101: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.78.94: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
