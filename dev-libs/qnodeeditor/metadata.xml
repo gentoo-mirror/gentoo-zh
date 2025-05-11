@@ -5,10 +5,7 @@
 		<name>blackteahamburger</name>
 		<email>blackteahamburger@outlook.com</email>
 	</maintainer>
-	<use>
-		<flag name="themes">Build with built-in themes</flag>
-	</use>
 	<upstream>
-		<remote-id type="github">Qv2ray/Qv2ray</remote-id>
+		<remote-id type="github">Qv2ray/QNodeEditor</remote-id>
 	</upstream>
 </pkgmetadata>
