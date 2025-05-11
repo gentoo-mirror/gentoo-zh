@@ -259,7 +259,6 @@ net-proxy/mihomo:systemd - Enable systemd support
 net-proxy/mihomo:tun - Enable tun support
 net-proxy/mihomo-party-bin:tun - Enable TUN support
 net-proxy/qv2ray:themes - Build with built-in themes
-net-proxy/qv2ray:xray - Use Xray core
 net-proxy/qvplugin-trojan:mysql - build with MySQL support
 net-proxy/qvplugin-trojan:nat - Build with NAT support
 net-proxy/qvplugin-trojan:reuseport - Build with SO_REUSEPORT support

@@ -29,7 +29,7 @@ app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snap
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输入法词库，百万常用词汇量。
-app-dicts/fcitx-pinyin-moegirl 20250409: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+app-dicts/fcitx-pinyin-moegirl 20250509: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20250428: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.8.9: AppFlowy is an open-source alternative to Notion
@@ -118,10 +118,12 @@ dev-libs/libratbag 0.18: Library to configure gaming mice
 dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
+dev-libs/qnodeeditor 2.1.7_p20210113: A general-purpose Qt-based library aimed at graph-controlled data processing.
+dev-libs/singleapplication 3.5.2_p20250124: Replacement of QtSingleApplication support for inter-instance communication
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20250430053132: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20250508005311: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
-dev-libs/v2ray-geoip 202504050136: GeoIP for V2Ray.
+dev-libs/v2ray-geoip 202505050146: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202504042212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
@@ -284,10 +286,10 @@ net-proxy/naiveproxy-bin 136.0.7103.44_p1: A proxy using Chromium's network stac
 net-proxy/nekobox-core 4.3.4: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/nekoray 4.3.4: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
-net-proxy/qv2ray 2.7.0_p20240625: Qt GUI fontend of v2ray
+net-proxy/qv2ray 2.7.0_p20240625-r1: Qt GUI fontend of v2ray
 net-proxy/qvplugin-command 3.0.0: Plugin for Qv2ray to run any commands when something happens in Qv2ray
 net-proxy/qvplugin-naiveproxy 3.0.0: Plugin for Qv2ray to support NaiveProxy in Qv2ray
-net-proxy/qvplugin-ss 3.0.0: Plugin for Qv2ray to support SIP003 in Qv2ray
+net-proxy/qvplugin-ss 3.0.0-r1: Plugin for Qv2ray to support SIP003 in Qv2ray
 net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv2ray
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
@@ -324,7 +326,7 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
-sys-kernel/cachyos-sources 6.14.5: Full Cachyos sources including the Gentoo patchset for the 6.14 kernel tree
+sys-kernel/cachyos-sources 6.14.6: Full Cachyos sources including the Gentoo patchset for the 6.14 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
 sys-kernel/xanmod-kernel 6.13.2: XanMod lts kernel built with Gentoo patches and cjktty
