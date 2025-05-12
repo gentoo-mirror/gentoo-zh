@@ -143,6 +143,7 @@ dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
+dev-python/uv-bin 0.7.3: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.14: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
@@ -281,8 +282,8 @@ net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.187.0: The Official Mihomo Dashboard
-net-proxy/mihomo 1.19.6: Another Clash Kernel, formerly Clash.Meta
-net-proxy/mihomo-party-bin 1.7.2: Mihomo Party
+net-proxy/mihomo 1.19.7: Another Clash Kernel, formerly Clash.Meta
+net-proxy/mihomo-party-bin 1.7.3: Mihomo Party
 net-proxy/naiveproxy-bin 136.0.7103.44_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/nekobox-core 4.3.4: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/nekoray 4.3.4: Qt based Desktop cross-platform GUI proxy configuration manager
