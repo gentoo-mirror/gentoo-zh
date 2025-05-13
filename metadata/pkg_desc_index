@@ -244,7 +244,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/ananta 1.1.7: a powerful command-line tool
+net-misc/ananta 1.1.8: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
 net-misc/apifox 2.7.9: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
@@ -282,7 +282,7 @@ net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.187.0: The Official Mihomo Dashboard
-net-proxy/mihomo 1.19.7: Another Clash Kernel, formerly Clash.Meta
+net-proxy/mihomo 1.19.8: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.7.3: Mihomo Party
 net-proxy/naiveproxy-bin 136.0.7103.44_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/nekobox-core 4.3.4: Qt based Desktop cross-platform GUI proxy configuration manager
