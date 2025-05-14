@@ -118,7 +118,7 @@ dev-python/qasync:qt6 - Use dev-python/pyqt6 or dev-python/pyside6 for qt6 suppo
 dev-util/arch-install-scripts:archroot - Install arch-chroot
 dev-util/arch-install-scripts:genfstab - Install genfstab
 dev-util/arch-install-scripts:pacstrap - Install pacstrap
-dev-util/mamba:micromamba - build micromamba
+dev-util/mamba:mamba - build mamba
 games-roguelike/tsl:allegro - Build Allegro-based GUI
 games-roguelike/tsl:ncurses - Build ncurses-based CLI
 gui-libs/libdecor:dbus - Enable dbus to query current cursor theme
