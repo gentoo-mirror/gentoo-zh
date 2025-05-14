@@ -11,7 +11,7 @@ LICENSE=BSD
 RDEPEND=app-arch/libarchive:= app-arch/zstd:= dev-cpp/cli11 dev-cpp/nlohmann_json dev-cpp/reproc:= dev-cpp/tl-expected dev-cpp/yaml-cpp dev-libs/simdjson sys-libs/libsolv:=[conda] mamba? ( app-crypt/mit-krb5 app-arch/bzip2 app-arch/libarchive app-arch/lz4 app-arch/xz-utils dev-libs/libunistring net-dns/libidn2 net-libs/libssh2 net-libs/libpsl net-libs/nghttp2 net-libs/nghttp3 net-dns/c-ares net-misc/curl sys-apps/acl sys-fs/e2fsprogs sys-libs/zlib ) dev-libs/libfmt:= dev-libs/spdlog net-misc/curl python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) ) !dev-util/micromamba
 REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
 RESTRICT=test
-SLOT=0/2
+SLOT=0/3
 SRC_URI=https://github.com/mamba-org/mamba/archive/refs/tags/2.1.1.tar.gz -> mamba-2.1.1.tar.gz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	distutils-r1	0e08701ccfa3f73267c62f539b7ab456	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f
-_md5_=4a9b61ed56ce1da1a462c32ce89d221a
+_md5_=d86f6ccb5fe2cbad6c8a8c97d17f5e0b
