@@ -144,7 +144,7 @@ dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.7.4: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.7.5: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.14: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
@@ -247,7 +247,7 @@ net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
 net-misc/ananta 1.1.8: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
-net-misc/apifox 2.7.11: API 文档、API 调试、API Mock、API 自动化测试
+net-misc/apifox 2.7.12: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.7: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
