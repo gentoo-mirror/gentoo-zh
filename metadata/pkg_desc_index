@@ -230,7 +230,7 @@ media-video/tenvideo 1.0.10: Tencent videos
 media-video/tsukimi 0.20.0-r1: A simple Emby Client written by GTK4-RS
 net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geographic information and CDN provider.
 net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
-net-dns/ddns-go 6.9.2: Automatically obtain your public IP address and set to your domain name service.
+net-dns/ddns-go 6.9.3: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
 net-dns/libidn11 1.33: Internationalized Domain Names (IDN) implementation
@@ -306,7 +306,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.30.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.6.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.87.0: The Official Mihomo Dashboard
+net-proxy/zashboard 1.88.0: The Official Mihomo Dashboard
 net-vpn/cloudflared 2025.5.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/cloudflared-bin 2025.5.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
@@ -346,7 +346,7 @@ virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.3.6: Cherry Studio is a desktop client that supports for multiple LLM providers.
-www-apps/follow-bin 0.4.6: Next generation information browser
+www-apps/follow-bin 0.4.7: Next generation information browser
 www-client/brave-bin 1.78.102: Web browser that blocks ads and trackers by default
 www-client/thorium-browser-bin 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
