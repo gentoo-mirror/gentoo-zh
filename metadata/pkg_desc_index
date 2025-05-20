@@ -123,9 +123,9 @@ dev-libs/qnodeeditor 2.1.7_p20210113: A general-purpose Qt-based library aimed a
 dev-libs/singleapplication 3.5.2_p20250124: Replacement of QtSingleApplication support for inter-instance communication
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
 dev-libs/v2ray-domain-list-community 20250508005311: Community managed domain list for V2Ray.
-dev-libs/v2ray-domain-list-community-bin 20241210004721: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community-bin 20250520025700: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202505050146: GeoIP for V2Ray.
-dev-libs/v2ray-geoip-bin 202412120057: GeoIP for V2Ray.
+dev-libs/v2ray-geoip-bin 202505050146: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202505102212: Enhanced edition of V2Ray rules dat files.
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
 dev-python/conda 25.3.1: OS-agnostic, system-level binary package manager and ecosystem
