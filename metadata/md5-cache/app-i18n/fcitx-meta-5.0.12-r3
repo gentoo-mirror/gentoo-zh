@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Merge this to pull in Fcitx packages
+EAPI=8
+HOMEPAGE=https://fcitx-im.org
+IUSE=anthy bamboo chewing +configtool +chinese-addons gtk2 +gtk3 gtk4 hangul lua m17n +qt5 rime skk
+KEYWORDS=~amd64
+LICENSE=metapackage
+RDEPEND=app-i18n/fcitx:5 anthy? ( app-i18n/fcitx-anthy:5 ) bamboo? ( app-i18n/fcitx-bamboo:5 ) chewing? ( app-i18n/fcitx-chewing:5 ) configtool? ( app-i18n/fcitx-configtool:5 ) chinese-addons? ( app-i18n/fcitx-chinese-addons:5[lua?] ) gtk2? ( app-i18n/fcitx-gtk:5[gtk2] ) gtk3? ( app-i18n/fcitx-gtk:5[gtk3] ) gtk4? ( app-i18n/fcitx-gtk:5[gtk4] ) hangul? ( app-i18n/fcitx-hangul:5 ) lua? ( app-i18n/fcitx-lua:5 ) m17n? ( app-i18n/fcitx-m17n:5 ) qt5? ( app-i18n/fcitx-qt:5 ) rime? ( app-i18n/fcitx-rime:5 ) skk? ( app-i18n/fcitx-skk:5 )
+SLOT=5
+_md5_=f55db22a5eac7bf1195d66120d14389f
