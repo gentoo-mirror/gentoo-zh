@@ -305,13 +305,12 @@ sys-kernel/cachyos-sources:asus - ASUS patchset
 sys-kernel/cachyos-sources:aufs - Support for Aufs
 sys-kernel/cachyos-sources:bbr3 - BBR v3
 sys-kernel/cachyos-sources:bore - BORE CPU scheduler
-sys-kernel/cachyos-sources:clang-polly - Support for Clang's polyhedral loop optimizer
 sys-kernel/cachyos-sources:crypto - Patches to improve performance of CRC32 and AES128 crypto
 sys-kernel/cachyos-sources:deckify - Support for handhelds
 sys-kernel/cachyos-sources:dkms-clang - Remove some Werror CFLAGS to increase compatibility with some DKMS modules in clang-built kernels
 sys-kernel/cachyos-sources:fixes - CachyOS fixes
 sys-kernel/cachyos-sources:hardened - linux-hardened patchset
-sys-kernel/cachyos-sources:polly - Add support for Clang's polyhedral loop optimizer
+sys-kernel/cachyos-sources:polly - Support for Clang's polyhedral loop optimizer
 sys-kernel/cachyos-sources:prjc - Project C CPU scheduler (BMQ/PDS)
 sys-kernel/cachyos-sources:rt - RT i915 patches
 sys-kernel/cachyos-sources:t2 - T2 Macbook support
