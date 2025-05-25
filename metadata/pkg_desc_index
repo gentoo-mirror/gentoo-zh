@@ -125,7 +125,7 @@ dev-libs/libthai 0.1.28 0.1.29: A a set of Thai language support routines
 dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/qnodeeditor 2.1.7_p20210113: A general-purpose Qt-based library aimed at graph-controlled data processing.
-dev-libs/singleapplication 3.5.2_p20250124: Replacement of QtSingleApplication support for inter-instance communication
+dev-libs/singleapplication 3.5.2_p20250124-r1: Replacement of QtSingleApplication support for inter-instance communication
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
 dev-libs/v2ray-domain-list-community 20250508005311: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20250520025700: Community managed domain list for V2Ray.
