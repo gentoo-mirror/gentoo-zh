@@ -86,7 +86,7 @@ app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.04.03033: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.4.8: Blazing fast terminal file manager written in Rust, based on async I/O.
-app-office/anytype-bin 0.35.4 0.46.7: A notebook based on p2p network
+app-office/anytype-bin 0.35.4 0.46.8: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.36.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220 1224: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
@@ -291,7 +291,7 @@ net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.187.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.9: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.7.3: Mihomo Party
-net-proxy/naiveproxy-bin 136.0.7103.44_p2: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 137.0.7151.44_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/nekobox-core 4.3.5: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/nekoray 4.3.5: Qt based Desktop cross-platform GUI proxy configuration manager
 net-proxy/proxy-server 8.0.0: Implementation of all proxy protocols using modern c++
