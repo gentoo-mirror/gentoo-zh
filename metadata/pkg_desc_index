@@ -156,7 +156,7 @@ dev-python/uv-bin 0.7.8: An extremely fast Python package and project manager, w
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.15: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
-dev-util/asdf-vm 0.15.0 0.16.7: Manage all your runtime versions with one tool
+dev-util/asdf-vm 0.15.0 0.17.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.2.41321: Manage all your JetBrains Projects and Tools
@@ -228,7 +228,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.16.4_p1: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.16.5_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.14: Play website videos and songs with mpv & yt-dlp
