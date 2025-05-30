@@ -12,6 +12,6 @@ LICENSE=GPL-3 Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD ISC LGPL-2.1 
 RDEPEND=>=gui-libs/gtk-4.14 >=gui-libs/libadwaita-1.6 media-libs/gstreamer media-video/mpv
 REQUIRED_USE=^^ ( llvm_slot_19 )
 SLOT=0
-SRC_URI=https://github.com/tsukinaha/tsukimi/archive/refs/tags/v0.20.0.tar.gz -> tsukimi-0.20.0.tar.gz https://github.com/gentoo-zh-drafts/tsukimi/releases/download/v0.20.0/tsukimi-0.20.0-crates.tar.xz
+SRC_URI=https://github.com/tsukinaha/tsukimi/archive/refs/tags/v0.21.0.tar.gz -> tsukimi-0.21.0.tar.gz https://github.com/gentoo-zh-drafts/tsukimi/releases/download/v0.21.0/tsukimi-0.21.0-crates.tar.xz
 _eclasses_=llvm-utils	64536677f4b4365e25e9b739163bed58	llvm-r1	0bd586d3786517cd63802a520b404dda	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	3b042096236a464b8bd9dd7a1120ad23	rust-toolchain	76468983281b0a7fc167ca224f84ecfd	cargo	5da01b45ec362e78575502b4fb82773a	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=08b063cdc1796a9fc9f17583538622c7
