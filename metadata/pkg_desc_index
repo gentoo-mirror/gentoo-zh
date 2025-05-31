@@ -35,7 +35,7 @@ app-dicts/fcitx-pinyin-moegirl 20250509: Fcitx 5 Pinyin Dictionary from zh.moegi
 app-dicts/fcitx-pinyin-sougou-baidu 20250520: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.49.6 0.50.7 0.51.0: Cursor App - AI-first coding environment
+app-editors/cursor 0.49.6 0.50.7 0.51.1: Cursor App - AI-first coding environment
 app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
@@ -285,7 +285,7 @@ net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
 net-proxy/clash-rs 0.7.7: Custom protocol, rule based network proxy
 net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3 2.2.2 2.2.3: (Continuation) of Clash Meta GUI based on Tauri.
-net-proxy/dae 0.9.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
+net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.4.3: juicity is a quic-based proxy protocol.
