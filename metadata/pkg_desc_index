@@ -152,7 +152,7 @@ dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.7.8: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.7.9: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.15: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
@@ -231,7 +231,7 @@ media-video/avplayer 9999: avplayer is a p2p video downloader and player
 media-video/bilibili 1.16.5_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
-media-video/mpv-handler 0.3.14: Play website videos and songs with mpv & yt-dlp
+media-video/mpv-handler 0.3.15: Play website videos and songs with mpv & yt-dlp
 media-video/tenvideo 1.0.10: Tencent videos
 media-video/tsukimi 0.21.0-r1: A simple Emby Client written by GTK4-RS
 net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geographic information and CDN provider.
