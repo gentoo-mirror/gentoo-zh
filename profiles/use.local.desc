@@ -343,6 +343,43 @@ sys-libs/libsolv:tcl - Build the Tcl bindings
 sys-libs/libsolv:zchunk - Build with zchunk compression support
 sys-libs/libsolv:zstd - Build with zstd compression support
 virtual/linux-sources:firmware - Install linux kernel firmware
+www-client/thorium:bluetooth - Enable Bluetooth. Disabling bluetooth does break WebAuthn. Could also break something else. Improved patch is welcome.
+www-client/thorium:cfi - Build with CFI (Control Flow Integrity) enabled. It requires "-stdlib=libc++", see #40 for more details.
+www-client/thorium:convert-dict - Patch and build the convert_dict utility. The script will be installed into /usr/lib64/chromium-browser/update-dicts.sh. More info here: https://github.com/ungoogled-software/ungoogled-chromium/issues/188#issuecomment-444752907
+www-client/thorium:debug - Enable DCHECK feature with severity configurable at runtime. Mostly intended for debugging and development, NOT RECOMMENDED for general use.
+www-client/thorium:enable-driver - Build chromedriver
+www-client/thorium:gtk4 - Build with GTK4 headers
+www-client/thorium:hangouts - Enable support for Google Hangouts features such as screen sharing
+www-client/thorium:headless - Build Ozone only with headless backend, NOT RECOMMENDED for general uses
+www-client/thorium:hevc - Enable HEVC decoding support. Should work with system-ffmpeg, but might require additional patching for the built-in one.
+www-client/thorium:libcxx - Use bundled C++ Standard Library (libc++)
+www-client/thorium:nvidia - Use libXNVCtrl library from x11-drivers/nvidia-drivers instead of the bundled one
+www-client/thorium:official - Enable Official build instead of Developer build
+www-client/thorium:optimize-webui - Optimize parts of Chromium's UI written with web technologies (HTML/CSS/JS) for runtime performance purposes. This does more work at compile time for speed benefits at runtime.
+www-client/thorium:pax-kernel - Allow building on a PaX-enabled kernel
+www-client/thorium:pgo - Enable PGO. Requires bundled binary profile data in sources tree. Often requires masked/testing llvm.
+www-client/thorium:proprietary-codecs - Enable proprietary codecs like H.264, MP3
+www-client/thorium:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
+www-client/thorium:system-brotli - Use the system app-arch/brotli instead of the bundled one
+www-client/thorium:system-crc32c - Use the system dev-libs/crc32c instead of the bundled one
+www-client/thorium:system-double-conversion - Use the system dev-libs/double-conversion instead of the bundled one
+www-client/thorium:system-ffmpeg - Use the system media-video/ffmpeg instead of the bundled one
+www-client/thorium:system-harfbuzz - Use the system media-libs/harfbuzz instead of the bundled one
+www-client/thorium:system-icu - Use the system dev-libs/icu instead of the bundled one
+www-client/thorium:system-jsoncpp - Use the system dev-libs/jsoncpp instead of the bundled one
+www-client/thorium:system-libevent - Use the system dev-libs/libevent instead of the bundled one
+www-client/thorium:system-libusb - Use the system dev-libs/libusb instead of the bundled one
+www-client/thorium:system-openh264 - Use the system media-libs/openh264 instead of the bundled one. If disabled, it will restrict USE=bindist.
+www-client/thorium:system-openjpeg - Use the system-wide media-libs/openjpeg instead of the bundled one. OpenJPEG use are exclusively for Chromium's PDF viewer.
+www-client/thorium:system-png - Use system libpng instead of the bundled one
+www-client/thorium:system-re2 - Use the system-wide dev-libs/re2 instead of the bundled one
+www-client/thorium:system-snappy - Use the system-wide app-arch/snappy instead of the bundled one
+www-client/thorium:system-woff2 - Use the system media-libs/woff2 instead of the bundled one
+www-client/thorium:system-zstd - Use the system app-arch/zstd instead of the bundled one
+www-client/thorium:thorium-libjxl - Build with libjxl for Thorium
+www-client/thorium:thorium-shell - Build Thorium Content Shell
+www-client/thorium:ungoogled - Apply ungoogled-chromium modifications to chromium sources
+www-client/thorium:widevine - Unsupported closed-source DRM capability (required by Netflix VOD)
 www-servers/woof:bzip2 - bzip2 decompression of the archive from woof
 www-servers/woof:gzip - gzip decompression of the archive from woof
 www-servers/woof:unzip - ZIP decompression of the archive from woof
