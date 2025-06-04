@@ -145,11 +145,13 @@ dev-python/frozendict 2.4.6: A simple immutable dictionary for Python
 dev-python/fuo-netease 1.0.3: netease cloud music support for feeluown
 dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
+dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/menuinst 2.2.0: Cross platform menu item installation
 dev-python/mw2fcitx 0.21.1: Build fcitx5 libraries from MediaWiki sites
 dev-python/nvchecker 2.17: nvchecker is for checking if a new version of some software has been released
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
+dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/uv-bin 0.7.10: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
