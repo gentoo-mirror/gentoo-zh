@@ -279,6 +279,7 @@ net-proxy/sing-box:grpc - Build with standard gRPC support
 net-proxy/sing-box:gvisor - Build with gVisor support
 net-proxy/sing-box:quic - Build with QUIC support
 net-proxy/sing-box:reality - Build with reality TLS server support
+net-proxy/sing-box:tailscale - Build with Tailscale support
 net-proxy/sing-box:tor - Build with embedded Tor support
 net-proxy/sing-box:utls - Build with uTLS support for TLS outbound
 net-proxy/sing-box:v2ray-api - Build with V2Ray API support
