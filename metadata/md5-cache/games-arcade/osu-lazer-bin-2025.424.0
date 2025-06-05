@@ -1,0 +1,17 @@
+BDEPEND=complete-icon? ( media-gfx/imagemagick )
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=x11-themes/hicolor-icon-theme
+DESCRIPTION=A free-to-win rhythm game. Rhythm is just a click away!
+EAPI=8
+HOMEPAGE=https://osu.ppy.sh/ https://github.com/ppy/osu
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop xdg
+IUSE=complete-icon pipewire sdl2 +system-sdl
+KEYWORDS=-* ~amd64
+LICENSE=MIT CC-BY-NC-4.0
+RDEPEND=x11-themes/hicolor-icon-theme dev-util/lttng-ust:0/2.12 system-sdl? ( sdl2? ( <media-libs/libsdl2-2.32.50 ) !sdl2? ( media-libs/libsdl3 ) ) pipewire? ( media-video/pipewire[pipewire-alsa] )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/ppy/osu/releases/download/2025.424.0/osu.AppImage -> osu-lazer-2025.424.0.AppImage https://github.com/ppy/osu/raw/2025.424.0/LICENCE -> osu-lazer-2025.424.0-LICENCE https://github.com/ppy/osu-resources/raw/2025.321.0/LICENCE.md -> osu-lazer-resources-2025.321.0-LICENCE.md
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=9599c7b0692c03cf7b4c911c2dee32d9

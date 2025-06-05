@@ -1,4 +1,4 @@
-BDEPEND=app-arch/unzip sys-fs/fuse:0
+BDEPEND=app-arch/unzip
 DEFINED_PHASES=install postinst postrm preinst
 DESCRIPTION=API 文档、API 调试、API Mock、API 自动化测试
 EAPI=8
@@ -7,8 +7,9 @@ IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=desktop xdg
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
+RDEPEND=sys-fs/fuse:0
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=amd64? ( https://file-assets.apifox.com/download/Apifox-linux-latest.zip -> apifox-2.7.15-amd64.zip )
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=d5389abb3107c6980c25a729ff296602
+_md5_=98a01ed07a2ec1721b5996cabb7b4731

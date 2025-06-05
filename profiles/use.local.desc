@@ -119,6 +119,10 @@ dev-util/arch-install-scripts:archroot - Install arch-chroot
 dev-util/arch-install-scripts:genfstab - Install genfstab
 dev-util/arch-install-scripts:pacstrap - Install pacstrap
 dev-util/mamba:mamba - build mamba
+games-arcade/osu-lazer-bin:complete-icon - Generate more icons from .ICO files
+games-arcade/osu-lazer-bin:pipewire - Using pipewire as sound server requires that pipewire's alsa support be enabled
+games-arcade/osu-lazer-bin:sdl2 - Use SDL2 to run the game, otherwise use SDL3
+games-arcade/osu-lazer-bin:system-sdl - Use system SDL
 games-roguelike/tsl:allegro - Build Allegro-based GUI
 games-roguelike/tsl:ncurses - Build ncurses-based CLI
 gui-libs/libdecor:dbus - Enable dbus to query current cursor theme
