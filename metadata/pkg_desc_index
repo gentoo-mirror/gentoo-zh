@@ -344,13 +344,13 @@ sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbi
 sys-kernel/cachyos-sources 6.14.8 6.15.0: Full Cachyos sources including the Gentoo patchset for the 6.15 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
-sys-kernel/xanmod-kernel 6.14.6: XanMod lts kernel built with Gentoo patches and cjktty
+sys-kernel/xanmod-kernel 6.14.9: XanMod lts kernel built with Gentoo patches and cjktty
 sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
-sys-kernel/xanmod-sources 6.14.6: Full XanMod source, including the Gentoo patchset and other patch options.
+sys-kernel/xanmod-sources 6.14.9: Full XanMod source, including the Gentoo patchset and other patch options.
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
 sys-libs/libsolv 0.7.32: Library for solving packages and reading repositories
 sys-power/tlpui 1.8.0: A GTK user interface for TLP written in Python
-virtual/dist-kernel 6.14.6: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.14.9: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
