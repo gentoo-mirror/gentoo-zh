@@ -88,7 +88,7 @@ app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.04.03523: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.5.31: Blazing fast terminal file manager written in Rust, based on async I/O.
 app-office/anytype-bin 0.35.4 0.46.8: A notebook based on p2p network
-app-office/bytedance-feishu 7.22.9 7.36.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
+app-office/bytedance-feishu 7.22.9 7.42.17: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220 1224: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900: WPS Office is an office productivity suite, Here is the Chinese version
 app-pda/ipadcharge 9999: Enables USB charging for Apple devices.
@@ -234,7 +234,7 @@ media-video/avplayer 9999: avplayer is a p2p video downloader and player
 media-video/bilibili 1.16.5_p2: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
-media-video/mpv-handler 0.3.15: Play website videos and songs with mpv & yt-dlp
+media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
 media-video/tenvideo 1.0.10: Tencent videos
 media-video/tsukimi 0.21.0-r1: A simple Emby Client written by GTK4-RS
 net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geographic information and CDN provider.
@@ -258,7 +258,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/ananta 1.2.2: a powerful command-line tool
+net-misc/ananta 1.3.1: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
 net-misc/apifox 2.7.15: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
@@ -288,7 +288,7 @@ net-proxy/Xray 25.5.16: Xray, Penetrates Everything. Also the best v2ray-core, w
 net-proxy/bore 0.5.3: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-nyanpasu 1.5.1: Clash GUI based on tauri
-net-proxy/clash-rs 0.7.7: Custom protocol, rule based network proxy
+net-proxy/clash-rs 0.7.8: Custom protocol, rule based network proxy
 net-proxy/clash-verge-bin 1.6.0 1.6.4 1.6.6 1.7.7-r1 2.0.2 2.0.3 2.2.2 2.2.3: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 0.9.0 9999: A Modern Dashboard For dae
@@ -317,7 +317,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.32.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.6.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.93.0: The Official Mihomo Dashboard
+net-proxy/zashboard 1.93.1: The Official Mihomo Dashboard
 net-vpn/cloudflared 2025.5.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/cloudflared-bin 2025.5.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
