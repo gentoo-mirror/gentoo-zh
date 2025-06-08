@@ -33,7 +33,7 @@ app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Arch
 app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输入法词库，百万常用词汇量。
 app-dicts/fcitx-pinyin-moegirl 20250509: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20250520: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
-app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250310: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250526: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.49.6 0.50.7 0.51.2 1.0.0: Cursor App - AI-first coding environment
 app-editors/edit 1.1.0: Microsoft edit
