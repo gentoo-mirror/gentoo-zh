@@ -217,7 +217,6 @@ media-libs/openslide 20230904: C library with simple interface to read virtual s
 media-libs/phonon-mpv 0.1.0-r1: Mpv backend for the Phonon multimedia library
 media-plugins/osdlyrics 0.5.15 9999: Standalone lyrics fetcher/displayer (windowed and OSD mode).
 media-plugins/waylyrics 0.3.21: Simple On Screen lyrics Display for linux/unix
-media-sound/amarok 3.1.0: KDE calculator
 media-sound/barva 9999: a modular audio visualizer
 media-sound/feeluown 4.1.7: A user-friendly and hackable music player
 media-sound/go-musicfox 4.6.0: Command-line Netease Cloud Music written in Go
