@@ -38,7 +38,7 @@ app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.49.6 0.50.7 0.51.2 1.0.1: Cursor App - AI-first coding environment
 app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
-app-editors/mu-editor-bin 1.2.0: A simple Python editor for beginner programmers
+app-editors/mu-editor 1.2.2_alpha1_p20241216: A simple Python editor for beginner programmers
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
 app-editors/void-editor 1.2.1.25105 1.99.30034: Void Editor - AI Code Editor
 app-editors/windsurf 1.9.2: AI-powered code editor maintaining flow state with instant assistance.
@@ -135,6 +135,7 @@ dev-libs/v2ray-domain-list-community-bin 20250520025700: Community managed domai
 dev-libs/v2ray-geoip 202505050146: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202505050146: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202505102212: Enhanced edition of V2Ray rules dat files.
+dev-python/adafruit-board-toolkit 1.1.2: CircuitPython board identification and information
 dev-python/archspec 0.2.5: A library for detecting, labeling, and reasoning about microarchitectures
 dev-python/conda 25.5.1: OS-agnostic, system-level binary package manager and ecosystem
 dev-python/conda-libmamba-solver 25.4.0: The libmamba based solver for conda
@@ -149,9 +150,11 @@ dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
 dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/menuinst 2.2.0: Cross platform menu item installation
 dev-python/mw2fcitx 0.22.0: Build fcitx5 libraries from MediaWiki sites
+dev-python/nudatus 0.0.5: CircuitPython board identification and information
 dev-python/nvchecker 2.18: nvchecker is for checking if a new version of some software has been released
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
+dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/uv-bin 0.7.12: An extremely fast Python package and project manager, written in Rust.
