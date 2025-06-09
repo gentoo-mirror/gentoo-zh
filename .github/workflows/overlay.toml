@@ -546,6 +546,11 @@ prefix = "v"
 # high update frequency
 #["dev-libs/v2ray-rules-dat-bin"]
 
+["dev-python/adafruit-board-toolkit"]
+source = "pypi"
+pypi = "adafruit-board-toolkit"
+github_account = "blackteahamburger"
+
 ["dev-python/archspec"]
 source = "github"
 github = "archspec/archspec"
@@ -616,6 +621,11 @@ source = "pypi"
 pypi = "mw2fcitx"
 github_account = "blackteahamburger"
 
+["dev-python/nudatus"]
+source = "pypi"
+pypi = "nudatus"
+github_account = "blackteahamburger"
+
 ["dev-python/nvchecker"]
 source = "github"
 github = "lilydjwg/nvchecker"
@@ -634,6 +644,11 @@ source = "github"
 github = "mozillazg/python-pinyin"
 use_latest_tag = true
 prefix = "v"
+github_account = "blackteahamburger"
+
+["dev-python/pyqt6-charts"]
+source = "pypi"
+pypi = "PyQt6-Charts"
 github_account = "blackteahamburger"
 
 ["dev-python/pytube"]
