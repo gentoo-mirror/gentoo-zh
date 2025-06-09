@@ -87,19 +87,6 @@ app-text/goldendict:tts - Enable QTexttoSpeech support
 app-text/goldendict:zim - Add Zim and Slob formats support
 dev-cpp/cppcoro:shared - Build shared library instead of static library.
 dev-cpp/tgbot-cpp:shared-libs - Build shared library instead of static library.
-dev-db/mongodb:experimental-optimization - Enable experimental optimizations, exclude sandybridge.
-dev-db/mongodb:experimental-runtime-hardening - Enable experimental runtime hardenings.
-dev-db/mongodb:free-mon - Enable support for Free Monitoring
-dev-db/mongodb:gold - Use gold linker instead of default bfd linker.
-dev-db/mongodb:http-client - Enable support for HTTP client requests.
-dev-db/mongodb:lto - Adds support for link time optimization
-dev-db/mongodb:mongosh - Install the MongoDB shell from app-admin/mongosh-bin
-dev-db/mongodb:ocsp-stapling - Enable OCSP Stapling on servers.
-dev-db/mongodb:runtime-hardening - Enable runtime hardening features. (e.g. stack smash protection)
-dev-db/mongodb:server-js - Build mongod with JavaScript support. (use spidermonkey as javascript scripting engine)
-dev-db/mongodb:tcmalloc - Use tcmalloc as allocator.
-dev-db/mongodb:tcmalloc-experimental - Use tcmalloc-experimental as allocator.
-dev-db/mongodb:tools - Install the MongoDB tools (mongoimport, mongodump...) from app-admin/mongo-tools
 dev-java/oraclejdk-bin:commercial - Install features requiring a commercial license for production use
 dev-java/oraclejdk-bin:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
 dev-java/oraclejdk-bin:javafx - Install JavaFX libraries
