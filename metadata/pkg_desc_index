@@ -240,7 +240,7 @@ net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geograp
 net-analyzer/pwru 1.0.9: eBPF-based Linux kernel networking debugger
 net-analyzer/pwru-bin 1.0.9: eBPF-based Linux kernel networking debugger
 net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
-net-dns/ddns-go 6.9.5: Automatically obtain your public IP address and set to your domain name service.
+net-dns/ddns-go 6.10.0: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
 net-dns/libidn11 1.33: Internationalized Domain Names (IDN) implementation
