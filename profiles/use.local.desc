@@ -235,8 +235,6 @@ net-p2p/n2n:pcap - Use libpcap support
 net-p2p/n2n:upnp - Use miniupnpc and libnatpmp support
 net-p2p/n2n:zstd - Use zstd support
 net-p2p/qbittorrent-enhanced:webui - Enable the Web UI
-net-proxy/clash-nyanpasu:clash-rs - Install net-proxy/clash-rs as clash backend
-net-proxy/clash-nyanpasu:mihomo - Install net-proxy/mihomo as clash backend
 net-proxy/clash-rs:bench - Enable Bench Protocol
 net-proxy/clash-rs:jemallocator - Enable Jemallocator Perf
 net-proxy/clash-rs:lto - Enable Link Time Optimization
