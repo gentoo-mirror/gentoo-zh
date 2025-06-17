@@ -14,4 +14,4 @@ RESTRICT=mirror
 SLOT=0/lazer
 SRC_URI=https://github.com/ppy/osu/releases/download/2025.607.0/osu.AppImage -> osu-lazer-2025.607.0.AppImage https://github.com/ppy/osu/raw/refs/heads/master/LICENCE -> osu-lazer-LICENCE https://github.com/ppy/osu-resources/raw/refs/heads/master/LICENCE.md -> osu-lazer-resources-LICENCE.md
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=e723380df7dcabfc8c974548a58366eb
+_md5_=104fb6c5f237ecb20deb6c030bb9bcf0
