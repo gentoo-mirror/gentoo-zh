@@ -318,7 +318,7 @@ net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
 net-proxy/zashboard 1.93.1: The Official Mihomo Dashboard
 net-vpn/cloudflared 2025.5.0: Cloudflare Tunnel client (formerly Argo Tunnel)
-net-vpn/cloudflared-bin 2025.6.0: Cloudflare Tunnel client (formerly Argo Tunnel)
+net-vpn/cloudflared-bin 2025.6.1: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
 sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
