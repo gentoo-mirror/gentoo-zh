@@ -25,7 +25,6 @@ app-alternatives/v2ray-geoip 0-r2: symlink for v2ray-geoip
 app-alternatives/v2ray-geosite 0-r2: symlink for v2ray-geosite
 app-arch/libzim 9.3.0: ZIM file format: an offline storage solution for content coming from the Web
 app-arch/zchunk 1.3.2 1.5.1 9999: A format designed for highly efficient deltas while maintaining good compression
-app-backup/btrfs-assistant 2.1.1 9999: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/restic-rest-server 0.14.0: A high performance HTTP server that implements restic's REST backend API
 app-backup/snapper-gui 220626: GUI for snapper, a tool for Linux filesystem snapshot management
 app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distrobox/toolbox, also podman/docker)
