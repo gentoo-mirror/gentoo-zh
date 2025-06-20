@@ -31,7 +31,7 @@ app-containers/distrobox-boost 9999: A container runtimer wrapper for OCI (distr
 app-crypt/archlinux-keyring 20231113 20231222 20240208-r1: GnuPG keyring of Archlinux developer keys
 app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输入法词库，百万常用词汇量。
 app-dicts/fcitx-pinyin-moegirl 20250610: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
-app-dicts/fcitx-pinyin-sougou-baidu 20250520: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
+app-dicts/fcitx-pinyin-sougou-baidu 20250620: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250526: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.49.6 0.50.7 0.51.2 1.1.4: Cursor App - AI-first coding environment
@@ -130,9 +130,9 @@ dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/qnodeeditor 2.1.7_p20210113: A general-purpose Qt-based library aimed at graph-controlled data processing.
 dev-libs/singleapplication 3.5.2_p20250124-r1: Replacement of QtSingleApplication support for inter-instance communication
 dev-libs/tdlib 1.8.0 9999: Cross-platform library for building Telegram clients
-dev-libs/v2ray-domain-list-community 20250508005311: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20250608120644: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20250608120644: Community managed domain list for V2Ray.
-dev-libs/v2ray-geoip 202505050146: GeoIP for V2Ray.
+dev-libs/v2ray-geoip 202506050146: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202506050146: GeoIP for V2Ray.
 dev-libs/v2ray-rules-dat-bin 202505102212: Enhanced edition of V2Ray rules dat files.
 dev-python/adafruit-board-toolkit 1.1.2: CircuitPython board identification and information
@@ -342,7 +342,7 @@ sys-fs/ltfs 9999: LTFS for LTO tapes
 sys-fs/spadfs-utils 1.0.18: Filesystem Tools for SpadFS
 sys-fs/ssdfs-tools 4.09: userspace tools for SSDFS
 sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbing
-sys-kernel/cachyos-sources 6.14.8 6.15.2: Full Cachyos sources including the Gentoo patchset for the 6.15 kernel tree
+sys-kernel/cachyos-sources 6.14.8 6.15.3: Full Cachyos sources including the Gentoo patchset for the 6.15 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
 sys-kernel/xanmod-kernel 6.14.10: XanMod lts kernel built with Gentoo patches and cjktty
