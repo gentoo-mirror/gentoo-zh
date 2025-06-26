@@ -345,13 +345,13 @@ sys-fs/systemd-zpool-scrub 9999: Systemd service for automatic ZFS zpool scrubbi
 sys-kernel/cachyos-sources 6.14.8 6.15.3: Full Cachyos sources including the Gentoo patchset for the 6.15 kernel tree
 sys-kernel/liquorix-sources 6.4.12 6.6.8: Liquorix kernel is best one for desktop, multimedia and gaming workloads
 sys-kernel/mkinitcpio 38 39.2: Modular initramfs image creation utility
-sys-kernel/xanmod-kernel 6.14.10: XanMod lts kernel built with Gentoo patches and cjktty
-sys-kernel/xanmod-rt 6.0.11: XanMod RT sources and CJKTTY options.
-sys-kernel/xanmod-sources 6.14.10: Full XanMod source, including the Gentoo patchset and other patch options.
+sys-kernel/xanmod-kernel 6.15.3: XanMod lts kernel built with Gentoo patches and cjktty
+sys-kernel/xanmod-rt 6.0.11 6.12.31: XanMod RT sources w/ genpatches and CJKTTY options.
+sys-kernel/xanmod-sources 6.15.3: Full XanMod source, including the Gentoo patchset and other patch options.
 sys-libs/elog-functions 0.0.2: Compatibility functions for the log e* functions of OpenRC
 sys-libs/libsolv 0.7.33: Library for solving packages and reading repositories
 sys-power/tlpui 1.8.0: A GTK user interface for TLP written in Python
-virtual/dist-kernel 6.14.10: Virtual to depend on any Distribution Kernel
+virtual/dist-kernel 6.15.3: Virtual to depend on any Distribution Kernel
 virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
@@ -380,5 +380,6 @@ x11-themes/kora-icon-theme 1.6.4: An SVG icon theme with lots of new icons for G
 x11-themes/nordic 2.1.0 2.2.0-r1: Dark Gtk3.20+ theme created using the awesome Nord color pallete
 x11-themes/nordzy-cursors 0.5.0 2.4.0: Cursor theme using the Nord color palette and based on Vimix and cz-Viator
 x11-themes/nordzy-icon 1.5 1.8.7: A free and open source icon theme for Linux desktops using the Nord color palette
+x11-themes/ori-fcitx5 9999: Ori theme for Fcitx5
 x11-wm/chamferwm 9999: A tiling X11 window manager with Vulkan compositor.
 x11-wm/hypr 1.1.4 9999: A dynamic Linux tiling window manager for Xorg

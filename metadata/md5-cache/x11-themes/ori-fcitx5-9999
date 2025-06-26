@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=app-i18n/fcitx:5
+DESCRIPTION=Ori theme for Fcitx5
+EAPI=8
+HOMEPAGE=https://github.com/Reverier-Xu/Ori-fcitx5
+INHERIT=git-r3
+KEYWORDS=amd64
+LICENSE=MPL-2.0
+PROPERTIES=live
+RDEPEND=app-i18n/fcitx:5
+SLOT=0
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=c55fd8a764a4c5a209dac59f1c01878f

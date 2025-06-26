@@ -8,11 +8,11 @@ INHERIT=kernel-build toolchain-funcs llvm-r1
 IUSE=clang debug savedconfig +initramfs test +strip +llvm_slot_20 llvm_slot_19
 KEYWORDS=~amd64
 LICENSE=GPL-2
-PDEPEND=>=virtual/dist-kernel-6.14.10
+PDEPEND=>=virtual/dist-kernel-6.15.3
 RDEPEND=virtual/libelf
 REQUIRED_USE=^^ ( llvm_slot_19 llvm_slot_20 )
 RESTRICT=!test? ( test ) test? ( userpriv ) arm? ( test )
-SLOT=6.14.10
-SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.14-12.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.14-12.extras.tar.xz https://download.sourceforge.net/xanmod/patch-6.14.10-xanmod1.xz
+SLOT=6.15.3
+SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.15.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.15-4.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.15-4.extras.tar.xz https://download.sourceforge.net/xanmod/patch-6.15.3-xanmod1.xz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	9c45b7a544652d5b47888c9a419c6ccc	python-any-r1	891415dfe39ad9b41b461f2b86354af0	portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	kernel-install	71aaa5e57ceec3afe1e45259f02bfe48	kernel-build	a9be061917899cf86f9f88c250c9fd92	llvm-utils	64536677f4b4365e25e9b739163bed58	llvm-r1	5a1fde9f55315992645818a877837527
-_md5_=462ec7b4119c425328bfde149f545306
+_md5_=c58d529526adf3861f401986b3b5cdd1

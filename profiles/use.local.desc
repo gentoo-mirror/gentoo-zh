@@ -312,6 +312,10 @@ sys-kernel/xanmod-kernel:clang - Use clang compiler instead of GCC
 sys-kernel/xanmod-kernel:debug - Pseudo flag
 sys-kernel/xanmod-kernel:initramfs - Build initramfs along with the kernel.
 sys-kernel/xanmod-rt:cjk - Eanble cjktty patches.
+sys-kernel/xanmod-rt:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
+sys-kernel/xanmod-rt:generic-uki - Build and install a generic initramfs and Unified Kernel Image, this is intended for building binpkgs with a pre-generated UKI included (EXPERIMENTAL).
+sys-kernel/xanmod-rt:hardened - Use selection of hardening options recommended by Kernel Self Protection Project
+sys-kernel/xanmod-rt:initramfs - Build initramfs along with the kernel.
 sys-libs/libsolv:appdata - Build with AppStream appdata support
 sys-libs/libsolv:arch - Build with archlinux repository support
 sys-libs/libsolv:bzip2 - Build with bzip2 compression support
