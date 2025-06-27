@@ -249,7 +249,7 @@ net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
 net-dns/q 0.19.2-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
-net-im/dingtalk 7.6.25.4122001 7.6.45.5041701: Communication platform that supports video and audio conferencing
+net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
 net-im/tencent-qq 3.2.18_p250616: The new version of the official linux-qq
 net-im/wechat 4.0.1.11-r1: Weixin for Linux
 net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (Universal) with bwrap sandbox
@@ -360,10 +360,10 @@ virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.4.4: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.43.0-r1: A distinctive utility file server
 www-apps/follow-bin 0.5.0: Next generation information browser
-www-client/brave-bin 1.79.126: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.80.113: Web browser that blocks ads and trackers by default
 www-client/thorium 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
-www-servers/miniserve 0.29.0: For when you really just want to serve some files over HTTP right now!
+www-servers/miniserve 0.30.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
