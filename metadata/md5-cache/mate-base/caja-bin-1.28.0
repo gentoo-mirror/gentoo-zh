@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DESCRIPTION=GUI file manager, fork of GNOME Files (Nautilus); supports SSH, FTP, WebDav
+EAPI=8
+HOMEPAGE=https://wiki.mate-desktop.org/mate-desktop/applications/caja
+INHERIT=desktop
+KEYWORDS=amd64
+LICENSE=GPL-2
+RDEPEND=sys-fs/fuse
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/Samueru-sama/caja-appimage-test/releases/download/1.28.0-3/Caja-1.28.0-3-anylinux-x86_64.AppImage
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_md5_=6cdbccd3c9b592ac9e553a813f80a79f

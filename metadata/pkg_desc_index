@@ -189,6 +189,7 @@ gui-apps/crystal-dock 2.11: Cool dock (desktop panel) for Linux desktop
 gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
 gui-wm/swayfx 0.3.2: SwayFX: Sway, but with eye candy!
 kde-misc/plasma-applet-netspeed-widget 2.0 3.1 9999: Plasma 5 widget that displays the currently used network bandwidth.
+mate-base/caja-bin 1.28.0: GUI file manager, fork of GNOME Files (Nautilus); supports SSH, FTP, WebDav
 media-fonts/Plangothic 2.9.5771: 遍黑体项目（Plangothic Project）
 media-fonts/iansui 1.011: An open-source Chinese font derived from Klee One (Fontworks).
 media-fonts/jf-openhuninn 2.1: An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
@@ -363,7 +364,7 @@ www-apps/follow-bin 0.5.0: Next generation information browser
 www-client/brave-bin 1.80.113: Web browser that blocks ads and trackers by default
 www-client/thorium 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
-www-servers/miniserve 0.30.0: For when you really just want to serve some files over HTTP right now!
+www-servers/miniserve 0.31.0: For when you really just want to serve some files over HTTP right now!
 www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
