@@ -291,23 +291,18 @@ sci-electronics/openfpgaloader:remote - enable remote bitbang support
 sys-apps/pacman:doc - Install extended documentation using app-text/doxygen. (Man pages are included by default.)
 sys-apps/pacman:gpg - Enable GPG signature verification using app-crypt/gpgme
 sys-kernel/cachyos-sources:amd-pstate - AMD P-State enhancements and fixes from linux-next
-sys-kernel/cachyos-sources:amd-tlb-broadcast - Support for AMD broadcast TLB invalidation
 sys-kernel/cachyos-sources:asus - ASUS patchset
-sys-kernel/cachyos-sources:async-shutdown - Support async shutdown
 sys-kernel/cachyos-sources:aufs - Support for Aufs
 sys-kernel/cachyos-sources:bbr3 - BBR v3
 sys-kernel/cachyos-sources:block - mq-deadline and bfq patches
 sys-kernel/cachyos-sources:bore - BORE CPU scheduler
-sys-kernel/cachyos-sources:crypto - Patches to improve performance of CRC32 and AES128 crypto
 sys-kernel/cachyos-sources:deckify - Support for handhelds
 sys-kernel/cachyos-sources:dkms-clang - Remove some Werror CFLAGS to increase compatibility with some DKMS modules in clang-built kernels
 sys-kernel/cachyos-sources:fixes - CachyOS fixes
-sys-kernel/cachyos-sources:hardened - linux-hardened patchset
 sys-kernel/cachyos-sources:polly - Support for Clang's polyhedral loop optimizer
 sys-kernel/cachyos-sources:prjc - Project C CPU scheduler (BMQ/PDS)
 sys-kernel/cachyos-sources:rt - RT i915 patches
 sys-kernel/cachyos-sources:t2 - T2 Macbook support
-sys-kernel/cachyos-sources:zstd - Latest and improved ZSTD patch-set
 sys-kernel/liquorix-sources:cjk - Enable cjktty Patches.
 sys-kernel/xanmod-kernel:clang - Use clang compiler instead of GCC
 sys-kernel/xanmod-kernel:debug - Pseudo flag
