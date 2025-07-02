@@ -159,7 +159,7 @@ dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.7.17: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.7.18: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.15: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
