@@ -228,7 +228,7 @@ media-sound/netease-cloud-music 1.2.1: Netease Cloud Music, converted from .deb 
 media-sound/netease-cloud-music-gtk 2.5.2: netease cloud music player based on Rust & GTK for Linux
 media-sound/qqmusic 1.1.7: Tencent QQ Music, converted from .deb package
 media-sound/spotube-bin 4.0.2: A lightweight Spotify client using YouTube as audio source
-media-sound/termusic 0.10.0: Terminal Music and Podcast Player written in Rust
+media-sound/termusic 0.11.0: Terminal Music and Podcast Player written in Rust
 media-sound/yamusic-tui-bin 0.7.1: An unofficial Yandex Music terminal client, with offline mode and My Wave
 media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
@@ -313,7 +313,7 @@ net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.4: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.9.7 1.10.7 1.11.14 1.12.0_beta30-r1: The universal proxy platform.
+net-proxy/sing-box 1.9.7 1.10.7 1.11.14 1.12.0_beta31: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.06.22: A fork of trojan-go
 net-proxy/v2ray 5.34.0: A platform for building proxies to bypass network restrictions.
@@ -322,8 +322,8 @@ net-proxy/v2rayA 2.2.6.7 9999: web GUI of Project V which supports V2Ray, Xray, 
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
 net-proxy/zashboard 1.96.0: The Official Mihomo Dashboard
-net-vpn/cloudflared 2025.6.1: Cloudflare Tunnel client (formerly Argo Tunnel)
-net-vpn/cloudflared-bin 2025.6.1: Cloudflare Tunnel client (formerly Argo Tunnel)
+net-vpn/cloudflared 2025.7.0: Cloudflare Tunnel client (formerly Argo Tunnel)
+net-vpn/cloudflared-bin 2025.7.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
 sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis

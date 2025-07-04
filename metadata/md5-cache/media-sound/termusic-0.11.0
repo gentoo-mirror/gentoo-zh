@@ -11,6 +11,6 @@ LICENSE=MIT Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD GPL-3+ ISC LGPL
 RDEPEND=symphonia? ( media-libs/alsa-lib ) gst? ( dev-libs/glib:2 media-libs/gstreamer:1.0 media-libs/gst-plugins-base:1.0 media-libs/gst-plugins-bad:1.0 media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-plugins/gst-plugins-libav ) mpv? ( media-video/mpv[libmpv] ) media-libs/libsixel dev-libs/protobuf sys-apps/dbus yt-dlp? ( media-video/ffmpeg net-misc/yt-dlp )
 REQUIRED_USE=^^ ( symphonia gst mpv )
 SLOT=0
-SRC_URI=https://github.com/tramhao/termusic/archive/refs/tags/v0.10.0.tar.gz -> termusic-0.10.0.tar.gz https://github.com/gentoo-zh-drafts/termusic/releases/download/v0.10.0/termusic-0.10.0-crates.tar.xz
+SRC_URI=https://github.com/tramhao/termusic/archive/refs/tags/v0.11.0.tar.gz -> termusic-0.11.0.tar.gz https://github.com/gentoo-zh-drafts/termusic/releases/download/v0.11.0/termusic-0.11.0-crates.tar.xz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	205f396579fe93ffb2775ef7e36a1b20	rust-toolchain	76468983281b0a7fc167ca224f84ecfd	cargo	5da01b45ec362e78575502b4fb82773a
 _md5_=64097e75ed0bf204e53dfa5e0dd312c4
