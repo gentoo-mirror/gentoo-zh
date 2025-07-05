@@ -11,5 +11,5 @@ RDEPEND=acct-group/vintagestory acct-user/vintagestory app-misc/dtach net-misc/c
 RESTRICT=bindist mirror strip strip
 SLOT=1.21.0_pre1
 SRC_URI=https://cdn.vintagestory.at/gamefiles/pre/vs_server_linux-x64_1.21.0-pre.1.tar.gz
-_eclasses_=edo	a5e294016aa84979fcb2459749eb80b2	multiprocessing	1e32df7deee68372153dca65f4a7c21f	nuget	5b6663023b71fb1220f230ac225205ae	dotnet-pkg-base	6c5f563c6f9f99038ac0ddf7403e3b55	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
+_eclasses_=edo	a5e294016aa84979fcb2459749eb80b2	multiprocessing	1e32df7deee68372153dca65f4a7c21f	nuget	5b6663023b71fb1220f230ac225205ae	dotnet-pkg-base	6c5f563c6f9f99038ac0ddf7403e3b55	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=a4e3d0b1f6279052f84a289639f2f732
