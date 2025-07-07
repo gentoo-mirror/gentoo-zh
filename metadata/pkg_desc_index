@@ -76,7 +76,7 @@ app-i18n/libime 9999: Fcitx5 Next generation of fcitx
 app-i18n/libime-jyutping 1.0.13: A library make use of libime to implement jyutping input method
 app-i18n/lunar 2.2-r5: Chinese Lunar Calendar conversion utility
 app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
-app-misc/aichat 0.29.0: All-in-one LLM CLI Tool
+app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
 app-misc/go-yq-bin 4.45.4: yq is a portable command-line YAML, JSON and XML processor
@@ -250,7 +250,7 @@ net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your 
 net-dns/libidn11 1.33: Internationalized Domain Names (IDN) implementation
 net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
-net-dns/q 0.19.2-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+net-dns/q 0.19.5: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
 net-im/tencent-qq 3.2.18_p250626: The new version of the official linux-qq
