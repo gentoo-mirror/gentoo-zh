@@ -166,6 +166,7 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
+dev-util/gemini-cli 0.1.9_pre20250709: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.2.41321: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
 dev-util/osc 1.17.0: The Command Line Interface to work with an Open Build Service
@@ -360,13 +361,14 @@ virtual/linux-sources 3-r11: Virtual for Linux kernel sources
 virtual/loong-ow-compat 0: Virtual for LoongArch old-world compatibility
 virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
-www-apps/cherry-studio-bin 1.4.8: Cherry Studio is a desktop client that supports for multiple LLM providers.
+www-apps/cherry-studio-bin 1.4.9: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.43.0-r1: A distinctive utility file server
 www-apps/follow-bin 0.6.1: Next generation information browser
 www-client/brave-bin 1.80.115: Web browser that blocks ads and trackers by default
 www-client/thorium 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
 www-servers/miniserve 0.31.0-r1: For when you really just want to serve some files over HTTP right now!
+www-servers/s-ui-bin 1.2.2: An advanced Web Panel • Built for SagerNet/Sing-Box
 www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
