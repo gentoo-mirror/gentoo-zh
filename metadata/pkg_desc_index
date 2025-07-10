@@ -85,7 +85,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode 0.0.53: AI coding agent, built for the terminal
-app-misc/opencode-bin 0.2.5: AI coding agent, built for the terminal
+app-misc/opencode-bin 0.2.18: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.04.03523: Brainstorming and Mind Mapping Software
@@ -159,7 +159,7 @@ dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.7.19: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.7.20: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.15: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
@@ -339,7 +339,7 @@ sys-apps/isd 0.5.1: isd (interactive systemd) — a better way to work with syst
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
-sys-apps/pnpm 9.15.5 10.12.4: Fast, disk space efficient package manager
+sys-apps/pnpm 9.15.5 10.13.1: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
 sys-boot/ventoy-bin 1.1.05: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
