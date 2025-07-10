@@ -85,7 +85,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode 0.0.53: AI coding agent, built for the terminal
-app-misc/opencode-bin 0.2.18: AI coding agent, built for the terminal
+app-misc/opencode-bin 0.2.20: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.04.03523: Brainstorming and Mind Mapping Software
