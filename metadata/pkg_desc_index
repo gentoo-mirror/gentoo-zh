@@ -236,7 +236,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.16.5_p2: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.16.5_p4: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
@@ -364,7 +364,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.4.11: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.43.0-r1: A distinctive utility file server
-www-apps/follow-bin 0.6.1: Next generation information browser
+www-apps/follow-bin 0.6.2: Next generation information browser
 www-client/brave-bin 1.80.120: Web browser that blocks ads and trackers by default
 www-client/thorium 130.0.6723.174: Chromium fork focused on high performance and security
 www-servers/darkhttpd 1.16: A small, static webserver
