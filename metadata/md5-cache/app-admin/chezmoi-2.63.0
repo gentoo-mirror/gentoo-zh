@@ -1,4 +1,4 @@
-BDEPEND=>=dev-lang/go-1.24.4 >=dev-lang/go-1.20:= app-arch/unzip
+BDEPEND=>=dev-lang/go-1.24.5 >=dev-lang/go-1.20:= app-arch/unzip
 DEFINED_PHASES=compile install unpack
 DESCRIPTION=Manage your dotfiles across multiple diverse machines, securely.
 EAPI=8
@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-vcs/git !app-admin/chezmoi-bin
 SLOT=0
-SRC_URI=https://github.com/twpayne/chezmoi/archive/v2.62.7.tar.gz -> chezmoi-2.62.7.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/chezmoi-2.62.7/chezmoi-2.62.7-vendor.tar.xz
+SRC_URI=https://github.com/twpayne/chezmoi/archive/v2.63.0.tar.gz -> chezmoi-2.63.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/chezmoi-2.63.0/chezmoi-2.63.0-vendor.tar.xz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885
-_md5_=b191947ddb0e526fe86c4a18dd202dac
+_md5_=6ff7d540150f30eec83e3ec3927585fe
