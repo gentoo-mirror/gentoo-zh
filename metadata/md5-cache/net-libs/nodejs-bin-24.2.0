@@ -10,5 +10,5 @@ LICENSE=Apache-1.1 Apache-2.0 BSD BSD-2 MIT Artistic-2
 RDEPEND=!net-libs/nodejs >=app-arch/brotli-1.1.0:= dev-db/sqlite:3 >=dev-libs/libuv-1.49.2:= >=dev-libs/simdjson-3.10.1:= >=net-dns/c-ares-1.34.4:= >=net-libs/nghttp2-1.64.0:= >=net-libs/nghttp3-1.7.0:= sys-libs/zlib >=dev-libs/icu-73:= >=net-libs/ngtcp2-1.9.1:= >=dev-libs/openssl-1.1.1:0= sys-devel/gcc:*
 SLOT=0
 SRC_URI=https://nodejs.org/dist/v24.2.0/node-v24.2.0-linux-x64.tar.xz -> nodejs-bin-24.2.0.tar.xz
-_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	linux-info	efd923656513c879204fec6638eadee5	pax-utils	5555f2e75744739fe100ee62c22d28fe
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	linux-info	efd923656513c879204fec6638eadee5	pax-utils	5555f2e75744739fe100ee62c22d28fe
 _md5_=efa82faaf5ef0f30022d7559e862b973

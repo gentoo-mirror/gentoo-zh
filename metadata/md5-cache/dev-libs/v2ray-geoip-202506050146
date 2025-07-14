@@ -9,5 +9,5 @@ LICENSE=CC-BY-SA-4.0 CC-BY-4.0
 RDEPEND=!dev-libs/v2ray-geoip-bin
 SLOT=0
 SRC_URI=https://github.com/v2fly/geoip/archive/refs/tags/202506050146.tar.gz -> v2ray-geoip-202506050146.tar.gz https://github.com/blackteahamburger/gentoo-deps/releases/download/v2ray-geoip-202506050146/v2ray-geoip-202506050146-vendor.tar.xz https://download.db-ip.com/free/dbip-country-lite-2025-06.mmdb.gz
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885
 _md5_=e3b9d47a7da55bd3237878001e0e7636
