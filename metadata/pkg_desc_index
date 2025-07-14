@@ -7,6 +7,7 @@ acct-group/mihomo 0-r1: System group: mihomo
 acct-group/n2n 0: System group: n2n
 acct-group/ntpd-rs 0: System group: ntpd-rs
 acct-group/ntpd-rs-observe 0: System group: ntpd-rs-observe
+acct-group/onepassword 0: System group: onepassword
 acct-group/sing-box 0: System group: sing-box
 acct-group/vintagestory 0: User group for Vintage Story Server
 acct-user/alist 0: System user: alist
@@ -19,6 +20,7 @@ acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/sing-box 0: System user: sing-box
 acct-user/vintagestory 0: User for Vintage Story Server
+app-admin/1password 8.11.0: Password manager and secure wallet
 app-admin/chezmoi 2.63.0: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/chezmoi-bin 2.63.0: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
