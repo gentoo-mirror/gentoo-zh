@@ -1,0 +1,11 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DESCRIPTION=AI coding agent, built for the terminal
+EAPI=8
+HOMEPAGE=https://github.com/sst/opencode
+KEYWORDS=-* ~amd64 ~arm64
+LICENSE=MIT
+RESTRICT=strip
+SLOT=0
+SRC_URI=amd64? ( https://github.com/sst/opencode/releases/download/v0.3.8/opencode-linux-x64.zip -> opencode-bin-0.3.8-amd64.zip ) arm64? ( https://github.com/sst/opencode/releases/download/v0.3.8/opencode-linux-arm64.zip -> opencode-bin-0.3.8-arm64.zip )
+_md5_=f101d087adf90abdca405c37ac9fb880
