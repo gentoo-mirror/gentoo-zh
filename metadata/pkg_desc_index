@@ -262,7 +262,6 @@ net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (
 net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400: Wemeet - Tencent Video Conferencing
 net-libs/bun-bin 1.2.18: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 net-libs/jzmq 9999: jzmq
-net-libs/nodejs-bin 24.2.0: A JavaScript runtime built on Chrome's V8 JavaScript engine
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
