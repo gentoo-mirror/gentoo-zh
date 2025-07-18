@@ -5,11 +5,11 @@ DESCRIPTION=Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 EAPI=7
 HOMEPAGE=http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX http://www.openprinting.org/driver/epson-201207w
 INHERIT=rpm autotools
-KEYWORDS=amd64 x86
+KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2.1 EPSON
 RDEPEND=net-print/cups
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://web.archive.org/web/20150803102803if_/http://download.ebz.epson.net/dsc/op/stable/SRPMS/epson-inkjet-printer-201207w-1.0.0-1lsb3.2.src.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	a07e59be6cf48ed85e624a41e8a7a832	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6
-_md5_=7bed8971320503de727d39d3b077002f
+_md5_=905eb47b1b3752443c3a01970c882400
