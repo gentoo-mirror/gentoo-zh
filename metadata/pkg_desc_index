@@ -186,6 +186,8 @@ games-action/vintagestory 1.19.8 1.20.12 1.21.0_pre2: Uncompromising wilderness 
 games-arcade/osu-lazer-bin 2025.607.0-r2 2025.710.0: A free-to-win rhythm game. Rhythm is just a click away!
 games-arcade/osu-lazer-tachyon-bin 2025.715.0: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
 games-emulation/conty 1.27.1 1.28: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
+games-fps/openarena 0.8.8 9999: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
+games-fps/openarena-bin 0.8.8: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
 games-fps/source-engine 9999: A 3D game engine developed by Valve
 games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
 games-roguelike/tsl 0.40-r2: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
@@ -300,7 +302,7 @@ net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy s
 net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/hysteria 2.6.2: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.187.1: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.188.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.11: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.7.6: Mihomo Party
 net-proxy/naiveproxy-bin 138.0.7204.35_p1: A proxy using Chromium's network stack to camouflage traffic

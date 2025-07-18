@@ -1,0 +1,14 @@
+BDEPEND=app-arch/unzip >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DEPEND=media-libs/libvorbis net-misc/curl media-libs/openal media-libs/libxmp media-libs/libsdl
+DESCRIPTION=A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
+EAPI=8
+HOMEPAGE=http://openarena.ws https://en.wikipedia.org/wiki/OpenArena
+INHERIT=desktop unpacker git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=!games-fps/openarena-bin
+SLOT=0
+SRC_URI=https://psychz.dl.sourceforge.net/project/oarena/openarena-0.8.8.zip?viasf=1 -> openarena-0.8.8.zip https://upload.wikimedia.org/wikipedia/commons/2/2c/Openarena.png https://upload.wikimedia.org/wikipedia/commons/7/7b/Openarena-server.png
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=e48842684cbafb1150939f915d499bee
