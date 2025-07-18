@@ -519,12 +519,6 @@ use_latest_release = true
 prefix = "v"
 github_account = "microcai"
 
-["dev-libs/tdlib"]
-source = "github"
-github = "tdlib/td"
-use_latest_tag = true
-prefix = "v"
-
 # high update frequency
 #["dev-libs/v2ray-domain-list-community"]
 
@@ -1110,9 +1104,6 @@ github_account = "peeweep"
 
 # high update frequency
 #["net-dns/dnsmasq-china-list"]
-
-# dead upstream
-#["net-dns/libidn11"]
 
 ["net-dns/mosdns"]
 source = "github"

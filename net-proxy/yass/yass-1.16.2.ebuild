@@ -1,4 +1,4 @@
-# Copyright 2024 Gentoo Authors
+# Copyright 2024-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -16,7 +16,7 @@ LICENSE="GPL-2"
 SLOT="0"
 #KEYWORDS="amd64 ~arm ~arm64 ~loong ~mips ~riscv ~x86"
 #FIXME pkgcheck cries on NonsolvableDepsInDev on mips, no idea why
-KEYWORDS="amd64 ~arm ~arm64 ~loong ~riscv ~x86"
+KEYWORDS="~amd64 ~arm ~arm64 ~loong ~riscv ~x86"
 
 IUSE="+cli server test cet gui gtk3 gtk4 qt5 qt6 wayland +tcmalloc mimalloc"
 
