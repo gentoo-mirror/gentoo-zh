@@ -259,7 +259,7 @@ net-im/tencent-qq 3.2.18_p250626 3.2.18_p250710: The new version of the official
 net-im/wechat 4.0.1.11-r2: Weixin for Linux
 net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (Universal) with bwrap sandbox
 net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400: Wemeet - Tencent Video Conferencing
-net-libs/bun-bin 1.2.18: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
+net-libs/bun-bin 1.2.19: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
