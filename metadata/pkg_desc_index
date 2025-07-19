@@ -87,7 +87,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode 0.0.53: AI coding agent, built for the terminal
-app-misc/opencode-bin 0.3.13: AI coding agent, built for the terminal
+app-misc/opencode-bin 0.3.22: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.04.03523: Brainstorming and Mind Mapping Software
@@ -330,7 +330,7 @@ sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
 sci-electronics/circuitjs1-bin 2.9.1: Electronic Circuit Simulator in the Browser
 sci-electronics/jlc-assistant-bin 5.0.69: JLC Order Assistant (binary package)
 sci-electronics/lceda 6.5.37 6.5.46: LCEDA (binary package)
-sci-electronics/lceda-pro 2.2.40.3: LCEDA Pro (binary package)
+sci-electronics/lceda-pro 2.2.40.8: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
 sys-apps/aptly 1.5.0 9999: A swiss army knife for Debian repository management
