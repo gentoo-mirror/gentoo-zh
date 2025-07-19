@@ -298,6 +298,7 @@ net-proxy/clash-rs 0.7.8: Custom protocol, rule based network proxy
 net-proxy/clash-verge-bin 2.3.1 2.3.2: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
+net-proxy/flclash-bin 0.8.86: A multi-platform proxy client based on ClashMeta
 net-proxy/hysteria 2.6.2: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.188.1: The Official Mihomo Dashboard
