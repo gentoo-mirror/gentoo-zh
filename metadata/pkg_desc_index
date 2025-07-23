@@ -86,7 +86,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode 0.0.53: AI coding agent, built for the terminal
-app-misc/opencode-bin 0.3.43: AI coding agent, built for the terminal
+app-misc/opencode-bin 0.3.57: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
@@ -290,7 +290,7 @@ net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.1.0.11: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
-net-proxy/Xray 25.5.16 25.6.8: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 25.6.8 25.7.23: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/bore 0.6.0: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-rs 0.8.1: Custom protocol, rule based network proxy
@@ -313,7 +313,7 @@ net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.5: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.9.7 1.10.7 1.11.15 1.12.0_rc2: The universal proxy platform.
+net-proxy/sing-box 1.9.7 1.10.7 1.11.15-r1 1.12.0_rc2: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.06.22: A fork of trojan-go
 net-proxy/v2ray 5.37.0: A platform for building proxies to bypass network restrictions.
