@@ -80,7 +80,7 @@ app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings a
 app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
-app-misc/go-yq-bin 4.46.1: yq is a portable command-line YAML, JSON and XML processor
+app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
 app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ toolkit
 app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
@@ -89,7 +89,7 @@ app-misc/opencode 0.0.53: AI coding agent, built for the terminal
 app-misc/opencode-bin 0.3.43: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
-app-misc/xmind 25.04.03523: Brainstorming and Mind Mapping Software
+app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.5.31: Blazing fast terminal file manager written in Rust, based on async I/O.
 app-office/anytype-bin 0.35.4 0.46.8: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.42.17: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
@@ -121,7 +121,7 @@ dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your sourc
 dev-go/staticcheck 2025.1.1: Go static analysis, detecting bugs, performance issues, and much more
 dev-java/google-java-format 1.27.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
-dev-lang/koka-bin 3.2.0: A Functional Language with Effect Types and Handlers
+dev-lang/koka-bin 3.2.2: A Functional Language with Effect Types and Handlers
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
 dev-libs/libdatrie 0.2.13: Double-Array Trie Library
@@ -158,7 +158,7 @@ dev-python/pypinyin 0.54.0: Tool for converting Chinese characters to pinyin
 dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.8.0: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.8.2: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/android-studio 2024.3.2.15: Android development environment based on IntelliJ IDEA
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
