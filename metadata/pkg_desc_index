@@ -21,8 +21,8 @@ acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/sing-box 0: System user: sing-box
 acct-user/vintagestory 0: User for Vintage Story Server
 app-admin/1password 8.11.0: Password manager and secure wallet
-app-admin/chezmoi 2.63.0: Manage your dotfiles across multiple diverse machines, securely.
-app-admin/chezmoi-bin 2.63.0: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi-bin 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
 app-alternatives/v2ray-geoip 0-r2: symlink for v2ray-geoip
@@ -313,7 +313,7 @@ net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.5: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.9.7 1.10.7 1.11.15 1.12.0_rc1: The universal proxy platform.
+net-proxy/sing-box 1.9.7 1.10.7 1.11.15 1.12.0_rc2: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.06.22: A fork of trojan-go
 net-proxy/v2ray 5.37.0: A platform for building proxies to bypass network restrictions.

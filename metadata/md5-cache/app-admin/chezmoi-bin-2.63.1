@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Manage your dotfiles across multiple diverse machines, securely.
+EAPI=8
+HOMEPAGE=https://www.chezmoi.io https://github.com/twpayne/chezmoi
+INHERIT=unpacker
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=dev-vcs/git !app-admin/chezmoi
+SLOT=0
+SRC_URI=amd64? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_amd64.deb ) x86? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_i386.deb ) arm64? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_arm64.deb ) arm? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_armel.deb )
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_md5_=14d909cc06797d7324b0acbf2fc32c53
