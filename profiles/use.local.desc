@@ -250,7 +250,6 @@ net-proxy/clash-rs:ssh - Enable SSH Protocol
 net-proxy/clash-rs:standard - Enable Standard Features, shadowsocks + tuic + ssh
 net-proxy/clash-rs:tuic - Enable Tuic Protocol
 net-proxy/daed:webui - Build and install daed instead of dae-wing
-net-proxy/hysteria:goamd64 - detect golang arch level on amd64 cpus by CPU_FLAGS_X86
 net-proxy/juicity:client - install juicity-client
 net-proxy/juicity:server - install juicity-server
 net-proxy/mihomo:gvisor - Enable gvisor stack support
