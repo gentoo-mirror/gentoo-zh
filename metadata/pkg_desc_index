@@ -38,7 +38,7 @@ app-dicts/fcitx-pinyin-moegirl 20250610: Fcitx 5 Pinyin Dictionary from zh.moegi
 app-dicts/fcitx-pinyin-sougou-baidu 20250620: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250526: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
-app-editors/cursor 0.49.6 0.50.7 0.51.2 1.2.4: Cursor App - AI-first coding environment
+app-editors/cursor 0.49.6 0.50.7 0.51.2 1.3.1: Cursor App - AI-first coding environment
 app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1-r1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/mu-editor 1.2.2_alpha1_p1: A simple Python editor for beginner programmers
@@ -86,7 +86,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode 0.0.53: AI coding agent, built for the terminal
-app-misc/opencode-bin 0.3.57: AI coding agent, built for the terminal
+app-misc/opencode-bin 0.3.65: AI coding agent, built for the terminal
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
