@@ -290,7 +290,7 @@ net-p2p/n2n 3.0 3.1.1 9999: A Layer Two Peer-to-Peer VPN
 net-p2p/qbittorrent-enhanced 4.6.7.10 5.1.0.11: qBittorrent Enhanced, based on qBittorrent
 net-print/epson-inkjet-printer_201207w 1.0.0: Epson printer driver (L110, L210, L300, L350, L355, L550, L555)
 net-print/kyodialog 9.4-r2: Kyocera printer driver for linux
-net-proxy/Xray 25.7.25: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+net-proxy/Xray 25.7.26: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
 net-proxy/bore 0.6.0: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-rs 0.8.1: Custom protocol, rule based network proxy
@@ -362,10 +362,10 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.5.3: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.43.0-r1: A distinctive utility file server
-www-apps/follow-bin 0.6.2: Next generation information browser
+www-apps/follow-bin 0.6.3: Next generation information browser
 www-client/brave-bin 1.80.124: Web browser that blocks ads and trackers by default
 www-client/thorium 130.0.6723.174: Chromium fork focused on high performance and security
-www-servers/darkhttpd 1.16: A small, static webserver
+www-servers/darkhttpd 1.17: A small, static webserver
 www-servers/miniserve 0.31.0-r1: For when you really just want to serve some files over HTTP right now!
 www-servers/s-ui-bin 1.2.2: An advanced Web Panel • Built for SagerNet/Sing-Box
 www-servers/woof 9999: an ad-hoc single file webserver
