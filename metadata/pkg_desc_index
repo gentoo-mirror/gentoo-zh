@@ -20,7 +20,7 @@ acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/sing-box 0: System user: sing-box
 acct-user/vintagestory 0: User for Vintage Story Server
-app-admin/1password 8.11.0: Password manager and secure wallet
+app-admin/1password 8.11.2: Password manager and secure wallet
 app-admin/chezmoi 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/chezmoi-bin 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
