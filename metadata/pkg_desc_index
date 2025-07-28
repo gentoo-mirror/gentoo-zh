@@ -168,7 +168,7 @@ dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries 
 dev-util/gemini-cli 0.1.13: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.2.41321: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
-dev-util/osc 1.18.0: The Command Line Interface to work with an Open Build Service
+dev-util/osc 1.19.0: The Command Line Interface to work with an Open Build Service
 dev-util/pack-cli 0.37.0: CLI for building apps using Cloud Native Buildpacks
 dev-util/pack-cli-bin 0.37.0: CLI for building apps using Cloud Native Buildpacks
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
@@ -321,7 +321,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.37.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.6.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.99.0: The Official Mihomo Dashboard
+net-proxy/zashboard 1.100.0: The Official Mihomo Dashboard
 net-vpn/cloudflared 2025.7.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/cloudflared-bin 2025.7.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
