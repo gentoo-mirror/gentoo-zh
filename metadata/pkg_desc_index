@@ -24,6 +24,7 @@ app-admin/1password 8.11.2: Password manager and secure wallet
 app-admin/chezmoi 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/chezmoi-bin 2.63.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833: A cross-platform, complete password management solution.
+app-admin/proton-authenticator-bin 1.0.0: Official open-source two-factor authentication app by Proton
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
 app-alternatives/v2ray-geoip 0-r2: symlink for v2ray-geoip
 app-alternatives/v2ray-geosite 0-r2: symlink for v2ray-geosite
