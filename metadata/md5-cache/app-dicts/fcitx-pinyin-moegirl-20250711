@@ -1,5 +1,5 @@
 BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 ) fcitx? ( app-i18n/libime:5 ) || ( ( dev-lang/python:3.13 dev-python/mw2fcitx[python_single_target_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/mw2fcitx[python_single_target_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/mw2fcitx[python_single_target_python3_11(-)] ) )
-DEFINED_PHASES=compile install prepare setup
+DEFINED_PHASES=compile install setup
 DESCRIPTION=Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 EAPI=8
 HOMEPAGE=https://github.com/outloudvi/mw2fcitx
@@ -10,6 +10,6 @@ LICENSE=Unlicense CC-BY-NC-SA-3.0
 RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fcitx-rime ) )
 REQUIRED_USE=|| ( fcitx rime )
 SLOT=5
-SRC_URI=https://github.com/outloudvi/mw2fcitx/archive/refs/tags/20250610.tar.gz -> fcitx-pinyin-moegirl-20250610.tar.gz
+SRC_URI=https://github.com/outloudvi/mw2fcitx/archive/refs/tags/20250711.tar.gz -> fcitx-pinyin-moegirl-20250711.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	python-utils-r1	8a006695bc0db22490452dd06914dda5	python-any-r1	891415dfe39ad9b41b461f2b86354af0
-_md5_=cb2dcd957baacc737dd4d216a46ff61c
+_md5_=e50da33b8745039efe4aaa64ccd843f2
