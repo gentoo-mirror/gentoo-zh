@@ -148,6 +148,7 @@ dev-python/frozendict 2.4.6: A simple immutable dictionary for Python
 dev-python/fuo-netease 1.0.3: netease cloud music support for feeluown
 dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
+dev-python/iptcinfo3 2.0.3_p20230801: To read/write image metadata
 dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/menuinst 2.2.0: Cross platform menu item installation
 dev-python/mw2fcitx 0.24.0: Build fcitx5 libraries from MediaWiki sites
