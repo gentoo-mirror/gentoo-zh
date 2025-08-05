@@ -60,7 +60,7 @@ app-emulation/winetricks-zh 9999 20240105.1: windows applications setup wizard f
 app-i18n/cskk 3.2.0: SKK (Simple Kana Kanji henkan) library
 app-i18n/dvp 1.2.1-r1: The kbd keymap for Programmer Dvorak.
 app-i18n/fcitx 9999: Fcitx5 Next generation of fcitx
-app-i18n/fcitx-bamboo 1.0.7: Typing Vietnamese by Bamboo core engine for Fcitx5
+app-i18n/fcitx-bamboo 1.0.7 1.0.8: Typing Vietnamese by Bamboo core engine for Fcitx5
 app-i18n/fcitx-chinese-addons 9999: Addons related to Chinese, including IME previous bundled inside fcitx4.
 app-i18n/fcitx-configtool 9999: Configuration module for Fcitx
 app-i18n/fcitx-cskk 1.2.0: SKK input method plugin for fcitx5 that uses LibCSKK
@@ -72,10 +72,10 @@ app-i18n/fcitx-meta 5.0.12-r3: Merge this to pull in Fcitx packages
 app-i18n/fcitx-qt 9999: Qt library and IM module for fcitx5
 app-i18n/fcitx-rime 9999: Rime Support for Fcitx5
 app-i18n/fcitx-skin-material 0.5: A Material Design-like skin for Fcitx
-app-i18n/fcitx-skk 5.1.6 9999: Japanese SKK input engine for Fcitx5
+app-i18n/fcitx-skk 5.1.6 5.1.7 9999: Japanese SKK input engine for Fcitx5
 app-i18n/ibus-rime 9999: Rime Input Method Engine for IBus Framework
 app-i18n/libime 9999: Fcitx5 Next generation of fcitx
-app-i18n/libime-jyutping 1.0.13: A library make use of libime to implement jyutping input method
+app-i18n/libime-jyutping 1.0.13 1.0.14: A library make use of libime to implement jyutping input method
 app-i18n/lunar 2.2-r5: Chinese Lunar Calendar conversion utility
 app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
 app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
