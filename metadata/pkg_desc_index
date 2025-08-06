@@ -273,7 +273,7 @@ net-misc/apifox 2.7.27: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
 net-misc/baidupcs-go 3.9.7: The terminal utility for Baidu Network Disk (Golang Version).
 net-misc/bbdown-bin 1.6.3: 一款命令行式哔哩哔哩下载器
-net-misc/biliup-app-bin 0.5.3: A Tool for Upload video to bilibili
+net-misc/biliup-app-bin 0.6.7: A Tool for Upload video to bilibili
 net-misc/biliup-rs 0.2.4: Upload video to bilibili
 net-misc/bruno-bin 1.35.0: Opensource IDE For Exploring and Testing Api's
 net-misc/geo 1.1: An easy way to manage all your Geo resources
@@ -305,7 +305,7 @@ net-proxy/hysteria 2.6.2-r1: A powerful, lightning fast and censorship resistant
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
 net-proxy/metacubexd 1.189.0: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.12: Another Clash Kernel, formerly Clash.Meta
-net-proxy/mihomo-party-bin 1.8.1: Mihomo Party
+net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
 net-proxy/naiveproxy-bin 138.0.7204.35_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 9.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/qv2ray 2.7.0_p20240625-r1: Qt GUI fontend of v2ray
