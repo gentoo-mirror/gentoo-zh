@@ -7,6 +7,6 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-vcs/git !app-admin/chezmoi
 SLOT=0
-SRC_URI=amd64? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_amd64.deb ) x86? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_i386.deb ) arm64? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_arm64.deb ) arm? ( https://github.com/twpayne/chezmoi/releases/download/v2.63.1/chezmoi_2.63.1_linux_armel.deb )
+SRC_URI=amd64? ( https://github.com/twpayne/chezmoi/releases/download/v2.64.0/chezmoi_2.64.0_linux_amd64.deb ) x86? ( https://github.com/twpayne/chezmoi/releases/download/v2.64.0/chezmoi_2.64.0_linux_i386.deb ) arm64? ( https://github.com/twpayne/chezmoi/releases/download/v2.64.0/chezmoi_2.64.0_linux_arm64.deb ) arm? ( https://github.com/twpayne/chezmoi/releases/download/v2.64.0/chezmoi_2.64.0_linux_armel.deb )
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	bash-completion-r1	767861f3744f589ee5291c1698b1c082	shell-completion	0b655d0d825e157a5e99c463bddaac16
 _md5_=2fd7c0f94eb1903cbebdc70bb62d9284
