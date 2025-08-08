@@ -1,4 +1,4 @@
-BDEPEND=clang? ( llvm_slot_19? ( llvm-core/clang:19 llvm-core/llvm:19 llvm-core/lld:19 ) ) llvm_slot_19? ( || ( dev-lang/rust-bin:1.86.0[llvm_slot_19] dev-lang/rust:1.86.0[llvm_slot_19] dev-lang/rust-bin:1.85.1[llvm_slot_19] dev-lang/rust:1.85.1[llvm_slot_19] dev-lang/rust-bin:1.85.0[llvm_slot_19] dev-lang/rust:1.85.0[llvm_slot_19] ) )
+BDEPEND=clang? ( llvm_slot_19? ( llvm-core/clang:19 llvm-core/llvm:19 llvm-core/lld:19 ) llvm_slot_20? ( llvm-core/clang:20 llvm-core/llvm:20 llvm-core/lld:20 ) ) llvm_slot_19? ( || ( dev-lang/rust-bin:1.86.0[llvm_slot_19] dev-lang/rust:1.86.0[llvm_slot_19] dev-lang/rust-bin:1.85.1[llvm_slot_19] dev-lang/rust:1.85.1[llvm_slot_19] dev-lang/rust-bin:1.85.0[llvm_slot_19] dev-lang/rust:1.85.0[llvm_slot_19] ) ) llvm_slot_20? ( || ( dev-lang/rust-bin:9999[llvm_slot_20] dev-lang/rust:9999[llvm_slot_20] dev-lang/rust-bin:1.89.0[llvm_slot_20] dev-lang/rust:1.89.0[llvm_slot_20] dev-lang/rust-bin:1.88.0[llvm_slot_20] dev-lang/rust:1.88.0[llvm_slot_20] dev-lang/rust-bin:1.87.0[llvm_slot_20] dev-lang/rust:1.87.0[llvm_slot_20] ) )
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup test unpack
 DEPEND=>=gui-libs/gtk-4.18 >=gui-libs/libadwaita-1.7 media-libs/gstreamer media-video/mpv
 DESCRIPTION=A simple Emby Client written by GTK4-RS
@@ -6,12 +6,12 @@ EAPI=8
 HOMEPAGE=https://github.com/tsukinaha/tsukimi
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=cargo desktop gnome2-utils llvm-r1 toolchain-funcs xdg
-IUSE=clang +llvm_slot_19 debug
+IUSE=clang +llvm_slot_20 llvm_slot_19 debug
 KEYWORDS=~amd64
 LICENSE=GPL-3 Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD ISC LGPL-2.1 MIT MPL-2.0 UoI-NCSA Unicode-3.0 ZLIB
 RDEPEND=>=gui-libs/gtk-4.18 >=gui-libs/libadwaita-1.7 media-libs/gstreamer media-video/mpv
-REQUIRED_USE=^^ ( llvm_slot_19 )
+REQUIRED_USE=^^ ( llvm_slot_19 llvm_slot_20 )
 SLOT=0
 SRC_URI=https://github.com/tsukinaha/tsukimi/archive/refs/tags/v0.21.0.tar.gz -> tsukimi-0.21.0.tar.gz https://github.com/gentoo-zh-drafts/tsukimi/releases/download/v0.21.0/tsukimi-0.21.0-crates.tar.xz
 _eclasses_=llvm-utils	64536677f4b4365e25e9b739163bed58	llvm-r1	5a1fde9f55315992645818a877837527	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	2c958ff95a0fd21c1cb19e961cb2946d	rust-toolchain	76468983281b0a7fc167ca224f84ecfd	cargo	5da01b45ec362e78575502b4fb82773a	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=2df99120efe87ec4c331c56437682adb
+_md5_=8b63f874b6631c09de002829957e3ee5
