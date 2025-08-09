@@ -90,6 +90,7 @@ app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
 app-misc/opencode-bin 0.3.77: AI coding agent, built for the terminal
+app-misc/qwen-code 0.0.5: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
