@@ -83,7 +83,7 @@ app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and 
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
 app-misc/claude-code 1.0.71 1.0.72: Claude Code - an agentic coding tool by Anthropic
 app-misc/crush 0.3.0 0.4.0: The glamourous AI coding agent for your favourite terminal 💘
-app-misc/cursor-agent 2025.08.08: Cursor CLI - interact with AI agents directly from your terminal
+app-misc/cursor-agent 2025.08.09: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
 app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ toolkit
 app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
