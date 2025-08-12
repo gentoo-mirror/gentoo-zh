@@ -243,7 +243,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.16.5_p5: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.17.0_p2: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
@@ -270,7 +270,7 @@ net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
 net-misc/aliyundrive-webdav 2.3.3: WebDAV server for AliyunDrive
 net-misc/aliyunpan 0.3.7: aliyunpan cli client, support Webdav service, JavaScript plugin
-net-misc/ananta 1.3.4: a powerful command-line tool
+net-misc/ananta 1.3.6: a powerful command-line tool
 net-misc/another-redis-desktop-manager-bin 1.7.1: A faster, better and more stable Redis desktop manager [GUI client]
 net-misc/apifox 2.7.29: API 文档、API 调试、API Mock、API 自动化测试
 net-misc/baidunetdisk 4.3.0 4.17.7: Baidu Net Disk is a cloud storage client (Linux Version)
@@ -306,7 +306,7 @@ net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/flclash-bin 0.8.87: A multi-platform proxy client based on ClashMeta
 net-proxy/hysteria 2.6.2-r1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.189.0: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.189.1: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.12: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
 net-proxy/naiveproxy-bin 139.0.7258.62_p1: A proxy using Chromium's network stack to camouflage traffic
@@ -327,7 +327,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.37.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.6.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.101.0: The Official Mihomo Dashboard
+net-proxy/zashboard 1.101.1: The Official Mihomo Dashboard
 net-vpn/cloudflared 2025.8.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/cloudflared-bin 2025.8.0: Cloudflare Tunnel client (formerly Argo Tunnel)
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
