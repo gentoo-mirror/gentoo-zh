@@ -72,7 +72,7 @@ app-i18n/fcitx-meta 5.0.12-r3: Merge this to pull in Fcitx packages
 app-i18n/fcitx-qt 9999: Qt library and IM module for fcitx5
 app-i18n/fcitx-rime 9999: Rime Support for Fcitx5
 app-i18n/fcitx-skin-material 0.5: A Material Design-like skin for Fcitx
-app-i18n/fcitx-skk 5.1.6 5.1.7 9999: Japanese SKK input engine for Fcitx5
+app-i18n/fcitx-skk 5.1.6 5.1.7-r1 9999: Japanese SKK input engine for Fcitx5
 app-i18n/ibus-rime 9999: Rime Input Method Engine for IBus Framework
 app-i18n/libime 9999: Fcitx5 Next generation of fcitx
 app-i18n/libime-jyutping 1.0.13 1.0.14: A library make use of libime to implement jyutping input method
@@ -242,7 +242,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.17.0_p2: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.17.1_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
@@ -305,7 +305,7 @@ net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/flclash-bin 0.8.87: A multi-platform proxy client based on ClashMeta
 net-proxy/hysteria 2.6.2-r1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
-net-proxy/metacubexd 1.189.1: The Official Mihomo Dashboard
+net-proxy/metacubexd 1.190.0: The Official Mihomo Dashboard
 net-proxy/mihomo 1.19.12: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
 net-proxy/naiveproxy-bin 139.0.7258.62_p1: A proxy using Chromium's network stack to camouflage traffic

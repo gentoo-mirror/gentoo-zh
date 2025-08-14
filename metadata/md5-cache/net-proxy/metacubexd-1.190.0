@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/MetaCubeX/metacubexd
 KEYWORDS=~amd64
 LICENSE=MIT
 SLOT=0
-SRC_URI=https://github.com/MetaCubeX/metacubexd/archive/refs/tags/v1.189.1.tar.gz -> metacubexd-1.189.1.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/metacubexd-1.189.1/metacubexd-1.189.1-node_modules.tar.xz
+SRC_URI=https://github.com/MetaCubeX/metacubexd/archive/refs/tags/v1.190.0.tar.gz -> metacubexd-1.190.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/metacubexd-1.190.0/metacubexd-1.190.0-node_modules.tar.xz
 _md5_=f1cb6b1f7e15431e4ed35872f48b2cc7
