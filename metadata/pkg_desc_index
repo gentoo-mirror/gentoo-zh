@@ -81,7 +81,7 @@ app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings a
 app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
-app-misc/claude-code 1.0.80: Claude Code - an agentic coding tool by Anthropic
+app-misc/claude-code 1.0.81: Claude Code - an agentic coding tool by Anthropic
 app-misc/crush 0.6.0: The glamourous AI coding agent for your favourite terminal 💘
 app-misc/cursor-agent 2025.08.09: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
@@ -202,6 +202,7 @@ kde-misc/plasma-applet-netspeed-widget 2.0 3.1 9999: Plasma 5 widget that displa
 mate-base/caja-bin 1.28.0: GUI file manager, fork of GNOME Files (Nautilus); supports SSH, FTP, WebDav
 media-fonts/Plangothic 2.9.5771: 遍黑体项目（Plangothic Project）
 media-fonts/iansui 1.011: An open-source Chinese font derived from Klee One (Fontworks).
+media-fonts/ipamj 006.01: IPAmj 明朝 (IPAmj Mincho) font
 media-fonts/jf-openhuninn 2.1: An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
 media-fonts/lxgw-neo-xihei 1.216.1: A Chinese sans-serif font derived from IPAex Gothic.
 media-fonts/lxgw-neo-zhisong 1.030.1: An open-source Chinese font derived from IPAmj Mincho

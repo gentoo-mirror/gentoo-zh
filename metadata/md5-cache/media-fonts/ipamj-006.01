@@ -1,0 +1,14 @@
+BDEPEND=app-arch/unzip X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup
+DESCRIPTION=IPAmj 明朝 (IPAmj Mincho) font
+EAPI=8
+HOMEPAGE=https://moji.or.jp/mojikiban/font/
+INHERIT=font
+IUSE=X
+KEYWORDS=~amd64
+LICENSE=IPAfont
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://dforest.watch.impress.co.jp/library/i/ipamjfont/10750/ipamjm00601.zip -> ipamj-006.01.zip
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=7ce064d002e49a308e8295dcda9b16fe
