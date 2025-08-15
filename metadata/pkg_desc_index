@@ -164,7 +164,7 @@ dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/pywikibot 10.3.0: To interact with MediaWiki API (for example Wikipedia, Wikimedia Commons)
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
-dev-python/uv-bin 0.8.10: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.8.11: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
