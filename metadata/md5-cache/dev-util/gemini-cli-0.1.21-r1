@@ -1,11 +1,10 @@
-DEFINED_PHASES=compile install unpack
+DEFINED_PHASES=install
 DESCRIPTION=Gemini CLI - a command-line AI workflow tool by Google
 EAPI=8
 HOMEPAGE=https://github.com/google-gemini/gemini-cli
-KEYWORDS=~amd64
+KEYWORDS=-* ~amd64 ~arm64
 LICENSE=Apache-2.0
-RDEPEND=>=net-libs/nodejs-20
-RESTRICT=strip
+RDEPEND=net-libs/nodejs
 SLOT=0
 SRC_URI=https://github.com/google-gemini/gemini-cli/releases/download/v0.1.21/gemini.js -> gemini-cli-0.1.21.js
-_md5_=62ac4d21e9fc8564b6816a2413dc189e
+_md5_=5497676a83a8317abbfb2442ff308457

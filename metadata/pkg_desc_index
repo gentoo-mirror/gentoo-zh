@@ -81,7 +81,7 @@ app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings a
 app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
-app-misc/claude-code 1.0.83: Claude Code - an agentic coding tool by Anthropic
+app-misc/claude-code 1.0.83-r1: Claude Code - an agentic coding tool by Anthropic
 app-misc/crush 0.6.2: The glamourous AI coding agent for your favourite terminal 💘
 app-misc/cursor-agent 2025.08.15: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
@@ -89,7 +89,7 @@ app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ too
 app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
-app-misc/qwen-code 0.0.7: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI
+app-misc/qwen-code 0.0.7-r1: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
@@ -170,7 +170,7 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
-dev-util/gemini-cli 0.1.21: Gemini CLI - a command-line AI workflow tool by Google
+dev-util/gemini-cli 0.1.21-r1: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.2.41321: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
 dev-util/osc 1.19.1: The Command Line Interface to work with an Open Build Service
