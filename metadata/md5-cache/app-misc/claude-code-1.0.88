@@ -7,5 +7,5 @@ LICENSE=all-rights-reserved
 RDEPEND=!dev-util/claude-code net-libs/nodejs sys-apps/ripgrep
 RESTRICT=bindist mirror strip
 SLOT=0
-SRC_URI=https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-1.0.87.tgz
+SRC_URI=https://registry.npmjs.org/@anthropic-ai/claude-code/-/claude-code-1.0.88.tgz
 _md5_=ad43901e1e33a33f2ce25a2a7f0d9f54
