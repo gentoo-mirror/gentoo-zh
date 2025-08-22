@@ -83,13 +83,13 @@ app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and 
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
 app-misc/claude-code 1.0.88: Claude Code - an agentic coding tool by Anthropic
 app-misc/crush 0.7.1: The glamourous AI coding agent for your favourite terminal 💘
-app-misc/cursor-agent 2025.08.21: Cursor CLI - interact with AI agents directly from your terminal
+app-misc/cursor-agent 2025.08.22: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
 app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ toolkit
 app-misc/joshuto 0.9.9: Terminal file manager inspired by ranger
 app-misc/jshon 9999: Jshon is a JSON parser designed for maximum convenience within the shell
 app-misc/keyd 2.5.0: A key remapping daemon for linux
-app-misc/qwen-code 0.0.7-r1: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI
+app-misc/qwen-code 0.0.8: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI
 app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
