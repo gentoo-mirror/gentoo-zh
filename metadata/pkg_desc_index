@@ -81,7 +81,7 @@ app-i18n/zh-autoconvert 0.3.16_p10: Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings a
 app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
-app-misc/claude-code 1.0.88: Claude Code - an agentic coding tool by Anthropic
+app-misc/claude-code 1.0.89: Claude Code - an agentic coding tool by Anthropic
 app-misc/crush 0.7.1: The glamourous AI coding agent for your favourite terminal 💘
 app-misc/cursor-agent 2025.08.22: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.47.1: yq is a portable command-line YAML, JSON and XML processor
