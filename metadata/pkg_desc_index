@@ -38,11 +38,12 @@ app-dicts/fcitx-pinyin-custom-pinyin-dictionary 20250101: Fcitx5 自建拼音输
 app-dicts/fcitx-pinyin-moegirl 20250711 20250810: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
 app-dicts/fcitx-pinyin-sougou-baidu 20250720: Sougou & Baidu Pinyin dictionary for Fcitx5 and RIME
 app-dicts/fcitx-pinyin-zhwiki 0.2.5.20250731: Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-app-editors/appflowy-bin 0.9.3: AppFlowy is an open-source alternative to Notion
+app-editors/appflowy-bin 0.9.7: AppFlowy is an open-source alternative to Notion
 app-editors/cursor 0.49.6 0.50.7 0.51.2 1.3.2 1.3.8 1.3.9 1.4.6: Cursor App - AI-first coding environment
 app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1-r1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/mu-editor 1.2.2_alpha1_p1: A simple Python editor for beginner programmers
+app-editors/neovim-bin 0.11.3: Vim-fork focused on extensibility and agility
 app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
 app-editors/void-editor 1.2.1.25105 1.99.30034 1.99.30044: Void Editor - AI Code Editor
 app-editors/windsurf 1.9.2: AI-powered code editor maintaining flow state with instant assistance.
@@ -94,7 +95,7 @@ app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.5.31: Blazing fast terminal file manager written in Rust, based on async I/O.
-app-office/anytype-bin 0.35.4 0.46.8: A notebook based on p2p network
+app-office/anytype-bin 0.35.4 0.49.1: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.46.11: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220 1224: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900 12.1.2.22570: WPS Office is an office productivity suite, Here is the Chinese version
@@ -108,7 +109,7 @@ app-text/goldendict 25.02.0 25.05.0: Feature-rich dictionary lookup program (qtw
 app-text/groff-utf8 0-r1: GNU groff wrapper allowing UTF-8 input
 app-text/imewlconverter 3.2.0 9999: An open source and free input method dictionary conversion program
 app-text/lemminx-bin 0.31.0: A XML Language Server
-app-text/readest-bin 0.9.72: A modern, feature-rich ebook reader
+app-text/readest-bin 0.9.75: A modern, feature-rich ebook reader
 app-vim/easymotion 1.3 3.0.1: vim plugin: Vim motions on speed!
 app-vim/powerline 9999: vim plugin: The ultimate vim statusline utility.
 dev-cpp/cppcoro 0.0_p210105: A library of C++ coroutine abstractions for the coroutines TS
