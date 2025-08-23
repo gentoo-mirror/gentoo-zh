@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst postrm preinst
+DEFINED_PHASES=install postinst postrm preinst prepare
 DESCRIPTION=Vim-fork focused on extensibility and agility
 EAPI=8
 HOMEPAGE=https://neovim.io
@@ -10,6 +10,6 @@ LICENSE=Apache-2.0 vim
 RDEPEND=!app-editors/neovim app-eselect/eselect-vi
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/neovim/neovim/releases/download/v0.11.3/nvim-linux-x86_64.tar.gz -> neovim-bin-0.11.3.tar.gz
+SRC_URI=amd64? ( https://github.com/neovim/neovim/releases/download/v0.11.3/nvim-linux-x86_64.tar.gz -> neovim-bin-0.11.3-amd64.tar.gz ) arm64? ( https://github.com/neovim/neovim/releases/download/v0.11.3/nvim-linux-arm64.tar.gz -> neovim-bin-0.11.3-arm64.tar.gz )
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	optfeature	538bce96e5589935b57e178e8635f301	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=c758d0c19cc47dea718654a1b699f8d8
+_md5_=4cbc5981343b269a8af4bc46096d22d7
