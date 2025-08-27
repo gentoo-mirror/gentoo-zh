@@ -20,7 +20,7 @@ acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/sing-box 0: System user: sing-box
 acct-user/vintagestory 0: User for Vintage Story Server
-app-admin/1password 8.11.6: Password manager and secure wallet
+app-admin/1password 8.11.8: Password manager and secure wallet
 app-admin/chezmoi 2.64.0: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/chezmoi-bin 2.64.0: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833 6.11.12.1953: A cross-platform, complete password management solution.
@@ -307,7 +307,7 @@ net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/flclash-bin 0.8.87: A multi-platform proxy client based on ClashMeta
 net-proxy/hysteria 2.6.2-r1: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
-net-proxy/mihomo 1.19.12: Another Clash Kernel, formerly Clash.Meta
+net-proxy/mihomo 1.19.13: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
 net-proxy/naiveproxy-bin 139.0.7258.62_p1: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 9.0.0: Implementation of all proxy protocols using modern c++
