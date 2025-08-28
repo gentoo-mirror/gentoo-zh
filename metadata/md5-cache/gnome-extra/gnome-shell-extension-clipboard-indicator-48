@@ -1,0 +1,13 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install postinst postrm preinst
+DESCRIPTION=The most popular clipboard manager for GNOME, with over 1M downloads
+EAPI=8
+HOMEPAGE=https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator
+INHERIT=gnome2-utils
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-libs/glib:2 app-eselect/eselect-gnome-shell-extensions =gnome-base/gnome-shell-48*
+SLOT=0
+SRC_URI=https://extensions.gnome.org/extension-data/clipboard-indicatortudmotu.com.v68.shell-extension.zip -> gnome-shell-extension-clipboard-indicator-48.zip
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
+_md5_=110d31697b7b0f1c7e6c211c58171622
