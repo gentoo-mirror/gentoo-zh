@@ -44,7 +44,7 @@ app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1-r1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/mu-editor 1.2.2_alpha1_p1: A simple Python editor for beginner programmers
 app-editors/neovim-bin 0.11.3-r2: Vim-fork focused on extensibility and agility
-app-editors/typora 0.11.18 1.10.8: A truely minimal markdown editor.
+app-editors/typora 0.11.18 1.11.5: A truely minimal markdown editor.
 app-editors/void-editor 1.2.1.25105 1.99.30034 1.99.30044: Void Editor - AI Code Editor
 app-editors/windsurf 1.9.2: AI-powered code editor maintaining flow state with instant assistance.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
