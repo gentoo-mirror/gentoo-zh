@@ -253,8 +253,6 @@ net-proxy/daed:webui - Build and install daed instead of dae-wing
 net-proxy/juicity:client - install juicity-client
 net-proxy/juicity:server - install juicity-server
 net-proxy/mihomo:gvisor - Enable gvisor stack support
-net-proxy/mihomo:systemd - Enable systemd support
-net-proxy/mihomo:tun - Enable tun support
 net-proxy/mihomo-party-bin:tun - Enable TUN support
 net-proxy/qv2ray:themes - Build with built-in themes
 net-proxy/qvplugin-trojan:mysql - build with MySQL support

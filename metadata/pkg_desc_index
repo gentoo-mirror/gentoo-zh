@@ -3,7 +3,6 @@ acct-group/aptly 0: System group: aptly
 acct-group/dufs 0: System group: dufs
 acct-group/hysteria 0: System group: hysteria
 acct-group/keyd 0: System group: keyd
-acct-group/mihomo 0-r1: System group: mihomo
 acct-group/n2n 0: System group: n2n
 acct-group/ntpd-rs 0: System group: ntpd-rs
 acct-group/ntpd-rs-observe 0: System group: ntpd-rs-observe
@@ -14,7 +13,6 @@ acct-user/alist 0: System user: alist
 acct-user/aptly 0: System user: aptly
 acct-user/dufs 0: System user: dufs
 acct-user/hysteria 0: System user: hysteria
-acct-user/mihomo 0-r1: System user: mihomo
 acct-user/n2n 0: System user: n2n
 acct-user/ntpd-rs 0: user for ntpd-rs daemon
 acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
