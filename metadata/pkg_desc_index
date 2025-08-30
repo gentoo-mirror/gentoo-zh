@@ -188,7 +188,7 @@ dev-vcs/sourcegit-bin 2025.32: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.12 1.21.0: Uncompromising wilderness survival sandbox game (requires paid account)
 games-arcade/osu-lazer-bin 2025.710.0 2025.816.0: A free-to-win rhythm game. Rhythm is just a click away!
 games-arcade/osu-lazer-tachyon-bin 2025.829.0: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
-games-emulation/conty 1.27.1 1.28 1.28.1: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
+games-emulation/conty 1.27.1 1.28 1.28.1 1.28.2: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
 games-fps/openarena 0.8.8 9999: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
 games-fps/openarena-bin 0.8.8: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
 games-fps/source-engine 9999: A 3D game engine developed by Valve
