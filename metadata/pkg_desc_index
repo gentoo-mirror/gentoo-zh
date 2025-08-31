@@ -300,7 +300,7 @@ net-proxy/Xray 25.8.3 25.8.29: Xray, Penetrates Everything. Also the best v2ray-
 net-proxy/bore 0.6.0: bore is a simple CLI tool for making tunnels to localhost
 net-proxy/cgproxy 0.20-r1: Transparent Proxy with cgroup v2
 net-proxy/clash-rs 0.9.0: Custom protocol, rule based network proxy
-net-proxy/clash-verge-bin 2.3.2-r1 2.4.0: (Continuation) of Clash Meta GUI based on Tauri.
+net-proxy/clash-verge-bin 2.3.2-r1 2.4.1: (Continuation) of Clash Meta GUI based on Tauri.
 net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/flclash-bin 0.8.87: A multi-platform proxy client based on ClashMeta
