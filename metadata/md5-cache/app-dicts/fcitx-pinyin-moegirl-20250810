@@ -11,5 +11,5 @@ RDEPEND=fcitx? ( app-i18n/fcitx:5 ) rime? ( || ( app-i18n/ibus-rime app-i18n/fci
 REQUIRED_USE=|| ( fcitx rime )
 SLOT=5
 SRC_URI=https://github.com/outloudvi/mw2fcitx/archive/refs/tags/20250810.tar.gz -> fcitx-pinyin-moegirl-20250810.tar.gz https://github.com/outloudvi/mw2fcitx/releases/download/20250810/titles.txt -> fcitx-pinyin-moegirl-20250810-titles.txt
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	python-utils-r1	8a006695bc0db22490452dd06914dda5	python-any-r1	891415dfe39ad9b41b461f2b86354af0
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	python-utils-r1	b7eb9c3a6dc6662368634584aab44a2c	python-any-r1	891415dfe39ad9b41b461f2b86354af0
 _md5_=3358ecf2ab63342a5a040577f6f36462
