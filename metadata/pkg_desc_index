@@ -168,7 +168,7 @@ dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
-dev-util/gemini-cli 0.3.3: Gemini CLI - a command-line AI workflow tool by Google
+dev-util/gemini-cli 0.3.4: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 1.28.1.15219 2.6.2.41321: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
 dev-util/osc 1.19.1: The Command Line Interface to work with an Open Build Service
@@ -259,7 +259,7 @@ net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
 net-dns/mosdns 5.3.3: A DNS forwarder
 net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
-net-dns/q 0.19.5: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+net-dns/q 0.19.8: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
 net-im/tencent-qq 3.2.19_p250820 3.2.19_p250904: The new version of the official linux-qq
