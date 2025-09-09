@@ -256,9 +256,6 @@ net-analyzer/pwru-bin 1.0.9: eBPF-based Linux kernel networking debugger
 net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
 net-dns/ddns-go 6.12.4: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
-net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
-net-dns/mosdns 5.3.3: A DNS forwarder
-net-dns/mosdns-cn-bin 1.4.0-r1: A DNS forwarder
 net-dns/q 0.19.8: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
