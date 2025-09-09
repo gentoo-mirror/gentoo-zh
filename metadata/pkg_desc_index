@@ -19,8 +19,8 @@ acct-user/ntpd-rs-observe 0: user for ntpd-rs-observe daemon
 acct-user/sing-box 0-r1: System user: sing-box
 acct-user/vintagestory 0: User for Vintage Story Server
 app-admin/1password 8.11.8: Password manager and secure wallet
-app-admin/chezmoi 2.65.0: Manage your dotfiles across multiple diverse machines, securely.
-app-admin/chezmoi-bin 2.65.0: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi 2.65.1: Manage your dotfiles across multiple diverse machines, securely.
+app-admin/chezmoi-bin 2.65.1: Manage your dotfiles across multiple diverse machines, securely.
 app-admin/enpass 6.10.1.1661 6.11.6.1833 6.11.12.1953: A cross-platform, complete password management solution.
 app-admin/proton-authenticator-bin 1.0.0: Official open-source two-factor authentication app by Proton
 app-admin/rbw 1.13.2: Unofficial Bitwarden CLI
