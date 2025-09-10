@@ -189,7 +189,7 @@ dev-vcs/gitoxide 0.45.0: A command-line application for interacting with git rep
 dev-vcs/sourcegit-bin 2025.34: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.12 1.21.0: Uncompromising wilderness survival sandbox game (requires paid account)
 games-arcade/osu-lazer-bin 2025.710.0 2025.816.0: A free-to-win rhythm game. Rhythm is just a click away!
-games-arcade/osu-lazer-tachyon-bin 2025.905.0: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
+games-arcade/osu-lazer-tachyon-bin 2025.910.0: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
 games-emulation/conty 1.27.1 1.28 1.28.1 1.28.2: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
 games-emulation/onscripter-yuri 0.7.6_beta1-r1: An enhancement ONScripter project porting to many platforms, especially web
 games-fps/openarena 0.8.8 9999: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
@@ -266,7 +266,7 @@ net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and a
 net-im/tencent-qq 3.2.19_p250820 3.2.19_p250904: The new version of the official linux-qq
 net-im/wechat 4.0.1.11-r2: Weixin for Linux
 net-im/wechat-universal-bwrap 1.0.0.241-r1 1.0.0.242 4.0.0.21 4.0.0.23: WeChat (Universal) with bwrap sandbox
-net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400: Wemeet - Tencent Video Conferencing
+net-im/wemeet 3.19.1.400 3.19.1.401 3.19.2.400 3.26.10.400: Wemeet - Tencent Video Conferencing
 net-libs/bun-bin 1.2.21: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 net-libs/jzmq 9999: jzmq
 net-misc/alist 3.32.0 3.44.0: A file list/WebDAV program that supports multiple storages
