@@ -585,6 +585,11 @@ github = "paulfitz/daff"
 use_latest_release = true
 prefix = "v"
 
+["dev-python/edalize"]
+source = "pypi"
+pypi = "edalize"
+github_account = "f3rmata"
+
 ["dev-python/feeluown-bilibili"]
 source = "pypi"
 pypi = "feeluown-bilibili"
@@ -604,6 +609,11 @@ github_account = "wgjak47"
 source = "pypi"
 pypi = "fuo-ytmusic"
 github_account = "wgjak47"
+
+["dev-python/fusesoc"]
+source = "pypi"
+pypi = "fusesoc"
+github_account = "f3rmata"
 
 ["dev-python/janus"]
 source = "github"
@@ -628,6 +638,11 @@ github = "lilydjwg/nvchecker"
 use_latest_tag = true
 prefix = "v"
 github_account = "liangyongxiang"
+
+["dev-python/okonomiyaki"]
+source = "pypi"
+pypi = "okonomiyaki"
+github_account = "f3rmata"
 
 ["dev-python/pycosat"]
 source = "github"
@@ -658,6 +673,11 @@ github_account = "wgjak47"
 source = "pypi"
 pypi = "qasync"
 github_account = "wgjak47"
+
+["dev-python/simplesat"]
+source = "pypi"
+pypi = "simplesat"
+github_account = "f3rmata"
 
 ["dev-python/uv-bin"]
 source = "github"
