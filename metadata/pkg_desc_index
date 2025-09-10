@@ -143,12 +143,14 @@ dev-python/conda-libmamba-solver 25.4.0: The libmamba based solver for conda
 dev-python/conda-package-handling 2.4.0: Create and extract conda packages of various formats
 dev-python/conda-package-streaming 0.12.0: An efficient library to read from new and old conda packages
 dev-python/daff 1.4.2: The daff can produce and apply tabular diffs
+dev-python/edalize 0.6.1: Library for interfacing EDA tools.
 dev-python/exifread 2.3.1 2.3.2 3.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/feeluown-bilibili 0.4.1: bilibili support for feeluown
 dev-python/frozendict 2.4.6: A simple immutable dictionary for Python
 dev-python/fuo-netease 1.0.3: netease cloud music support for feeluown
 dev-python/fuo-qqmusic 1.0.5: qq music support for feeluown
 dev-python/fuo-ytmusic 0.4.2: youtube music support for feeluown
+dev-python/fusesoc 2.4.4: Award-winnning package manager and build abstraction tool for HDL code.
 dev-python/iptcinfo3 2.0.3_p20230801: To read/write image metadata
 dev-python/janus 2.0.0: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/menuinst 2.2.0: Cross platform menu item installation
@@ -156,12 +158,14 @@ dev-python/mw2fcitx 0.24.0: Build fcitx5 libraries from MediaWiki sites
 dev-python/mwparserfromhell 0.7.2: A Python parser for MediaWiki wikicode
 dev-python/nudatus 0.0.5: CircuitPython board identification and information
 dev-python/nvchecker 2.18: nvchecker is for checking if a new version of some software has been released
+dev-python/okonomiyaki 3.0.0: Self-contained library to deal with metadata in egg and runtime archives.
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.55.0: Tool for converting Chinese characters to pinyin
 dev-python/pyqt6-charts 6.9.0: Python bindings for QtChart
 dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/pywikibot 10.3.0: To interact with MediaWiki API (for example Wikipedia, Wikimedia Commons)
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
+dev-python/simplesat 0.9.2: Prototype for SAT-based dependency handling.
 dev-python/uv-bin 0.8.15: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
