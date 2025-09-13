@@ -14,7 +14,7 @@ DESCRIPTION="The universal proxy platform."
 HOMEPAGE="https://sing-box.sagernet.org/ https://github.com/SagerNet/sing-box"
 SRC_URI="
 	https://github.com/SagerNet/sing-box/archive/refs/tags/v${_PV}.tar.gz -> ${P}.tar.gz
-	https://github.com/gentoo-zh/gentoo-deps/releases/download/${P}/${P}-vendor.tar.xz
+	https://github.com/Puqns67/gentoo-deps/releases/download/${P}/${P}-vendor.tar.xz
 "
 
 S="${WORKDIR}/${PN}-${_PV}"
@@ -45,7 +45,7 @@ src_compile() {
 	use tailscale && mytags+="with_tailscale,"
 
 	ego build -tags "${mytags%,}" \
-		-ldflags "-X 'github.com/sagernet/sing-box/constant.Version=${PV}'" \
+		-ldflags "-checklinkname=0 -X 'github.com/sagernet/sing-box/constant.Version=${PV}'" \
 		./cmd/sing-box
 
 	mkdir -v completions
