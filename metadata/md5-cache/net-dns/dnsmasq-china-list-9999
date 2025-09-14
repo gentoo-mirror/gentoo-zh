@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst unpack
+DESCRIPTION=Chinese-specific configuration to improve your favorite DNS server.
+EAPI=8
+HOMEPAGE=https://github.com/felixonmars/dnsmasq-china-list
+INHERIT=git-r3
+IUSE=+dnsmasq smartdns dnscrypt-proxy
+LICENSE=WTFPL-2
+PROPERTIES=live
+RDEPEND=dnsmasq? ( net-dns/dnsmasq ) smartdns? ( net-dns/smartdns ) dnscrypt-proxy? ( net-dns/dnscrypt-proxy )
+SLOT=0
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=00a52c771117c93fc2ff413cdff6ac0a
