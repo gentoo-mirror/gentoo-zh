@@ -175,7 +175,7 @@ dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries 
 dev-util/gemini-cli 0.4.1: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 2.8.1.52155: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
-dev-util/osc 1.19.1: The Command Line Interface to work with an Open Build Service
+dev-util/osc 1.20.0: The Command Line Interface to work with an Open Build Service
 dev-util/pack-cli 0.37.0: CLI for building apps using Cloud Native Buildpacks
 dev-util/pack-cli-bin 0.37.0: CLI for building apps using Cloud Native Buildpacks
 dev-util/pacstrap 29: Pacstrap - install packages to the specified new root directorye
