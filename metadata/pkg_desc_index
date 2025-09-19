@@ -248,7 +248,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.17.1_p7: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.17.2_p1: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
@@ -261,7 +261,7 @@ net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
 net-dns/ddns-go 6.12.4: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
-net-dns/q 0.19.9: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+net-dns/q 0.19.9-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
 net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
 net-im/tencent-qq 3.2.19_p250820 3.2.19_p250904: The new version of the official linux-qq
@@ -369,7 +369,7 @@ virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.5.11: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.45.0: A distinctive utility file server
 www-apps/follow-bin 0.7.0: Next generation information browser
-www-client/brave-bin 1.82.166: Web browser that blocks ads and trackers by default
+www-client/brave-bin 1.82.170: Web browser that blocks ads and trackers by default
 www-servers/darkhttpd 1.17: A small, static webserver
 www-servers/miniserve 0.32.0: a CLI tool to serve files and dirs over HTTP
 www-servers/s-ui-bin 1.3.6: An advanced Web Panel • Built for SagerNet/Sing-Box
