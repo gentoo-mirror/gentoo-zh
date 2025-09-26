@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup unpack
+DESCRIPTION=A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
+EAPI=8
+HOMEPAGE=https://github.com/lxgw/LxgwNeoZhiSong
+INHERIT=font
+IUSE=+regular plus X
+KEYWORDS=~amd64 ~loong ~riscv ~x86
+LICENSE=IPAfont
+SLOT=0
+SRC_URI=regular? ( https://github.com/lxgw/LxgwNeoZhiSong/releases/download/v1.037/LXGWNeoZhiSong.ttf -> lxgw-neo-zhisong-1.037.ttf ) plus? ( https://github.com/lxgw/LxgwNeoZhiSong/releases/download/v1.037/LXGWNeoZhiSongPlus.ttf -> lxgw-neo-zhisong-plus-1.037.ttf )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=d8b8c57411899ae3e38989639e0ccbae

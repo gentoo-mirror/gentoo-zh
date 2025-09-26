@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup unpack
+DESCRIPTION=A Simplified Chinese sans-serif font derived from IPAex Gothic
+EAPI=8
+HOMEPAGE=https://github.com/lxgw/LxgwNeoXiHei
+INHERIT=font
+IUSE=+regular plus X
+KEYWORDS=~amd64 ~loong ~riscv ~x86
+LICENSE=IPAfont
+SLOT=0
+SRC_URI=regular? ( https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.223/LXGWNeoXiHei.ttf -> lxgw-neo-xihei-1.223.ttf ) plus? ( https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.223/LXGWNeoXiHeiPlus.ttf -> lxgw-neo-xihei-plus-1.223.ttf )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=a951b11a706668bcd28ee96a032d2e40

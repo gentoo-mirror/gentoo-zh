@@ -130,6 +130,10 @@ gui-wm/swayfx:tray - Enable support for StatusNotifierItem tray specification
 gui-wm/swayfx:wallpapers - Install sway's default wallpaper image
 media-fonts/Plangothic:allideo - use HanaMin to display unincluded fonts
 media-fonts/Plangothic:fallback - do not display unincluded fonts
+media-fonts/lxgw-neo-xihei:plus - Plus variant (Supports Unicode CJK Unified Ideographs Extension A)
+media-fonts/lxgw-neo-xihei:regular - Regular variant
+media-fonts/lxgw-neo-zhisong:plus - Plus variant (Supports Unicode CJK Unified Ideographs Extension A)
+media-fonts/lxgw-neo-zhisong:regular - Regular variant
 media-fonts/nerd-fonts:0xproto - Install Nerd-fonts-patched 0xProto fonts
 media-fonts/nerd-fonts:3270 - Install Nerd-fonts-patched 3270 fonts
 media-fonts/nerd-fonts:adwaitamono - Install Nerd-fonts-patched Adwaita Mono fonts
