@@ -158,7 +158,7 @@ dev-python/menuinst 2.2.0: Cross platform menu item installation
 dev-python/mw2fcitx 0.24.0: Build fcitx5 libraries from MediaWiki sites
 dev-python/mwparserfromhell 0.7.2: A Python parser for MediaWiki wikicode
 dev-python/nudatus 0.0.5: CircuitPython board identification and information
-dev-python/nvchecker 2.18: nvchecker is for checking if a new version of some software has been released
+dev-python/nvchecker 2.19: nvchecker is for checking if a new version of some software has been released
 dev-python/okonomiyaki 3.0.0: Self-contained library to deal with metadata in egg and runtime archives.
 dev-python/pycosat 0.6.6: Python bindings to picosat (a SAT solver)
 dev-python/pypinyin 0.55.0: Tool for converting Chinese characters to pinyin
