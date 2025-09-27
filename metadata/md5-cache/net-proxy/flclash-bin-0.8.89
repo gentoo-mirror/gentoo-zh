@@ -8,6 +8,6 @@ KEYWORDS=-* ~amd64 ~arm64
 LICENSE=GPL-3
 RDEPEND=dev-libs/libayatana-appindicator dev-libs/keybinder x11-apps/xmessage x11-libs/libX11 x11-libs/libXmu
 SLOT=0
-SRC_URI=amd64? ( https://github.com/chen08209/FlClash/releases/download/v0.8.88/FlClash-0.8.88-linux-amd64.deb ) arm64? ( https://github.com/chen08209/FlClash/releases/download/v0.8.88/FlClash-0.8.88-linux-arm64.deb )
+SRC_URI=amd64? ( https://github.com/chen08209/FlClash/releases/download/v0.8.89/FlClash-0.8.89-linux-amd64.deb ) arm64? ( https://github.com/chen08209/FlClash/releases/download/v0.8.89/FlClash-0.8.89-linux-arm64.deb )
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=97724e83f2489e52fe891898b71a78bb
