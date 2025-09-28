@@ -375,7 +375,7 @@ www-apps/follow-bin 0.7.0: Next generation information browser
 www-client/brave-bin 1.82.172: Web browser that blocks ads and trackers by default
 www-servers/darkhttpd 1.17: A small, static webserver
 www-servers/miniserve 0.32.0: a CLI tool to serve files and dirs over HTTP
-www-servers/s-ui-bin 1.3.6: An advanced Web Panel • Built for SagerNet/Sing-Box
+www-servers/s-ui-bin 1.3.7: An advanced Web Panel • Built for SagerNet/Sing-Box
 www-servers/woof 9999: an ad-hoc single file webserver
 x11-libs/glbinding 3.3.0: A C++ binding for the OpenGL API
 x11-misc/9menu 1.11: Create X menus from the shell
