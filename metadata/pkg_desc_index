@@ -250,7 +250,7 @@ media-sound/yesplaymusic-bin 0.4.8: A third party music player for Netease Music
 media-sound/ytmdesktop-bin 2.0.8: A Desktop App for YouTube Music
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/avplayer 9999: avplayer is a p2p video downloader and player
-media-video/bilibili 1.17.2_p1: Based on the Bilibli offcial client to linux version, support roaming
+media-video/bilibili 1.17.2_p2: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
 media-video/mpv-handler 0.3.16: Play website videos and songs with mpv & yt-dlp
@@ -332,7 +332,7 @@ net-proxy/v2ray-bin 4.45.0-r2 5.39.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.105.0: The Official Mihomo Dashboard
+net-proxy/zashboard 1.106.0: The Official Mihomo Dashboard
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
 sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
