@@ -4,7 +4,7 @@
 EAPI=8
 
 DISTUTILS_USE_PEP517=setuptools
-PYTHON_COMPAT=( python3_{10..13} )
+PYTHON_COMPAT=( python3_{10..14} )
 inherit distutils-r1
 
 DESCRIPTION="nvchecker is for checking if a new version of some software has been released"
@@ -15,16 +15,8 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE="ini notify"
-PROPERTIES="test_network"
 RESTRICT="test"
 
-BDEPEND="
-	test? (
-		dev-python/flaky[$PYTHON_USEDEP]
-		dev-python/pytest-asyncio[$PYTHON_USEDEP]
-		dev-python/pytest-httpbin[$PYTHON_USEDEP]
-	)
-"
 RDEPEND="
 	dev-python/appdirs[$PYTHON_USEDEP]
 	dev-python/structlog[$PYTHON_USEDEP]
@@ -38,8 +30,6 @@ RDEPEND="
 		virtual/notification-daemon
 	)
 "
-
-distutils_enable_tests pytest
 
 python_install_all() {
 	distutils-r1_python_install_all
