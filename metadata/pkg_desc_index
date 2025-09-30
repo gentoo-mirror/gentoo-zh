@@ -201,7 +201,7 @@ games-misc/oh-my-git-bin 0.6.5: An interactive Git learning game!
 games-roguelike/tsl 0.40-r2: The Slimy Lichmummy, an adventure game similar in style to the classic Rogue
 games-server/vintagestory-server 1.19.8 1.20.12 1.21.0: Dedicated game server for Vintage Story
 gnome-extra/gnome-shell-extension-clipboard-indicator 48: The most popular clipboard manager for GNOME, with over 1M downloads
-gnome-extra/nautilus-open-any-terminal 0.6.1: context-menu entry for opening other terminal in nautilus
+gnome-extra/nautilus-open-any-terminal 0.6.3: context-menu entry for opening other terminal in nautilus
 gui-apps/crystal-dock 2.11: Cool dock (desktop panel) for Linux desktop
 gui-libs/libdecor 0.1.1: A client-side decorations library for Wayland clients
 gui-wm/swayfx 0.3.2: SwayFX: Sway, but with eye candy!
