@@ -1,4 +1,4 @@
-# Copyright 1999-2024 Gentoo Authors
+# Copyright 1999-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -27,9 +27,11 @@ BDEPEND="
 "
 RDEPEND="
 	app-accessibility/at-spi2-core
+	app-crypt/mit-krb5
 	dev-libs/nss
 	media-libs/libpulse
 	media-libs/mesa
+	net-print/cups
 	virtual/jack
 	x11-libs/libXcomposite
 	x11-libs/libXdamage
