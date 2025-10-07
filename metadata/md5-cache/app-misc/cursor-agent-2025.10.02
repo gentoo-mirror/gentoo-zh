@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Cursor CLI - interact with AI agents directly from your terminal
+EAPI=8
+HOMEPAGE=https://docs.cursor.com/en/cli
+KEYWORDS=-* ~amd64 ~arm64
+LICENSE=all-rights-reserved
+RDEPEND=net-libs/nodejs sys-apps/ripgrep
+RESTRICT=bindist mirror strip
+SLOT=0
+SRC_URI=amd64? ( https://downloads.cursor.com/lab/2025.10.02-bd871ac/linux/x64/agent-cli-package.tar.gz -> cursor-agent-2025.10.02-x64.tar.gz ) arm64? ( https://downloads.cursor.com/lab/2025.10.02-bd871ac/linux/arm64/agent-cli-package.tar.gz -> cursor-agent-2025.10.02-arm64.tar.gz )
+_md5_=6b8940629e4e8e261124f5fda752a2bd
