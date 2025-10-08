@@ -212,8 +212,8 @@ media-fonts/Plangothic 2.9.5771: 遍黑体项目（Plangothic Project）
 media-fonts/iansui 1.011: An open-source Chinese font derived from Klee One (Fontworks).
 media-fonts/ipamj 006.01: IPAmj 明朝 (IPAmj Mincho) font
 media-fonts/jf-openhuninn 2.1: An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
-media-fonts/lxgw-neo-xihei 1.223: A Simplified Chinese sans-serif font derived from IPAex Gothic
-media-fonts/lxgw-neo-zhisong 1.037: A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
+media-fonts/lxgw-neo-xihei 1.224: A Simplified Chinese sans-serif font derived from IPAex Gothic
+media-fonts/lxgw-neo-zhisong 1.039: A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
 media-fonts/misans 4.003-r1: MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 media-fonts/nerd-fonts 3.4.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/sarasa-gothic 1.0.30: A CJK programming font based on Iosevka and Source Han Sans. (TTC)
@@ -243,7 +243,7 @@ media-sound/listen1_desktop-bin 2.32.0: one for all free music in China
 media-sound/lx-music-desktop-bin 2.10.0: 一个基于 electron 的音乐软件
 media-sound/netease-cloud-music 1.2.1: Netease Cloud Music, converted from .deb package
 media-sound/netease-cloud-music-gtk 2.5.2: netease cloud music player based on Rust & GTK for Linux
-media-sound/qqmusic 1.1.7: Tencent QQ Music, converted from .deb package
+media-sound/qqmusic 1.1.8: Tencent QQ Music, converted from .deb package
 media-sound/spotube-bin 5.0.0: A lightweight Spotify client using YouTube as audio source
 media-sound/termusic 0.11.0: Terminal Music and Podcast Player written in Rust
 media-sound/yamusic-tui-bin 0.7.1: An unofficial Yandex Music terminal client, with offline mode and My Wave
