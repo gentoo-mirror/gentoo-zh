@@ -1,0 +1,15 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install prepare unpack
+DEPEND=dev-libs/libayatana-appindicator sys-apps/systemd
+DESCRIPTION=ToDesk不一样的远控体验，轻松打破物理限制，随时随地高效使用所有计算终端
+EAPI=8
+HOMEPAGE=https://www.todesk.com/
+INHERIT=desktop unpacker systemd
+KEYWORDS=~amd64
+LICENSE=todesk
+RDEPEND=dev-libs/libayatana-appindicator sys-apps/systemd
+RESTRICT=strip mirror
+SLOT=0
+SRC_URI=https://dl.todesk.com/linux/todesk-v4.8.1.0-amd64.deb
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	systemd	a964c0cbe818b5729da1dbfcee5be861
+_md5_=0897bd9c1363b7db49fff3d40425ce69
