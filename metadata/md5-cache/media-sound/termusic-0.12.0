@@ -1,4 +1,4 @@
-BDEPEND=|| ( >=dev-lang/rust-bin-1.74.1:* >=dev-lang/rust-1.74.1:* )
+BDEPEND=|| ( >=dev-lang/rust-bin-1.89:* >=dev-lang/rust-1.89:* )
 DEFINED_PHASES=compile configure install postinst setup test unpack
 DEPEND=symphonia? ( media-libs/alsa-lib ) gst? ( dev-libs/glib:2 media-libs/gstreamer:1.0 media-libs/gst-plugins-base:1.0 media-libs/gst-plugins-bad:1.0 media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-plugins/gst-plugins-libav ) mpv? ( media-video/mpv[libmpv] ) media-libs/libsixel dev-libs/protobuf sys-apps/dbus
 DESCRIPTION=Terminal Music and Podcast Player written in Rust
@@ -7,10 +7,10 @@ HOMEPAGE=https://github.com/tramhao/termusic
 INHERIT=cargo
 IUSE=+symphonia gst mpv +yt-dlp debug
 KEYWORDS=~amd64
-LICENSE=MIT Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD GPL-3+ ISC LGPL-2.1 LGPL-3+ MIT MPL-2.0 Unicode-DFS-2016 ZLIB
+LICENSE=MIT Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD-2 BSD CDLA-Permissive-2.0 GPL-3+ ISC LGPL-2.1 LGPL-3+ MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 ZLIB
 RDEPEND=symphonia? ( media-libs/alsa-lib ) gst? ( dev-libs/glib:2 media-libs/gstreamer:1.0 media-libs/gst-plugins-base:1.0 media-libs/gst-plugins-bad:1.0 media-libs/gst-plugins-good media-libs/gst-plugins-ugly media-plugins/gst-plugins-libav ) mpv? ( media-video/mpv[libmpv] ) media-libs/libsixel dev-libs/protobuf sys-apps/dbus yt-dlp? ( media-video/ffmpeg net-misc/yt-dlp )
 REQUIRED_USE=^^ ( symphonia gst mpv )
 SLOT=0
-SRC_URI=https://github.com/tramhao/termusic/archive/refs/tags/v0.11.0.tar.gz -> termusic-0.11.0.tar.gz https://github.com/gentoo-zh-drafts/termusic/releases/download/v0.11.0/termusic-0.11.0-crates.tar.xz
+SRC_URI=https://github.com/tramhao/termusic/archive/refs/tags/v0.12.0.tar.gz -> termusic-0.12.0.tar.gz https://github.com/gentoo-zh-drafts/termusic/releases/download/v0.12.0/termusic-0.12.0-crates.tar.xz
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	rust	67553b9b0296e5b691a6f6efdce65271	rust-toolchain	76468983281b0a7fc167ca224f84ecfd	cargo	a1af74aa9e34cd73aeac642cd0dd54d8
-_md5_=64097e75ed0bf204e53dfa5e0dd312c4
+_md5_=2c5c330a692064230b1478cb8ce7080a
