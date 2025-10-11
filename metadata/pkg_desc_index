@@ -229,7 +229,7 @@ media-gfx/bambustudio-bin 02.02.00.85: Bambu Studio is a cutting-edge, feature-r
 media-gfx/scangearmp 2.4.10: Driver and utility package for Canon scanners
 media-gfx/tgs2png 9999: Convert Telegram's animated stickers in TGS format into series of PNG images.
 media-gfx/tifig-bin 0.2.2: Converts iOS 11 HEIC images to practical formats - Static binary
-media-gfx/unityhub 3.11.0: The official unity tool for manager Unity Engines and projects
+media-gfx/unityhub 3.14.1: The official unity tool for manager Unity Engines and projects
 media-gfx/zw3d 2022.0.3.1-r3 2023.0.3.1: CAD/CAM software for 3D design and processing
 media-gfx/zwcad 2023.23.0.3.4-r2: CAD software for 2D drawing, reviewing and printing work
 media-libs/openslide 20230904: C library with simple interface to read virtual slides
@@ -341,7 +341,7 @@ sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
 sci-electronics/circuitjs1-bin 2.9.1: Electronic Circuit Simulator in the Browser
 sci-electronics/jlc-assistant-bin 5.0.69: JLC Order Assistant (binary package)
 sci-electronics/lceda 6.5.37 6.5.46: LCEDA (binary package)
-sci-electronics/lceda-pro 2.2.42.7: LCEDA Pro (binary package)
+sci-electronics/lceda-pro 2.2.43.1: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
 sys-apps/aptly 1.5.0 9999: A swiss army knife for Debian repository management
