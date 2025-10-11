@@ -42,7 +42,7 @@ app-editors/edit 1.1.0: Microsoft edit
 app-editors/marktext-bin 0.17.1-r1: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 app-editors/mu-editor 1.2.2_alpha1_p1: A simple Python editor for beginner programmers
 app-editors/neovim-bin 0.11.4 9999: Vim-fork focused on extensibility and agility
-app-editors/typora 0.11.18 1.11.7: A truely minimal markdown editor.
+app-editors/typora 0.11.18 1.12.1: A truely minimal markdown editor.
 app-editors/void-editor 1.2.1.25105 1.99.30034 1.99.30044: Void Editor - AI Code Editor
 app-editors/windsurf 1.9.2: AI-powered code editor maintaining flow state with instant assistance.
 app-emulation/deepin-udis86 1.72-r4: Disassembler library for x86 (32-bit shared library)
@@ -173,7 +173,7 @@ dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using f
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
-dev-util/codex-bin 0.44.0: Codex - OpenAI's code generation and completion tool
+dev-util/codex-bin 0.46.0: Codex - OpenAI's code generation and completion tool
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/gemini-cli 0.7.0: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 2.8.1.52155: Manage all your JetBrains Projects and Tools
@@ -316,7 +316,7 @@ net-proxy/hysteria 2.6.4: A powerful, lightning fast and censorship resistant pr
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
 net-proxy/mihomo 1.19.14: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
-net-proxy/naiveproxy-bin 140.0.7339.123_p1: A proxy using Chromium's network stack to camouflage traffic
+net-proxy/naiveproxy-bin 140.0.7339.123_p2: A proxy using Chromium's network stack to camouflage traffic
 net-proxy/proxy-server 9.0.0: Implementation of all proxy protocols using modern c++
 net-proxy/qv2ray 2.7.0_p20240625-r1: Qt GUI fontend of v2ray
 net-proxy/qvplugin-command 3.0.0: Plugin for Qv2ray to run any commands when something happens in Qv2ray
@@ -391,7 +391,7 @@ x11-misc/snapd-xdg-open 20170401: Software for opening links from snaps in deskt
 x11-terms/wezterm-bin 20240203: A terminal emulator and multiplexer implemented in Rust
 x11-themes/bibata-cursor 2.0.7: Open source, compact, and material designed cursor set
 x11-themes/fcitx-breeze 3.1.0: Fcitx5 theme to match KDE's Breeze style.
-x11-themes/kora-icon-theme 1.6.4: An SVG icon theme with lots of new icons for GNU/Linux operating systems
+x11-themes/kora-icon-theme 1.6.5: An SVG icon theme with lots of new icons for GNU/Linux operating systems
 x11-themes/nordic 2.1.0 2.2.0-r1: Dark Gtk3.20+ theme created using the awesome Nord color pallete
 x11-themes/nordzy-cursors 0.5.0 2.4.0: Cursor theme using the Nord color palette and based on Vimix and cz-Viator
 x11-themes/nordzy-icon 1.5 1.8.7: A free and open source icon theme for Linux desktops using the Nord color palette
