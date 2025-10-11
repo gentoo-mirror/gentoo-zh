@@ -1,4 +1,4 @@
-# Copyright 1999-2024 Gentoo Authors
+# Copyright 1999-2025 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -17,14 +17,14 @@ KEYWORDS="~amd64"
 RESTRICT="mirror splitdebug"
 
 RDEPEND="
+	dev-libs/nspr
+	dev-libs/nss
+	media-libs/alsa-lib
+	net-print/cups
 	x11-libs/libXScrnSaver
-	net-print/cups"
+"
 
 QA_PREBUILT="*"
-
-src_unpack() {
-	unpack_deb typora_${PV}_amd64.deb
-}
 
 src_install() {
 	mv "${S}/usr" "${D}" || die
