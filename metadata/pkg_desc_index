@@ -334,13 +334,13 @@ net-proxy/v2ray-bin 4.45.0-r2 5.40.0: A platform for building proxies to bypass 
 net-proxy/v2rayA 2.2.7 9999: web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
 net-proxy/yacd-meta 0.3.7: Yet Another Clash Dashboard
 net-proxy/yass 1.16.2: lightweight and efficient, socks5/http forward proxy
-net-proxy/zashboard 1.106.1: The Official Mihomo Dashboard
+net-proxy/zashboard 1.107.0: The Official Mihomo Dashboard
 net-vpn/sstp-server 0.6.0: A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
 sci-chemistry/vesta 3.5.8: Visualization for Electronic and STructural Analysis
 sci-electronics/circuitjs1-bin 2.9.1: Electronic Circuit Simulator in the Browser
 sci-electronics/jlc-assistant-bin 5.0.69: JLC Order Assistant (binary package)
-sci-electronics/lceda 6.5.37 6.5.46: LCEDA (binary package)
+sci-electronics/lceda 6.5.51: LCEDA (binary package)
 sci-electronics/lceda-pro 2.2.43.1: LCEDA Pro (binary package)
 sci-electronics/openfpgaloader 0.13.1: Universal utility for programming FPGAs
 sec-policy/apparmor-profile-deepinwine 1.0.0: A collection of AppArmor profiles for Deepinwine6
