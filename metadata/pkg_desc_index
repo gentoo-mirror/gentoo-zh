@@ -94,7 +94,7 @@ app-misc/rmtrash 1.14 1.15: trash-put made compatible to GNUs rm and rmdir
 app-misc/spark 1.0.1: ▁▂▃▅▂▇ in your shell
 app-misc/xmind 25.07.03033: Brainstorming and Mind Mapping Software
 app-misc/yazi 25.5.31: Blazing fast terminal file manager written in Rust, based on async I/O.
-app-office/anytype-bin 0.35.4 0.49.1: A notebook based on p2p network
+app-office/anytype-bin 0.35.4 0.50.5: A notebook based on p2p network
 app-office/bytedance-feishu 7.22.9 7.50.13: 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
 app-office/freeoffice 1062 1064 1068 1220 1224: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/wps-office 11.1.0.11719-r1 12.1.0.17900 12.1.2.22571: WPS Office is an office productivity suite, Here is the Chinese version
@@ -121,7 +121,7 @@ dev-db/dbeaver-bin 25.2.2: Free universal database tool (community edition).
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
 dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your source code
 dev-go/staticcheck 2025.1.1: Go static analysis, detecting bugs, performance issues, and much more
-dev-java/google-java-format 1.27.0: Reformats Java source code to comply with Google Java Style.
+dev-java/google-java-format 1.29.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
 dev-lang/koka-bin 3.2.2: A Functional Language with Effect Types and Handlers
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
