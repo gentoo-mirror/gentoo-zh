@@ -12,5 +12,5 @@ RDEPEND=app-misc/ca-certificates dev-libs/nss media-libs/alsa-lib media-libs/lib
 RESTRICT=strip mirror bindist
 SLOT=0
 SRC_URI=amd64? ( https://sf3-cn.feishucdn.com/obj/ee-appcenter/1d078929/Feishu-linux_x64-7.50.13.deb ) arm64? ( https://sf3-cn.feishucdn.com/obj/ee-appcenter/05ade0ea/Feishu-linux_arm64-7.50.13.deb )
-_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=27c55638209657363e682938c11ec777

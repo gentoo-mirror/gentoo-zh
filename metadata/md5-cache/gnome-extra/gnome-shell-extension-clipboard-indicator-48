@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-libs/glib:2 app-eselect/eselect-gnome-shell-extensions =gnome-base/gnome-shell-48*
 SLOT=0
 SRC_URI=https://extensions.gnome.org/extension-data/clipboard-indicatortudmotu.com.v68.shell-extension.zip -> gnome-shell-extension-clipboard-indicator-48.zip
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
 _md5_=110d31697b7b0f1c7e6c211c58171622
