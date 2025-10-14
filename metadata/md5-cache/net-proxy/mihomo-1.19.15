@@ -8,6 +8,6 @@ IUSE=+gvisor
 KEYWORDS=~amd64 ~arm64 ~loong
 LICENSE=GPL-3
 SLOT=0
-SRC_URI=https://github.com/MetaCubeX/mihomo/archive/refs/tags/v1.19.14.tar.gz -> mihomo-1.19.14.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/mihomo-1.19.14/mihomo-1.19.14-vendor.tar.xz
+SRC_URI=https://github.com/MetaCubeX/mihomo/archive/refs/tags/v1.19.15.tar.gz -> mihomo-1.19.15.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/mihomo-1.19.15/mihomo-1.19.15-vendor.tar.xz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=c643ba9e9f18ffb5be146e2a95f08028
