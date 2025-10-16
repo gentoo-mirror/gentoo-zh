@@ -9,6 +9,6 @@ KEYWORDS=~amd64 ~arm ~arm64 ~loong ~riscv ~x86
 LICENSE=MIT
 RDEPEND=!net-proxy/v2ray-bin app-alternatives/v2ray-geoip app-alternatives/v2ray-geosite
 SLOT=0
-SRC_URI=https://github.com/v2fly/v2ray-core/archive/refs/tags/v5.40.0.tar.gz -> v2ray-5.40.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/v2ray-5.40.0/v2ray-5.40.0-vendor.tar.xz
+SRC_URI=https://github.com/v2fly/v2ray-core/archive/refs/tags/v5.41.0.tar.gz -> v2ray-5.41.0.tar.gz https://github.com/gentoo-zh/gentoo-deps/releases/download/v2ray-5.41.0/v2ray-5.41.0-vendor.tar.xz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=af9e9b15ba43fa773ba9355f149d85bd
