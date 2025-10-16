@@ -13,5 +13,5 @@ RDEPEND=>=dev-libs/boost-1.65.0-r1:= dev-libs/openssl:= net-libs/libtorrent-rast
 REQUIRED_USE=dbus? ( gui ) || ( gui webui )
 SLOT=0
 SRC_URI=https://github.com/c0re100/qBittorrent-Enhanced-Edition/archive/release-5.1.2.10.tar.gz -> qbittorrent-enhanced-5.1.2.10.tar.gz
-_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	cf95ad72ab207889c1668fc0d1bee181	systemd	a964c0cbe818b5729da1dbfcee5be861	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	3d9a5fc17dadea162813d5d8918328b4	systemd	a964c0cbe818b5729da1dbfcee5be861	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=76dfc2939a780d0a0c8f23fafa9599d5
