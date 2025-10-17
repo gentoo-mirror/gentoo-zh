@@ -266,7 +266,7 @@ net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
 net-dns/q 0.19.9-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 net-im/deepin-wine-wecom 4.1.22.6009: Tencent Weixin Work on Deepin Wine(com.qq.weixin.work.deepin) For Gentoo
-net-im/dingtalk 7.6.45.5062501: Communication platform that supports video and audio conferencing
+net-im/dingtalk 7.8.15.5101401: Communication platform that supports video and audio conferencing
 net-im/kotatogram-bin 1.4.9: Telegram Desktop fork with wide messages, local folders, square avatars
 net-im/tencent-qq 3.2.19_p250820 3.2.19_p250904: The new version of the official linux-qq
 net-im/wechat 4.1.0.10-r1: Weixin for Linux
