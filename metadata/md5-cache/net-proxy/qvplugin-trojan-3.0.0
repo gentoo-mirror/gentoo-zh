@@ -11,5 +11,5 @@ LICENSE=GPL-3
 RDEPEND=>=net-proxy/qv2ray-2.7.0 dev-qt/qtbase:6[gui,network,widgets] dev-libs/boost:= dev-libs/openssl:0= mysql? ( dev-db/mysql-connector-c:= )
 SLOT=0
 SRC_URI=https://github.com/Qv2ray/QvPlugin-Trojan/archive/refs/tags/v3.0.0.tar.gz -> qvplugin-trojan-3.0.0.tar.gz https://github.com/Qv2ray/QvPlugin-Interface/archive/911c4adbb7b598435162da245ab248d215d3f018.tar.gz -> QvPlugin-Interface-911c4adbb7b598435162da245ab248d215d3f018.tar.gz https://github.com/Qv2ray/trojan/archive/5543591f28074d1e88858d2c40fcea4197b7b711.tar.gz -> qv2ray-trojan-5543591f28074d1e88858d2c40fcea4197b7b711.tar.gz
-_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	3d9a5fc17dadea162813d5d8918328b4
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	c34c4b7abe27f71d1e7770f36cc51eed
 _md5_=551bf1f75b8a00ae111e6525657f81e3
