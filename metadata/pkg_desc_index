@@ -253,7 +253,7 @@ media-video/avplayer 9999: avplayer is a p2p video downloader and player
 media-video/bilibili 1.17.2_p2: Based on the Bilibli offcial client to linux version, support roaming
 media-video/implay 1.5.1: A Cross-Platform Desktop Media Player
 media-video/iptvnator-bin 0.16.0: Cross-platform IPTV player application with multiple features
-media-video/mpv-handler 0.3.16 0.4.1: Play website videos and songs with mpv & yt-dlp
+media-video/mpv-handler 0.4.2: Play website videos and songs with mpv & yt-dlp
 media-video/piliplus-bin 1.1.4.10 1.1.4.11 1.1.4.12: BiliBili third-party client developed using Flutter
 media-video/tenvideo 1.0.10: Tencent videos
 media-video/tsukimi 0.21.0-r1: A simple Emby Client written by GTK4-RS
