@@ -172,7 +172,7 @@ dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using f
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
-dev-util/codex-bin 0.46.0: Codex - OpenAI's code generation and completion tool
+dev-util/codex-bin 0.47.0: Codex - OpenAI's code generation and completion tool
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
 dev-util/gemini-cli 0.7.0: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 2.9.1.58121: Manage all your JetBrains Projects and Tools
