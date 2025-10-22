@@ -129,6 +129,8 @@ gui-wm/swayfx:tray - Enable support for StatusNotifierItem tray specification
 gui-wm/swayfx:wallpapers - Install sway's default wallpaper image
 media-fonts/Plangothic:allideo - use HanaMin to display unincluded fonts
 media-fonts/Plangothic:fallback - do not display unincluded fonts
+media-fonts/kose-font:mono - Monospace variant
+media-fonts/kose-font:regular - Regular variant
 media-fonts/lxgw-neo-xihei:plus - Plus variant (Supports Unicode CJK Unified Ideographs Extension A)
 media-fonts/lxgw-neo-xihei:regular - Regular variant
 media-fonts/lxgw-neo-zhisong:plus - Plus variant (Supports Unicode CJK Unified Ideographs Extension A)
@@ -207,6 +209,9 @@ media-fonts/shanggu:mono - Install ShangguMono font family
 media-fonts/shanggu:round - Install ShangguRound font family
 media-fonts/shanggu:sans - Install ShangguSans font family
 media-fonts/shanggu:serif - Install ShangguSerif font family (default)
+media-fonts/yozai-font:light - Light weight variant
+media-fonts/yozai-font:medium - Medium weight variant
+media-fonts/yozai-font:regular - Regular weight variant
 media-gfx/unityhub:legacy - add support for Legacy versions
 media-plugins/osdlyrics:gnome - add support for gnome
 media-plugins/osdlyrics:indicator - add support for appindicator

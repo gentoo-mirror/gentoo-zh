@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup unpack
+DESCRIPTION=Kose Font (小赖字体) - An open-source Chinese font
+EAPI=8
+HOMEPAGE=https://github.com/lxgw/kose-font
+INHERIT=font
+IUSE=+regular mono X
+KEYWORDS=~amd64 ~loong ~riscv ~x86
+LICENSE=OFL-1.1
+SLOT=0
+SRC_URI=regular? ( https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf -> kose-font-3.126.ttf ) mono? ( https://github.com/lxgw/kose-font/releases/download/v3.126/XiaolaiMono-Regular.ttf -> kose-font-mono-3.126.ttf )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=9c4da4945ef64f4be4ecd6043ddce303

@@ -1,0 +1,13 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup unpack
+DESCRIPTION=Yozai Font (悠哉字体) - A Chinese font derived from Y.OzFont
+EAPI=8
+HOMEPAGE=https://github.com/lxgw/yozai-font
+INHERIT=font
+IUSE=light +regular medium X
+KEYWORDS=~amd64 ~loong ~riscv ~x86
+LICENSE=OFL-1.1
+SLOT=0
+SRC_URI=light? ( https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Light.ttf -> yozai-font-light-0.868.ttf ) regular? ( https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Regular.ttf -> yozai-font-0.868.ttf ) medium? ( https://github.com/lxgw/yozai-font/releases/download/v0.868/Yozai-Medium.ttf -> yozai-font-medium-0.868.ttf )
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb
+_md5_=1bc7086de18883508e16f152a118ec38
