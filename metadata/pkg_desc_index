@@ -122,6 +122,7 @@ dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your sourc
 dev-go/staticcheck 2025.1.1: Go static analysis, detecting bugs, performance issues, and much more
 dev-java/google-java-format 1.30.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
+dev-lang/dart 3.9.2: The Dart SDK
 dev-lang/koka-bin 3.2.2: A Functional Language with Effect Types and Handlers
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
@@ -174,6 +175,7 @@ dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
 dev-util/binsider 0.2.1: Analyze ELF binaries like a boss
 dev-util/codex-bin 0.47.0: Codex - OpenAI's code generation and completion tool
 dev-util/execstack 0_pre20130503: set the executable stack flag of ELF binaries and libraries
+dev-util/fvm 3.2.1: Flutter Version Management
 dev-util/gemini-cli 0.7.0: Gemini CLI - a command-line AI workflow tool by Google
 dev-util/jetbrains-toolbox 2.9.1.58121: Manage all your JetBrains Projects and Tools
 dev-util/mamba 2.3.0: The Fast Cross-Platform Package Manager
@@ -327,7 +329,7 @@ net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.5: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.11.15-r1 1.12.10 1.13.0_alpha23: The universal proxy platform.
+net-proxy/sing-box 1.11.15-r1 1.12.11 1.13.0_alpha25: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.07.27: A fork of trojan-go
 net-proxy/v2ray 5.41.0: A platform for building proxies to bypass network restrictions.
