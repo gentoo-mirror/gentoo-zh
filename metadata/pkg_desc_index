@@ -122,7 +122,7 @@ dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your sourc
 dev-go/staticcheck 2025.1.1: Go static analysis, detecting bugs, performance issues, and much more
 dev-java/google-java-format 1.30.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
-dev-lang/dart 3.9.2: The Dart SDK
+dev-lang/dart 3.9.4: The Dart SDK
 dev-lang/koka-bin 3.2.2: A Functional Language with Effect Types and Handlers
 dev-lang/luajit 2.1.1727870382: Just-In-Time Compiler for the Lua programming language
 dev-lang/quickjs 2024.01.13: Small embeddable Javascript engine
