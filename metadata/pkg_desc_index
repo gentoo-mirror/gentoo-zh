@@ -71,7 +71,7 @@ app-i18n/fcitx-meta 5.0.12-r3: Merge this to pull in Fcitx packages
 app-i18n/fcitx-qt 9999: Qt library and IM module for fcitx5
 app-i18n/fcitx-rime 9999: Rime Support for Fcitx5
 app-i18n/fcitx-skin-material 0.5: A Material Design-like skin for Fcitx
-app-i18n/fcitx-skk 5.1.6 5.1.7-r1 9999: Japanese SKK input engine for Fcitx5
+app-i18n/fcitx-skk 5.1.6 5.1.7-r2 9999: Japanese SKK input engine for Fcitx5
 app-i18n/ibus-rime 9999: Rime Input Method Engine for IBus Framework
 app-i18n/libime 9999: Fcitx5 Next generation of fcitx
 app-i18n/libime-jyutping 1.0.13 1.0.14: A library make use of libime to implement jyutping input method
