@@ -168,7 +168,7 @@ dev-python/pytube 15.0.0: Python tools for downloading YouTube Videos
 dev-python/pywikibot 10.3.0: To interact with MediaWiki API (for example Wikipedia, Wikimedia Commons)
 dev-python/qasync 0.27.1: Implementation of the asyncio (PEP 3156) event-loop with Qt
 dev-python/simplesat 0.9.2: Prototype for SAT-based dependency handling.
-dev-python/uv-bin 0.9.4: An extremely fast Python package and project manager, written in Rust.
+dev-python/uv-bin 0.9.5: An extremely fast Python package and project manager, written in Rust.
 dev-ruby/filelock 1.1.1: Heavily tested, but simple filelocking solution using flock command
 dev-util/arch-install-scripts 29: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/asdf-vm 0.15.0 0.18.0: Manage all your runtime versions with one tool
@@ -315,7 +315,7 @@ net-proxy/clash-verge-bin 2.4.2 9999: (Continuation) of Clash Meta GUI based on 
 net-proxy/dae 1.0.0 9999: A lightweight and high-performance transparent proxy solution based on eBPF
 net-proxy/daed 1.0.0 9999: A Modern Dashboard For dae
 net-proxy/flclash-bin 0.8.90: A multi-platform proxy client based on ClashMeta
-net-proxy/hysteria 2.6.4: A powerful, lightning fast and censorship resistant proxy.
+net-proxy/hysteria 2.6.5: A powerful, lightning fast and censorship resistant proxy.
 net-proxy/juicity 0.5.0: juicity is a quic-based proxy protocol.
 net-proxy/mihomo 1.19.15: Another Clash Kernel, formerly Clash.Meta
 net-proxy/mihomo-party-bin 1.8.2: Mihomo Party
@@ -352,7 +352,7 @@ sys-apps/isd 0.6.1: isd (interactive systemd) — a better way to work with syst
 sys-apps/mdp 9999: A command-line based markdown presentation tool
 sys-apps/pacman 7.0.0: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20210509: Repository list for Archlinux's binary package manager
-sys-apps/pnpm 9.15.5 10.18.3: Fast, disk space efficient package manager
+sys-apps/pnpm 9.15.5 10.19.0: Fast, disk space efficient package manager
 sys-apps/wait-online 9999: Wait until we're connected to the Internet
 sys-boot/ventoy-bin 1.1.07: A new multiboot USB solution
 sys-fs/jmtpfs 0.5: A FUSE and libmtp based filesystem for accessing MTP devices.
