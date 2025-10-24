@@ -376,7 +376,7 @@ virtual/v2ray-domain-list-community 0: Virtual for v2ray-domain-list-community
 virtual/v2ray-geoip 0: Virtual for v2ray-geoip
 www-apps/cherry-studio-bin 1.6.5: Cherry Studio is a desktop client that supports for multiple LLM providers.
 www-apps/dufs 0.45.0: A distinctive utility file server
-www-apps/follow-bin 0.7.1: Next generation information browser
+www-apps/follow-bin 0.8.0: Next generation information browser
 www-client/brave-bin 1.83.120: Web browser that blocks ads and trackers by default
 www-servers/darkhttpd 1.17: A small, static webserver
 www-servers/miniserve 0.32.0: a CLI tool to serve files and dirs over HTTP
