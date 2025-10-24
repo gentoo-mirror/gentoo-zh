@@ -1,0 +1,14 @@
+BDEPEND=>=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
+DEFINED_PHASES=compile configure install test
+DEPEND=sys-libs/zlib media-libs/libjpeg-turbo media-libs/libpng media-libs/openjpeg:2 media-libs/tiff dev-libs/glib x11-libs/cairo x11-libs/gdk-pixbuf dev-libs/libxml2 dev-db/sqlite:3 media-libs/libdicom
+DESCRIPTION=A C library that provides a simple interface to read whole-slide images
+EAPI=8
+HOMEPAGE=https://openslide.org/ https://github.com/openslide/openslide
+INHERIT=meson
+KEYWORDS=~amd64 ~arm64 ~loong
+LICENSE=LGPL-2.1
+RDEPEND=sys-libs/zlib media-libs/libjpeg-turbo media-libs/libpng media-libs/openjpeg:2 media-libs/tiff dev-libs/glib x11-libs/cairo x11-libs/gdk-pixbuf dev-libs/libxml2 dev-db/sqlite:3 media-libs/libdicom
+SLOT=0
+SRC_URI=https://github.com/openslide/openslide/releases/download/v4.0.0/openslide-4.0.0.tar.xz
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	dbb8c4d794033ad7e7221eaf567a6c90	meson	99466844dd8d4fcfb07578a76f5a9922
+_md5_=9341b4b813568d6d5f5aa5f8736f2466
