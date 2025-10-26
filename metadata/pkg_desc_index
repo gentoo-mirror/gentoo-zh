@@ -115,7 +115,6 @@ dev-cpp/date 3.0.4: A date and time library based on the C++11/14/17 <chrono> he
 dev-cpp/nameof 0.10.4: Nameof operator for modern C++
 dev-cpp/reproc 14.2.5: A cross-platform (C99/C++11) process library
 dev-cpp/tgbot-cpp 1.9.1: C++ library for Telegram bot API
-dev-cpp/tl-expected 1.1.0: Guideline Support Library implementation by Microsoft
 dev-db/dbeaver-bin 25.2.3: Free universal database tool (community edition).
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
 dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your source code
