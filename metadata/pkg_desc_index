@@ -132,7 +132,7 @@ dev-libs/lunar-calendar 3.0.1: a gtk+ calendar widget for chinese lunar library
 dev-libs/lunar-date 3.0.1: Chinese Lunar Library
 dev-libs/qnodeeditor 2.1.7_p20210113: A general-purpose Qt-based library aimed at graph-controlled data processing.
 dev-libs/singleapplication 3.5.3: Replacement of QtSingleApplication support for inter-instance communication
-dev-libs/v2ray-domain-list-community 20250906011216: Community managed domain list for V2Ray.
+dev-libs/v2ray-domain-list-community 20251027071824: Community managed domain list for V2Ray.
 dev-libs/v2ray-domain-list-community-bin 20250906011216: Community managed domain list for V2Ray.
 dev-libs/v2ray-geoip 202507050144: GeoIP for V2Ray.
 dev-libs/v2ray-geoip-bin 202506050146: GeoIP for V2Ray.
