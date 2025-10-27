@@ -186,7 +186,7 @@ dev-util/patchelf-liblol 0.1.9: patchelf patched for building libLoL only
 dev-util/redpanda-cpp 3.1 3.3: A lightweight yet powerful C/C++/GNU Assembly IDE.
 dev-util/tailspin 5.5.0: A log file highlighter
 dev-util/vfox 0.9.1: A cross-platform version manager, extendable via plugins
-dev-util/vfox-bin 0.6.10: A cross-platform version manager, extendable via plugins
+dev-util/vfox-bin 0.9.1: A cross-platform version manager, extendable via plugins
 dev-util/zprint-bin 1.3.0: Clojure and Clojurescript source code formatter
 dev-vcs/gitoxide 0.46.0: A command-line application for interacting with git repositories
 dev-vcs/sourcegit-bin 2025.37: Opensource Git GUI client.
@@ -329,7 +329,7 @@ net-proxy/qvplugin-trojan 3.0.0: Plugin for Qv2ray to support Trojan proxy in Qv
 net-proxy/qvplugin-trojan-go 3.0.0: Plugin for Qv2ray to support Trojan-Go proxy in Qv2ray
 net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.5: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
-net-proxy/sing-box 1.11.15-r1 1.12.11 1.13.0_alpha25: The universal proxy platform.
+net-proxy/sing-box 1.11.15-r1 1.12.12 1.13.0_alpha25: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
 net-proxy/trojan-go-fork 2025.07.27: A fork of trojan-go
 net-proxy/v2ray 5.41.0: A platform for building proxies to bypass network restrictions.
