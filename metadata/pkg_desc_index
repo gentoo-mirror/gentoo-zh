@@ -117,7 +117,7 @@ dev-cpp/reproc 14.2.5: A cross-platform (C99/C++11) process library
 dev-cpp/tgbot-cpp 1.9.1: C++ library for Telegram bot API
 dev-db/dbeaver-bin 25.2.3: Free universal database tool (community edition).
 dev-debug/lldb-mi 0.0.1 9999: LLDB Machine Interface Driver
-dev-go/gotests 1.6.0: Automatically generate Go test boilerplate from your source code
+dev-go/gotests 1.8.0: Automatically generate Go test boilerplate from your source code
 dev-go/staticcheck 2025.1.1: Go static analysis, detecting bugs, performance issues, and much more
 dev-java/google-java-format 1.30.0: Reformats Java source code to comply with Google Java Style.
 dev-java/oraclejdk-bin 8.391 21.0.1: Oracle's Java SE Development Kit
