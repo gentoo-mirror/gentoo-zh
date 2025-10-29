@@ -192,7 +192,7 @@ dev-vcs/gitoxide 0.46.0: A command-line application for interacting with git rep
 dev-vcs/sourcegit-bin 2025.37: Opensource Git GUI client.
 games-action/vintagestory 1.19.8 1.20.12 1.21.0: Uncompromising wilderness survival sandbox game (requires paid account)
 games-arcade/osu-lazer-bin 2025.816.0 2025.912.0: A free-to-win rhythm game. Rhythm is just a click away!
-games-arcade/osu-lazer-tachyon-bin 2025.1025.1: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
+games-arcade/osu-lazer-tachyon-bin 2025.1029.0: A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
 games-emulation/conty 1.27.1 1.28 1.28.1 1.28.2: SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
 games-emulation/onscripter-yuri 0.7.6_beta2: An enhancement ONScripter project porting to many platforms, especially web
 games-fps/openarena 0.8.8 9999: A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
@@ -265,7 +265,7 @@ net-analyzer/nali 0.8.1 0.8.1_p20250221: An offline tool for querying IP geograp
 net-analyzer/pwru 1.0.9: eBPF-based Linux kernel networking debugger
 net-analyzer/pwru-bin 1.0.9: eBPF-based Linux kernel networking debugger
 net-analyzer/realitlscanner 0.2.1: A TLS server scanner for Reality
-net-dns/ddns-go 6.13.0: Automatically obtain your public IP address and set to your domain name service.
+net-dns/ddns-go 6.13.1: Automatically obtain your public IP address and set to your domain name service.
 net-dns/dnslookup 1.11.1: Simple command line utility to make DNS lookups to the specified server
 net-dns/dnsmasq-china-list 9999: Chinese-specific configuration to improve your favorite DNS server.
 net-dns/q 0.19.9-r1: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
