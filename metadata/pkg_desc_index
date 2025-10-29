@@ -81,7 +81,7 @@ app-misc/aichat 0.30.0: All-in-one LLM CLI Tool
 app-misc/bcompare 4.4.6.27483 4.4.7.28397: Beyond Compare -- Compare, sync, and merge files and folders
 app-misc/ccal 2.5.3: A simple command line calendar for Chinese lunar
 app-misc/copilot 0.0.327: The power of GitHub Copilot, now in your terminal
-app-misc/crush 0.13.0: The glamourous AI coding agent for your favourite terminal 💘
+app-misc/crush 0.13.4: The glamourous AI coding agent for your favourite terminal 💘
 app-misc/cursor-agent 2025.10.02: Cursor CLI - interact with AI agents directly from your terminal
 app-misc/go-yq-bin 4.48.1: yq is a portable command-line YAML, JSON and XML processor
 app-misc/gpick 0.2.6-r1 0.3: Advanced color picker written in C++ using GTK+ toolkit
