@@ -331,7 +331,7 @@ net-proxy/serenity 1.1.0_beta3: The configuration generator for sing-box
 net-proxy/shadowsocks-rust 1.23.5: shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sing-box 1.11.15-r1 1.12.12 1.13.0_alpha25: The universal proxy platform.
 net-proxy/smartproxy 0.9.5: A fast, proxy smart selector
-net-proxy/trojan-go-fork 2025.07.27: A fork of trojan-go
+net-proxy/trojan-go-fork 2025.07.27 2025.10.26: A fork of trojan-go
 net-proxy/tun2socks 2.6.0: tun2socks - powered by gVisor TCP/IP stack
 net-proxy/v2ray 5.41.0: A platform for building proxies to bypass network restrictions.
 net-proxy/v2ray-bin 4.45.0-r2 5.41.0: A platform for building proxies to bypass network restrictions
