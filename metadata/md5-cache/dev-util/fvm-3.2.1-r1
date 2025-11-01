@@ -1,12 +1,13 @@
-BDEPEND=dev-lang/dart
 DEFINED_PHASES=compile install
+DEPEND=dev-lang/dart
 DESCRIPTION=Flutter Version Management
 EAPI=8
 HOMEPAGE=https://github.com/leoafarias/fvm https://fvm.app
 INHERIT=wrapper
 KEYWORDS=~amd64
 LICENSE=MIT
+RDEPEND=dev-lang/dart
 SLOT=0
 SRC_URI=https://github.com/leoafarias/fvm/archive/refs/tags/3.2.1.tar.gz -> fvm-3.2.1.tar.gz https://minio.dream-universe.org/posts/distfiles/fvm-3.2.1-pubcache.tar.gz
 _eclasses_=wrapper	11a2a3bd712784986679b60a0cab34a0
-_md5_=b9dcbe455aac81531309fad4bbc2db0a
+_md5_=2d522dd13e8ea57e388572ec3421a060
